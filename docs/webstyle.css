@@ -1,11 +1,21 @@
 
 body {
-background-color: Black;
-color: white;
-font-family: arial, helvetica, sans-serif;
-text-align: center;
+    background-color: Black;
+    color: white;
+    font-family: arial, helvetica, sans-serif;
+    text-align: center;
 }
-ol {list-style-type: lower-alpha;
-padding: 5em;
-    
+ol {
+    list-style-type: lower-alpha;
+    padding: 5em;
+}
+footer {
+    padding: 2px;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: black;
+    text-align: center;
 }
