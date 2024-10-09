@@ -1,2 +1,5 @@
 para - paragraph
 pg - page
+lgt - light note
+cam - camera note
+dir - director comment
