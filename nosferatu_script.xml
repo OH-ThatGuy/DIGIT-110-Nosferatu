@@ -1,13 +1,18 @@
-<document>
-<text>115
-N O S F E R A T U
+<?xml-model href="nosferatu_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+<script>
+<head>
+<title>N O S F E R A T U</title>
 by
 Henrik Galeen
+<note>
 (F.W. Murnau's hand annotations and scenes additions and location markers are in Bold Print)
-ACT 1
+</note>
+</head>
+<act num="1">ACT 1</act>
     
-8 meters    location shot: Wismar
-Fade in.    Townscape
+<scene><annot>8 meters    location shot: Wismar</annot>
+<sn>Fade in.</sn>    <p>Townscape
 
     View over the roof's of a small old-fashioned
 
@@ -15,15 +20,15 @@ Fade in.    Townscape
 
     shines peacefully on pointed gables and
 
-    leafy squares.        
+    leafy squares.</p>        
 
-Fade out    Two shot, one from the church tower onto the town the
+<sn>Fade out</sn>    <p>Two shot, one from the church tower onto the town the
 
     other from the harbour over towards the town.
 
     1st: view of Lübeck.
 
-    Dissolve to harbour of Wismar
+    Dissolve to harbour of Wismar</p></scene>
 
 Scene 23    4 meters    2x
 
@@ -3914,28 +3919,5 @@ Close-up:   Her hand grasps his, the it lets go weakly and
      
 
       THE END
-   
-
-   
-
-   
-
-   
-
-   
-
-   
-
-   
-
-   
-
-   
-
-   
-
-   
-
-   
-</text>
-</document>
+</script>
+</root>
