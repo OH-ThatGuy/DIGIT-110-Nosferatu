@@ -1,2 +1,8 @@
-para - paragraph
 pg - page
+lgt - light note
+cam - camera note
+dir - director comment
+annot - annotation
+sn - sidenote
+p - paragraph
+head - header
