@@ -31,7 +31,7 @@ Henrik Galeen
     Dissolve to harbour of Wismar</p></scene>
 
 
-<scene>Scene 23    4 meters    2x
+<scene num="23">    4 meters    2x
 
 Fade-in
 
@@ -48,7 +48,7 @@ Outside a window   There are flowers in green window-boxes.  On the
     af ter it.
 
 </scene>
-<scene>Scene 34    Ellen's sitting room    7 meters    2x
+<scene num="34">    Ellen's sitting room    7 meters    2x
 
 Small neat kitchen   The morning sun casts the shadow of a window 
 
@@ -69,7 +69,7 @@ Playing with it she sits down on the window
     her big  child-like eyes a laughing.
 
 </scene>
-<scene>Scene 34a   20 meters    Hutter    white jabot    blue waist coat.
+<scene num="34a">   20 meters    Hutter    white jabot    blue waist coat.
 
 A small sitting room (attic)  Poor-looking and tidy. A bed, a chair in the
 
@@ -94,7 +94,7 @@ Shot from above. Hutter appears, gardening
     and makes a bouquet.
 
 </scene>
-<scene>Scene 5
+<scene num="5">
 The small kitchen   Ellen, still playing with the kitten, hears Hutter  
 
     coming and jumps up.
@@ -172,7 +172,7 @@ Title   Why have you killed them ...
 Fade-out   2x
    
 </scene>
-<scene>Scene 5a   10 meters Lauenburg
+<scene num="5a">   10 meters Lauenburg
 
 Fade in
 
@@ -209,7 +209,7 @@ Title:   Why so hasty , my young friend?  One
    regular rhythm of his walk.
 
 </scene>
-<scene>Scene 6   6 meters Caption:  Knock - a house agent
+<scene num="6">   6 meters Caption:  Knock - a house agent
 
 Fade-in
 
@@ -244,7 +244,7 @@ Med. Close-up  Knock seems to be able to make sense of the strange letter,
    he turns and opens the door.
 
 </scene>
-<scene>Scene 7   5 meters
+<scene num="7">   5 meters
 
 Small room ad-
 
@@ -257,7 +257,7 @@ joining the office  Very narrow and dark, totally without sun. Hutter,
    
 Another clerk is present
 </scene>
-<scene>Scene 8   30 meters
+<scene num="8">   30 meters
 
 The dusty and
 
@@ -325,7 +325,7 @@ Long shot  For a moment Knock is lost in thought, then he
    has an idea.  He limps over to the window.
 
 </scene>
-<scene>Scene 9   4 meters    Window fr ame, take in Knock
+<scene num="9">   4 meters    Window fr ame, take in Knock
   
 Section of window View down the street
 
@@ -338,7 +338,7 @@ Section of window View down the street
    
 Daytime - Sun
 </scene>
-<scene>Scene 10  15 meters
+<scene num="10">  15 meters
 
 The dusty and 
 
@@ -361,7 +361,7 @@ Fade-out
    
 18 meters     2x   As in scene 8
 </scene>
-<scene>Scene 11   Ellen is sitting by the window.  Now she can see him
+<scene num="11">   Ellen is sitting by the window.  Now she can see him
 
 Room in  Hutter's  coming.  She waves to him.  Her face lights up with joy.
 
@@ -388,7 +388,7 @@ Title   I shall go on a journey far far away
 Fade-out
 
 </scene>
-<scene>Scene 12   15 meters    Frau Schroeder without shawl    saddlebags
+<scene num="12">   15 meters    Frau Schroeder without shawl    saddlebags
 
 The attic room
 
@@ -416,7 +416,7 @@ Fade-in   Hutter is packing his little travelling bag.
 
    leaves the room with her.
 
-Fade out Scene 13 15 meters
+Fade out </scene><scene num="13"> 15 meters
 
 (Lord)Harding's park Hutter, all ready for the journey, takes his leave
 
@@ -453,7 +453,7 @@ Title   Farewell!  There is no escape left.
    Ellen is staring vacantly into the distance. 
 
 </scene>
-<scene>Scene 14   A number of healthy-looking people are walking
+<scene num="14">   A number of healthy-looking people are walking
 
 Square with fountain about in the sunshine. Tied to the fountain a lonely
 
@@ -464,7 +464,7 @@ Square with fountain about in the sunshine. Tied to the fountain a lonely
 Fade out   
 
 </scene>
-<scene>Scene 15   9 meters Schlesische Hutte
+<scene num="15">   9 meters Schlesische Hutte
 
 Title   The Carpathian Mountains
 
@@ -473,7 +473,7 @@ Title   The Carpathian Mountains
 Fade-out   
 Evening
 </scene>
-<scene>Scene 16   10 meters
+<scene num="16">   10 meters
 
 Long shot  
 
@@ -510,7 +510,7 @@ Shot of coach  The horses are now unharnessed, the coach is
    being pushed into the coach house. Night is falling.
 
 </scene>
-<scene>Scene 17   8 meters    servant:  Frau Kurz
+<scene num="17">   8 meters    servant:  Frau Kurz
 
 Inside the Inn.  A large smoky room with an enormous tiled stove. 
 
@@ -553,7 +553,7 @@ Long shot  Hutter looks around in embarrassment, then takes up his
    glass resolutely and downs it in one gulp.
 
 </scene>
-<scene>Scene 18   4 meters    Walddorfsenke
+<scene num="18">   4 meters    Walddorfsenke
 
 A grassy slope behind the The ground falls away towards the back. Night mists are
 
@@ -564,7 +564,7 @@ inn   creeping up from the valley.  The horses are put out here
    and, scattering, gallop away.
 
 </scene>
-<scene>Scene 19   
+<scene num="19">   
 
 Inside the inn
 Shot of window:  The passengers, seen from behind are standing by the win-
@@ -593,7 +593,7 @@ Hyena
 19b   Horses, panicking
 
 </scene>
-<scene>Scene 20   6 meters
+<scene num="20">   6 meters
 
 A room at the inn. A tiny white-washed room with sharp angles: a flickering 
 
@@ -608,10 +608,10 @@ A room at the inn. A tiny white-washed room with sharp angles: a flickering
    and looks into the starless night.
 
 </scene>
-<scene>Scene 21   (missing from script)
+<scene num="21">   (missing from script)
 
 </scene>
-<scene>Scene 22   5 meters
+<scene num="22">   5 meters
 
 Inside the inn  The pale passengers, now without Hutter in the enormous
 
@@ -622,7 +622,7 @@ Inside the inn  The pale passengers, now without Hutter in the enormous
    themselves in terror!
 
 </scene>
-<scene>Scene 23   20 meters
+<scene num="23">   20 meters
 
 The tiny white-washed In the light of the candle Hutter, shivering, closes the win-
 
@@ -667,7 +667,7 @@ Hutter, shaking his head, continues reading
 Fade-out
 
 </scene>
-<scene>Scene 24   12 meters
+<scene num="24">   12 meters
 
 Fade-in   
 
@@ -692,7 +692,7 @@ Normal shot:  spits on the floor in contempt of the confused rubbish
    takes a deep breath of the morning air.
 
 </scene>
-<scene>Scene 25   6 meters    Walddorf
+<scene num="25">   6 meters    Walddorf
    The grassy slope in the morning light. Coachmen and grooms
 
    are rounding up the horses with long whips and lots of shout-
@@ -700,7 +700,7 @@ Normal shot:  spits on the floor in contempt of the confused rubbish
    ing.
 
 </scene>
-<scene>Scene 26   5 meters
+<scene num="26">   5 meters
 The small room  Hutter steps back from the window. His eyes are laughing, as
 
    he turns round. He stretches himself happily; then he takes 
@@ -710,7 +710,7 @@ The small room  Hutter steps back from the window. His eyes are laughing, as
    body. He has a proper wash.
 
 </scene>
-<scene>Scene 27
+<scene num="27">
    Dolny Kubin
 In the yard  The old servant, mother to all animals, throws corn to her
 
@@ -719,7 +719,7 @@ In the yard  The old servant, mother to all animals, throws corn to her
    sunlight.
 
 </scene>
-<scene>Scene 28   10 meters
+<scene num="28">   10 meters
 Outside the Inn  The bustle of departure. The horses are in harness. The
 
    passengers have got into the coach. Now, in the morning
@@ -757,7 +757,7 @@ Shot of coach  He climbs to his seat on the coach-box, the horses
    start moving.
 
 </scene>
-<scene>Scene 29
+<scene num="29">
 Outside the inn  The Huzules take off their hats. The children are waving.
 
    The old servant has joined them. God bless the travellers. 
@@ -771,7 +771,7 @@ Medium close-up  Hutter breaks into loud laughter.
 Fade-out
 
 </scene>
-<scene>Scene 30   12 meters Westerheim
+<scene num="30">   12 meters Westerheim
 A Mountain range
 
 Long-range shot  In the distance a steep path cutting through the wild
@@ -779,7 +779,7 @@ Long-range shot  In the distance a steep path cutting through the wild
    scenery, on it the mail coach creeping slowly upwards.
 
 </scene>
-<scene>Scene 31 
+<scene num="31"> 
   10 meters    road to the Schlesische Hütte
 The mail coach
 
@@ -798,7 +798,7 @@ The sun is setting  Next to her another old woman, identical looking
    to look in the same direction: two identical faces.
 
 </scene>
-<scene>Scene 32   4 meters   View from Schlesische Hütte
+<scene num="32">   4 meters   View from Schlesische Hütte
 
 The rocky gorge  Wisps of mist are rising and falling in the last 
 
@@ -807,7 +807,7 @@ The rocky gorge  Wisps of mist are rising and falling in the last
 Fade-out
 
 </scene>
-<scene>Scene 33   10 meters    Close to Arler Hütte
+<scene num="33">   10 meters    Close to Arler Hütte
 
 Title   At the crossroad
  
@@ -839,11 +839,8 @@ Title   At the crossroad
 
 33a   Hutter walking past the carved madonna
 
-   
-
- 124
 </scene>
-<scene>Scene 34   8 meters    Vratna Pass
+<scene num="34">   8 meters    Vratna Pass
 
 Distant mountains View through the cut made into the rock by the road 
 
@@ -864,7 +861,7 @@ Distant mountains View through the cut made into the rock by the road
 boulders
 
 </scene>
-<scene>Scene 35   4 meters    Near Schlesische Hütte
+<scene num="35">   4 meters    Near Schlesische Hütte
 
 At the crossroad
 
@@ -883,7 +880,7 @@ Angle as in Scene 33 Mortally fightened, the coachman beats the horses. The
 Fade-out
 
 </scene>
-<scene>Scene 36   Vratna Pass
+<scene num="36">   Vratna Pass
 
 Fade-in
 
@@ -926,7 +923,7 @@ forest.   The trees are castling long shadows on the forest
    dashes off a disappears.   
 
 </scene>
-<scene>Scene 37
+<scene num="37">
    5 meters    At the Vratna Pass, behind Tyer Hora
 A fairy-t ale forest  Empty. By the roadside a wise, man-sized raven.
 
@@ -946,7 +943,7 @@ The raven
    
 Coach drives at top speed through a white forest
 </scene>
-<scene>Scene 38
+<scene num="38">
    5 meters
 Long shot of a snake-
 
@@ -962,9 +959,8 @@ like bend.  Valley. Deserted lane. Only a lonely twisted will-tree
 
    Drives over stone bridge across deep gorge
 
- 125
 </scene>
-<scene>Scene 39 
+<scene num="39"> 
   15  meters    Poczamok
 Count Orlock's castle
 
@@ -1011,7 +1007,7 @@ Medium close-up  The porch. The carriage stops in front of it. Al
     </scene><title>End of Act 1</title></act>
 <act><title>Act II
 </title>
-<scene>Scene 40
+<scene num="40">
 
 Hall.
 Medium close-up  In the center Orlok, the candle in his hand. The
@@ -1049,7 +1045,7 @@ Title   The servants are asleep
    and walks ahead. Hutter follows.
 
 </scene>
-<scene>Scene 41
+<scene num="41">
 
 Gallery of ancestor's
 
@@ -1070,7 +1066,7 @@ Long shot panorama He follows them with his eyes.  They walk close to the
    wall where portrait follows portrait.
 
 </scene>
-<scene>Scene 42   25 meters
+<scene num="42">   25 meters
 
 Dining room.  Gigantic dimensions. In the center a massive Renaissance 
 
@@ -1171,7 +1167,7 @@ Title   Shall we stay up together
    massive chair.
 
 </scene>
-<scene>Scene 43   18 meters
+<scene num="43">   18 meters
 Fade-in
 
 The same hall  Hutter wakes up in the large armchair near the
@@ -1225,7 +1221,7 @@ Normal:   He is overjoyed. He rushes over to the table and begins
    to eat as if he were starved.
 
 </scene>
-<scene>Scene 44   22 meters    Poczamok
+<scene num="44">   22 meters    Poczamok
 
 The dilapidated terrace Still eating, Hutter steps out into the sunlight. He looks
 
@@ -1256,7 +1252,7 @@ Close-up:   Part of the letter:...the mosquitoes are a real pest. I have
 Long shot:  Hutter keeps writing
 
 </scene>
-<scene>Scene 45   14 meters    Poczamok
+<scene num="45">   14 meters    Poczamok
 
 Forest near the castle A man on horseback is approaching. He stops occasionally
 
@@ -1269,7 +1265,7 @@ Outside the porch: Hutter stands there, waving with the letter. The rider comes
    The he dashes off at a gallop showing signs of great fear.
 
 </scene>
-<scene>Scene 46   15    meters
+<scene num="46">   15    meters
 
 Fade-in.
 
@@ -1338,7 +1334,7 @@ Hutter takes his bag with him
 Fade- out:  
 
 </scene>
-<scene>Scene 47   15 meters
+<scene num="47">   15 meters
 
 Fade-in:   
 Candle is burning
@@ -1383,7 +1379,7 @@ Normal   Hutter shuts the book. A horrible thought has
    jumps up, first running, the sneaking to the door.
 
 </scene>
-<scene>Scene 48   4 meters
+<scene num="48">   4 meters
 Dining hall
 
 View from door deep 
@@ -1399,7 +1395,7 @@ Medium close-up  He looks at Hutter with a fixed glaze.
    
 
 </scene>
-<scene>Scene 49
+<scene num="49">
    6 meters
 The small room.
 
@@ -1416,13 +1412,13 @@ Shot of door:  Hutter. He supports himself against the doorpost. A ter-
 Medium close-up:  Window. Hutter rushes up and flings it open.
 
 </scene>
-<scene>Scene 50   3 meters    Tegeler Forest
+<scene num="50">   3 meters    Tegeler Forest
    Night. Undergrowth. A pack of wolves, raising their heads
 
    howling.
 
 </scene>
-<scene>Scene 51 
+<scene num="51"> 
   8 meters
 The small room
 
@@ -1447,7 +1443,7 @@ Long shot:  Hutter. Terrified, he covers his eyes with his arms, pulls at
 Fade out.
 
 </scene>
-<scene>Scene 52  
+<scene num="52">  
 6 meters
 Title   The same night
 
@@ -1462,14 +1458,14 @@ the Hardings  She wakes up suddenly. She has been dreaming. As if she
    out on  to the balcony.
 
 </scene>
-<scene>Scene 53   
+<scene num="53">   
 6 meters
 Harding's study  Night. Harding is sitting at his desk. He hears a noise
 
    Rushes out.
 
 </scene>
-<scene>Scene 54   
+<scene num="54">   
 
 Ellen's bedroom
 
@@ -1494,7 +1490,7 @@ Title   Ellen!
    vant disappears.
 
 </scene>
-<scene>Scene 55  
+<scene num="55">  
 6 meters
 Fade-in.
 
@@ -1511,7 +1507,7 @@ Long Shot  Hutter in bed, tense and doubled up. Slowly,
 Fade-out.
 
 </scene>
-<scene>Scene 56  
+<scene num="56">  
 7 meters
 Fade in.
 
@@ -1534,7 +1530,7 @@ Long shot:  Ellen in bed ...in delirium. Anny is kneeling by her
    of the bed.
 
 </scene>
-<scene>Scene 57  
+<scene num="57">  
 8 meters
 The small castle room Night
 
@@ -1550,7 +1546,7 @@ Long shot  NOSTERATU moves away from Hutter's bed.
    He dissolves into the air! 
 leaves the room
 </scene>
-<scene>Scene 58  
+<scene num="58">  
 8 meters
 Ellen's bedroom  Ellen is calming down slowly. Her terror turns 
 
@@ -1575,7 +1571,7 @@ Title:   Normal congestion of the blood. . .
 Fade-out.
 
 </scene>
-<scene>Scene 59  
+<scene num="59">  
 3 meters   Poczamok
    Behind a pointed gable of the castle the sun is
 
@@ -1584,7 +1580,7 @@ Fade-out.
 Fade-out.
 
 </scene>
-<scene>Scene 60  
+<scene num="60">  
 7 meters
 Fade-in.
 
@@ -1599,16 +1595,16 @@ The small castle room  The light of dawn is falling through the window
    Suddenly he wakes up 
 
 </scene>
-<scene>Scene 60 continued
+<scene num="60 continued">
 
    He starts up and clutches his throat. He jumps out of bed,
 
-   clenching his f ists, runs over. To the door. Carefully ...he
+   clenching his fists, runs over. To the door. Carefully ...he
 
    looks out
 
 </scene>
-<scene>Scene 61   
+<scene num="61">   
 6 meters
 Dining hall  Daytime.
 
@@ -1619,7 +1615,7 @@ Dining hall  Daytime.
    clenched with wild determination, he drags himself forward.
 
 </scene>
-<scene>Scene 62   
+<scene num="62">   
 6 meters
 Portrait gallery with 
 
@@ -1634,7 +1630,7 @@ flight of stairs  Hutter is dragging himself along with difficulty. He goes
 exterior
 
 </scene>
-<scene>Scene 63  
+<scene num="63">  
 15 meters
 A vault   Empty and dark.
 
@@ -1657,7 +1653,7 @@ A vault   Empty and dark.
 Fade-out.
 
 </scene>
-<scene>Scene 64  
+<scene num="64">  
 3 meters    Poczamok   Vratna Pass   Tatra
 Fade in.
 
@@ -1666,7 +1662,7 @@ Sunset.   Between a line of bizarre tree-trunks evening approaches
    like a ghost...
 
 </scene>
-<scene>Scene 65  
+<scene num="65">  
 6 meters
 Fade-in.
 
@@ -1684,7 +1680,7 @@ The small castle room
    he drags his weakened body over to the window.
 
 </scene>
-<scene>Scene 66  Window frame for out-door shot
+<scene num="66">  Window frame for out-door shot
 
    
 3 meters    Poczamok
@@ -1697,7 +1693,7 @@ seen from outside  Hutter stares from a window.
    
 The crossbar of a window
 </scene>
-<scene>Scene 67  [
+<scene num="67">  [
 12] meters 6 meters Poczamok
    One can see a low-wheeled cart with the two fantastic horses
 
@@ -1718,12 +1714,12 @@ The crossbar of a window
    
 
 </scene>
-<scene>Scene 68  
+<scene num="68">  
 3 meters Poczamok
 Part of the castle wall Hutter, staring at the phantom with glazed eyes.
 
 </scene>
-<scene>Scene 69  
+<scene num="69">  
 6 meters Poczamok
 Castle yard  The carriage is now loaded. Suddenly the phan-
 
@@ -1736,7 +1732,7 @@ Castle yard  The carriage is now loaded. Suddenly the phan-
    closes behind them with a bang.
 
 </scene>
-<scene>Scene 70  
+<scene num="70">  
 8 meters
 The small castle room Hutter jumps back from the window.
 
@@ -1758,7 +1754,7 @@ up the bedclothes
 Fade-out.
 
 </scene>
-<scene>Scene 71  
+<scene num="71">  
 10 meters Poczamok
 The abyss  Hutter dangling from a window in the castle walls
 
@@ -1779,7 +1775,7 @@ Medium close-up.  So he hurls himself down. Hutter is lying at the
    Then he faints.
 
 </scene>
-<scene>Scene 72  
+<scene num="72">  
 10 meters
 Fade-in.
 
@@ -1811,7 +1807,7 @@ Fade-out.
 </scene><title>End of Act I</title></act>
 <act><title>Act III
 </title>
-<scene>Scene 73   
+<scene num="73">   
 12 meters
 Title   A Budapest hospital
 
@@ -1864,7 +1860,7 @@ Medium close-up:  Doctor and nurse look at each other without
 Fade-out.
 
 </scene>
-<scene>Scene 74  
+<scene num="74">  
 18 meters
 Fade-in.
 
@@ -1924,7 +1920,7 @@ hand pulley
    the baroque figure head; DEMETER
 
 </scene>
-<scene>Scene 75  
+<scene num="75">  
 12 meters
 Title   Professor Bulwer, a Paracelsian, explains
 
@@ -1965,7 +1961,7 @@ Title:   The patient who came in
    yesterday has had an attack.
 
 </scene>
-<scene>Scene 77   
+<scene num="77">   
 12 meters
 Lunatic's cell  Sievers and the attendant stop short at the door
 
@@ -2016,7 +2012,7 @@ Title:   Blood is life! Blood is life!!!
    the raging man's head.
 
 </scene>
-<scene>Scene 78  
+<scene num="78">  
 8 meters
 The Institute:  Bulwer, in a quiet, scholarly manner with his students. He 
 
@@ -2037,7 +2033,7 @@ Title:   And this one . . .a polyp with tentacles . . .
    almost a phantom . . .
  
 </scene>
-<scene>Scene 79  
+<scene num="79">  
 8 meters
 Lunatic's cell.
 
@@ -2062,7 +2058,7 @@ Normal:   Knock in exultation.
 Fade-out.
 
 </scene>
-<scene>Scene 80  
+<scene num="80">  
 4 meters
 Fade in.  
 
@@ -2093,7 +2089,7 @@ Medium close-up:  A bench, somewhat apart from the others. Ellen is
    because tears are welling up.
 
 </scene>
-<scene>Scene 81  
+<scene num="81">  
 4 meters    Croquet?
 In Harding's Park  Harding, youthful and athletic, is batting. The shuttlecock
 
@@ -2106,7 +2102,7 @@ In Harding's Park  Harding, youthful and athletic, is batting. The shuttlecock
    and light.
 
 </scene>
-<scene>Scene 82   
+<scene num="82">   
 6 meters
 At the park gates.   The postman, a small old man, rummages
 
@@ -2131,7 +2127,7 @@ At the park gates.   The postman, a small old man, rummages
     old servant takes it in.
 
 </scene>
-<scene>Scene 83   
+<scene num="83">   
 6 meters
 In the park   As the servant approaches. Harding 
 
@@ -2150,7 +2146,7 @@ In the park   As the servant approaches. Harding
     and walk off.
 
 </scene>
-<scene>Scene 84   
+<scene num="84">   
 3 meters
    
 At the graveyard
@@ -2162,7 +2158,7 @@ Medium close-up:   Ellen is still sitting there, looking over
     thoughts.
 
 </scene>
-<scene>Scene 85   
+<scene num="85">   
 3 meters    Heligoland
 The sea    Distant view over the sea. A sand bank 
 
@@ -2171,7 +2167,7 @@ The sea    Distant view over the sea. A sand bank
     surf waters.
 
 </scene>
-<scene>Scene 86   
+<scene num="86">   
 12 meters
 At the graveyard.   Harding and Anny are approaching.
 
@@ -2218,7 +2214,7 @@ Normal:   Ellen's face is distorted as if she were suffering  physical
    pain. Harding and Anny are perplexed.
 
 </scene>
-<scene>Scene 87
+<scene num="87">
 
 Title:   GALAZ
 
@@ -2235,7 +2231,7 @@ at night.   The 'Demeter' is anchored off the jetty. Nobody is about
 Fade-out:  
 The coffins are reloaded
 </scene>
-<scene>Scene 88  
+<scene num="88">  
 10 meters
 The hospital at Budapest Hutter, dressed, stands in front of his bed. He looks pale 
 
@@ -2258,7 +2254,7 @@ Title:   I have to get home by
    her for her care and goes out quickly.
 
 </scene>
-<scene>Scene 89
+<scene num="89">
 Title:   Constantinople
 
 The port.  Night. Wild dogs are barking from the debris in the street 
@@ -2274,7 +2270,7 @@ Focus on quay:  The "Demeter" at anchor. What's scuttling over there? . . .
    with them.
 
 </scene>
-<scene>Scene 90  
+<scene num="90">  
 8 meters    Polnischer Kamm    Non-stop rain
    Entry to the Vratna Gorge
 
@@ -2311,7 +2307,7 @@ Hutter leads a limping horse through
  
 
 </scene>
-<scene>Scene 91   
+<scene num="91">   
 
 Fade-in:
 
@@ -2324,7 +2320,7 @@ Long shot.   In a fresh breeze, the "Demeter" emerges from
     sea.
 
 </scene>
-<scene>Scene 92    
+<scene num="92">    
 15 meters
 Lunatic's cell   In a stupor, Knock is perching on his bunk. The
 
@@ -2387,7 +2383,7 @@ Medium close-up:   Knock's mocking, triumphant face assumes an
     greeting the evil.
 
 </scene>
-<scene>Scene 93   
+<scene num="93">   
 8 meters    North Sea
 Title:    Open Sea
 
@@ -2406,7 +2402,7 @@ Dissolve. Medium close-up  The ship's deck
     to the captain's cabin.
 
 </scene>
-<scene>Scene 94   
+<scene num="94">   
 8 meters
 In the captain's cabin The captain of the 'Demeter' bent over maps, making en-
 
@@ -2423,7 +2419,7 @@ Title:   Below deck a sailor has fallen ill.
    low the mate.
 
 </scene>
-<scene>Scene 95   
+<scene num="95">   
 12 meters
 Below deck.  In the background the ship's hold. Among other cargo in
 
@@ -2474,7 +2470,7 @@ ing into the hold.  There, horrible and awe-inspiring, stands NOSFERATU
 Fade out
 
 </scene>
-<scene>Scene 96  
+<scene num="96">  
 10 meters  Hornunger Moor    Lünebur ger Heide
 Wild and desolate scenery In the distance a galloping horseman on the plain. He
 
@@ -2493,7 +2489,7 @@ Medium close-up:  Hutter, standing near his horse and examining its injured
    the reins and walks on, dragging the limping animal after him.     
 
 </scene>
-<scene>Scene 97   
+<scene num="97">   
 12 meters
 Title:   The gulf of Biscay
 
@@ -2532,7 +2528,7 @@ Title:   I'm going down!!!
    companion-way.
 
 </scene>
-<scene>Scene 98   
+<scene num="98">   
 12 meters
 Below deck.  There are the black boxes. They are the man's target. He 
 
@@ -2567,7 +2563,7 @@ Long shot:  The axe falls from his hand. His hair is standing on end.
    Slowly and steadily, NOSFERATU is approaching.
 
 </scene>
-<scene>Scene 99   
+<scene num="99">   
 8 meters
 Fade-in.
 
@@ -2593,7 +2589,7 @@ Fade out.
 </scene><title>End of Act I</title></act>
 <act><title>ACT IV
 </title>
-<scene>Scene 100  
+<scene num="100">  
 5 meters    Heligoland
 Fade-in.
 
@@ -2606,7 +2602,7 @@ A cliff by the coast Night, roaring surf.
    
 Moving coach
 </scene>
-<scene>Scene 101  
+<scene num="101">  
 5 meters
 Anny's room.  Night. Anny is asleep.
 
@@ -2641,7 +2637,7 @@ Waves
    Boat
 
 </scene>
-<scene>Scene 102  
+<scene num="102">  
 3 meters
 Ellen's room at the
 
@@ -2652,7 +2648,7 @@ Hardings  The storm is sweeping through the open window. The bed
    happened, - rushes out.
 
 </scene>
-<scene>Scene 103  
+<scene num="103">  
 4 meters
 Roof of Harding's
 
@@ -2663,10 +2659,10 @@ mansion   Ellen, her clothes fluttering in the wind, her hair like a flag,
    vely. A white figure against the black night sky.
 
 </scene>
-<scene>Scene 104  XXXXXXXXXX
+<scene num="104">  XXXXXXXXXX
 
 </scene>
-<scene>Scene 105  
+<scene num="105">  
 6 meters    Contre jour   North Sea
    High Sea.
 
@@ -2683,7 +2679,7 @@ Trick
 are missing)
 
 </scene>
-<scene>Scene 108  
+<scene num="108">  
 6 meters
 View across the town 
 
@@ -2693,10 +2689,10 @@ at night   The storm is tossing the trees.
 Sailing boat moving towards it objective
 .
 </scene>
-<scene>Scene 109 is missing
+<scene num="109"> is missing
 
 </scene>
-<scene>Scene 110  
+<scene num="110">  
 12 meters    Wismar
 Sea   The storm rages violently. The sand bank threatens
 
@@ -2739,7 +2735,7 @@ View from the sea towards the harbor.
    Room]
 
 </scene>
-<scene>Scene 111  
+<scene num="111">  
 4 meters
 Roof Balcony of
 
@@ -2752,7 +2748,7 @@ Harding's mansion Ellen in Anny's arm. Her hair is fluttering in the wind.
 Title:   I must go home. He is coming.
 
 </scene>
-<scene>Scene 112  
+<scene num="112">  
 
 At the graveyard
 
@@ -2769,7 +2765,7 @@ View through archway : the sailing boat is moving
    past.        Weimar
 
 </scene>
-<scene>Scene 113  
+<scene num="113">  
 4 meters
 Lunatic's cell
 
@@ -2782,7 +2778,7 @@ Medium close-up:  Knock pulls himself up by the bars, trying to look out.
    The wind, blowing in, makes his hair stand on end uncannily.
 
 </scene>
-<scene>Scene 113a  
+<scene num="113a">  
 10 meters
 The stranded ship  Dead and forsaken. a rope is dangling from the deck. It is
 
@@ -2813,7 +2809,7 @@ Shot of deck.  The hatch. It opens slowly. NOSFERATU climbs out. He
    
 
 </scene>
-<scene>Scene 114  
+<scene num="114">  
 8 meters    Lauenburg or Travemünde
 Town center.  Trees, shaken by storm. A carriage races up, stops abruptly.
 
@@ -2826,14 +2822,14 @@ Medium close-up:  Hutter jumps from the carriage.
    Hutter cannot wait. He leaves the carriage and runs of f.
 
 </scene>
-<scene>Scene 115  
+<scene num="115">  
 5 meters
 Archway with a view of
 
 the harbor:  
 Nosferatu enters the town
 </scene>
-<scene>Scene 116  
+<scene num="116">  
 6 meters
 The roof of Harding's
 
@@ -2854,7 +2850,7 @@ Title:   I must go to him. He is coming!!
    Anny wrings her hands in despair.
 
 </scene>
-<scene>Scene 117  
+<scene num="117">  
 4 meters 
    
    Storm-tossed trees. A white figure comes out of the house. 
@@ -2868,7 +2864,7 @@ perhaps Lüneberg Street
 118a   Hutter, running along the street. 
 
 </scene>
-<scene>Scene 119  
+<scene num="119">  
 8 meters
 Lunatic's cell
 
@@ -2901,7 +2897,7 @@ Long shot:  Suddenly, he listens attentively.
    
 for a moment only, then he lets go and sneaks out.
 </scene>
-<scene>Scene 120  
+<scene num="120">  
 5 meters
 In front of Hutter's house Hutter comes running up. He looks up: no light. He is just
 
@@ -2910,7 +2906,7 @@ In front of Hutter's house Hutter comes running up. He looks up: no light. He is
    Ellen!!!!! They fall into each other's arms.
 
 </scene>
-<scene>Scene 121  Square with fountain    5 meters
+<scene num="121">  Square with fountain    5 meters
 
    Nosferatu, cof˚n under his arm, is standing in the
 
@@ -2919,7 +2915,7 @@ In front of Hutter's house Hutter comes running up. He looks up: no light. He is
    himself. Then he strides on.
 
 </scene>
-<scene>Scene 122  
+<scene num="122">  
 4 meters    2x
 Hutter's parlour  Ellen's sitting room
 
@@ -2930,14 +2926,14 @@ Hutter's parlour  Ellen's sitting room
    Overpowered by emotion, he sinks down on her arm.
 
 </scene>
-<scene>Scene 123  
+<scene num="123">  
 4 meters
 In front of Hutter's
 
 house   
 Nosferatu, staring up
 </scene>
-<scene>Scene 124  
+<scene num="124">  
 6 meters
   
 Fade-in.   Hutter and Ellen, on the chaise lounge. He sits up, looking 
@@ -2982,7 +2978,7 @@ Then he goes into the house.
 Fade-out.
 
 </scene>
-<scene>Scene 126  
+<scene num="126">  
 12 meters
 On the stranded ship The captain, collapsed in death, is tied to the helm. In the
 
@@ -3003,7 +2999,7 @@ Close-up:  The dead captain. Tied to the helm in discharge of his duty!
 Close-up:  Harding. He cannot comprehend the horror . . .
 
 </scene>
-<scene>Scene 127  
+<scene num="127">  
 6 meters
 Sandbank harbor  The stranded ship is in sight. It is night-time
 
@@ -3024,7 +3020,7 @@ Title:   Everything has been examined . .
    The captain receives the report . . .  jots down some notes.
 
 </scene>
-<scene>Scene 128  
+<scene num="128">  
 10 meters   [Is inserted below]
 On board ship.  Night
 
@@ -3061,7 +3057,7 @@ On deck. Harding emerges from the cabin
 Fade-out.
 
 </scene>
-<scene>Scene 129  
+<scene num="129">  
 15 meters
 Fade-in:   
 Daytime
@@ -3122,7 +3118,6 @@ Normal shot:  Harding has been reading this aloud.
 
    ger of plague, he calls out.
 
- 147
 Title:   Danger of plague!
 
    Go home!
@@ -3140,7 +3135,7 @@ Fade-out.
    
 (Perhaps end of act)
 </scene>
-<scene>Scene 130  
+<scene num="130">  
 15 meters
 Fade-in
 
@@ -3177,7 +3172,7 @@ Medium close-up:  The drummer has produced a piece of paper and reads
     </scene><title>End of Act I</title></act>
 <act><title>Act V
 </title>
-<scene>Scene 131   
+<scene num="131">   
 15 meters
 Fade in.
 
@@ -3204,7 +3199,7 @@ Panning shot:   The first house in the side-street. A coffin is being
     on, following his horrible business.
 
 </scene>
-<scene>Scene 132   
+<scene num="132">   
 15 meters    2x    shaded candle on table 
     near armchair
 .
@@ -3253,7 +3248,7 @@ Her body is tensed up like a bow trembling
     with excitement.
 
 </scene>
-<scene>Scene 133   3 meters
+<scene num="133">   3 meters
 
 The deserted house  Seen through Ellen's window frame.
 
@@ -3278,7 +3273,7 @@ Medium close-up:   A window, divided into four rectangular panes.
     the waxen face with ratlike teeth.  
 
 </scene>
-<scene>Scene 134   
+<scene num="134">   
 8 meters 2x
 Ellen's bedroom.   Ellen holds frantically on to Hutter's hand [shaken]
 
@@ -3305,7 +3300,7 @@ Medium close-up:   Hutter, despairingly, presses his fist against his face.
 Fade-out.
 
 </scene>
-<scene>Scene 135   6 meters
+<scene num="135">   6 meters
 
 In front of Hutter's house  It is now evening. The lamp-lighter comes down 
 
@@ -3316,7 +3311,7 @@ In front of Hutter's house  It is now evening. The lamp-lighter comes down
     
 ! remains!
 </scene>
-<scene>Scene 136   
+<scene num="136">   
 10 meters
 Fade-in:
 
@@ -3363,7 +3358,7 @@ Medium close-up:   Anny's body hits the wall. She jumps up and pulls
     into the background.
 
 </scene>
-<scene>Scene 137
+<scene num="137">
 Anny's bedroom.
 
 Long shot:   Night. Servants running to and fro in the direc-
@@ -3382,8 +3377,8 @@ Long shot:   Night. Servants running to and fro in the direc-
 137b   Servant's room. A servant asleep doesn't hear, turns
 
    over in his sleep
-
-138   
+</scene>
+<scene num="138">   
 3 meters
 Anny's 
 Bedroom
@@ -3412,7 +3407,7 @@ the door
 Fade-out.
 
 </scene>
-<scene>Scene 139  
+<scene num="139">  
 3 meters
 Fade-in.
 
@@ -3423,7 +3418,7 @@ Ellen's bedroom  Daytime. Ellen by the window . . .looking out. She stands
    scene of wretchedness.
 
 </scene>
-<scene>Scene 140  
+<scene num="140">  
 8 meters
 Street in front of
 
@@ -3440,7 +3435,7 @@ Hutter's's house  Ascending. In the distance, a strange procession is wandering
    and lifts up his hands to heaven in misery.
 
 </scene>
-<scene>Scene 141  
+<scene num="141">  
 with window -frame    Ellen
 Ellen's room.   Ellen, on the point of fainting, turns away from the window
 
@@ -3473,7 +3468,7 @@ Close-up:  Ellen lifts up her head, staring into space like a visionary.
 Fade out.
 
 </scene>
-<scene>Scene 142   
+<scene num="142">   
 3 meters 
  
 Fade-in.
@@ -3498,7 +3493,7 @@ Medium close-up:   The porch. Harding - haggard - a broken man,
 Fade-out.   
 Harding: black cape, dark trousers
 </scene>
-<scene>Scene 143   
+<scene num="143">   
 7 meters
 Fade-in.
 
@@ -3519,7 +3514,7 @@ Title:    He has been seen!
     He strangled the attendant!
 
 </scene>
-<scene>Scene 144   
+<scene num="144">   
 8 meters
 Well in the market-place  Two ancient women are sitting by the well. Death 
 
@@ -3572,12 +3567,12 @@ Close-up:   A street-corner with a man
     
 
 </scene>
-<scene>Scene 145
+<scene num="145">
 
 Gable of a house   A figure is crouching on a roof-top
 
 </scene>
-<scene>Scene 146 (?)
+<scene num="146"> (?)
 Medium close-up:  It is Knock. He is looking down with a 
 
     sneer on his face and pokes out his tongue
@@ -3587,7 +3582,7 @@ Medium close-up:  It is Knock. He is looking down with a
     up and clambers off.
 
 </scene>
-<scene>Scene 147   
+<scene num="147">   
 8 meters
 Ellen's bedroom   Ellen in an old armchair, busy embroidering a 
 
@@ -3608,7 +3603,7 @@ Medium close-up:   Ellen takes up her work again, determined
     to finish it.
 
 </scene>
-<scene>Scene 148   
+<scene num="148">   
 Evening    4 meters
 Back of deserted house.  The street is empty. Knock jumps down a wall 
 
@@ -3619,7 +3614,7 @@ Back of deserted house.  The street is empty. Knock jumps down a wall
     af ter him.
 
 </scene>
-<scene>Scene 149   
+<scene num="149">   
 8 meters
 Meadows outside the town  Shot against a wide expanse of sky. In the distance
 
@@ -3630,7 +3625,7 @@ Meadows outside the town  Shot against a wide expanse of sky. In the distance
     a long way behind.
 
 </scene>
-<scene>Scene 150   
+<scene num="150">   
 3 meters
 Fields.    Evening mists. Cornfields waving in the wind.
 
@@ -3643,7 +3638,7 @@ Fields.    Evening mists. Cornfields waving in the wind.
     It is Knock.
 
 </scene>
-<scene>Scene 151   
+<scene num="151">   
 3 meters
 A lane between fields.  The landscape has grown dim in the evening light.
 
@@ -3660,7 +3655,7 @@ A lane between fields.  The landscape has grown dim in the evening light.
     direction.
 
 </scene>
-<scene>Scene 152   
+<scene num="152">   
 10 meters
  
 Cornfield, Long-shot:  In the distance one can still the back and dis-
@@ -3674,7 +3669,7 @@ Cornfield, Long-shot:  In the distance one can still the back and dis-
     They lift their sticks and fists.
 
 </scene>
-<scene>Scene 152 continued
+<scene num="152 continued">
 
 Medium close-up   A scare-crow. A black coat is dangling on a stick.
 
@@ -3693,7 +3688,7 @@ Long-shot:   A hundred feet away a head has appeared. Then
 Fade-out.
 
 </scene>
-<scene>Scene 153   
+<scene num="153">   
 3 meters
 Title:    Night
 
@@ -3703,7 +3698,7 @@ close-up:
 Dissolve
 
 </scene>
-<scene>Scene 154   
+<scene num="154">   
 8 meters    2x
 Ellen's bedroom
 
@@ -3724,13 +3719,13 @@ Long shot:   She goes over to the window. In the fore-
 Medium close-up:  Ellen is clinging to the window. She sees.
 
 </scene>
-<scene>Scene 155.   3 meters
+<scene num="155">.   3 meters
 
 Deserted house.   Nosferatu at the window.
 
     He raises his arms slowly.
 
-156  
+</scene><scene num="156">  
 
 Ellen's room
 
@@ -3750,7 +3745,7 @@ Medium close-up:  Ellen is about to collapse by the window.
 
     window wide open.
 
-157    
+</scene><scene num="157">    
 4 meters
 Deserted house.
 
@@ -3761,12 +3756,12 @@ Window
     around and disappears.
 
 </scene>
-<scene>Scene 158   4 meters
+<scene num="158">   4 meters
 
 Ellen's room. Close-up:  
 Ellen trembling with fear and apprehension
 </scene>
-<scene>Scene 159
+<scene num="159">
 
 Deserted house
 
@@ -3777,7 +3772,7 @@ Medium close-up   Locked-up gates
     Nosferatu appears 
 
 </scene>
-<scene>Scene 160  12 meters    2x
+<scene num="160">  12 meters    2x
 
 Ellen's room.
 
@@ -3810,7 +3805,7 @@ Title:   Bulwer . . . Fetch Bulwer!
    Then he rushes out.
 
 </scene>
-<scene>Scene 161  3 meters
+<scene num="161">  3 meters
 
 In front of Hutter's
 
@@ -3823,7 +3818,7 @@ House.   A path bordered by flowers.
    no waist coat.
 
 </scene>
-<scene>Scene 162  5 meters
+<scene num="162">  5 meters
 
 Ellen's room
 
@@ -3834,7 +3829,7 @@ Long shot.  Ellen is still looking in the direction she saw Hutter
    window.
 
 </scene>
-<scene>Scene 163 
+<scene num="163"> 
 
 Deserted house. 
 
@@ -3867,7 +3862,7 @@ Ellen's room  Ellen turns around suddenly. She is shaking with
     Heart! - Hand
 
 </scene>
-<scene>Scene 166   6 meters
+<scene num="166">   6 meters
 
 Bulwer's laboratory
 
@@ -3888,7 +3883,7 @@ Bulwer's laboratory
     to get dressed.
 
 </scene>
-<scene>Scene 167
+<scene num="167">
 
 A municipal building on the
 period (town hall)   A large crowd is gathering in front of the town
@@ -3900,7 +3895,7 @@ period (town hall)   A large crowd is gathering in front of the town
     
 Omitted
 </scene>
-<scene>Scene 168   5 meters
+<scene num="168">   5 meters
  
 An office room inside
 
@@ -3915,7 +3910,7 @@ the town hall   Sievers rushes in excitedly from the adjoining
     exit
 
 </scene>
-<scene>Scene 169   4 meters
+<scene num="169">   4 meters
 
 Ellen's room   Night. Ellen in bed, the strangler is at her throat, 
 
@@ -3926,14 +3921,14 @@ Ellen's room   Night. Ellen in bed, the strangler is at her throat,
     have heard something.
 
 </scene>
-<scene>Scene 170   A cock jumps on to a still-life farm implements.
+<scene num="170">   A cock jumps on to a still-life farm implements.
 
     He flaps his wings, puffs up his throat and her-
 
     alds the morning.
 
 </scene>
-<scene>Scene 171   6 meters
+<scene num="171">   6 meters
 
 Siever's lunatic's cell  Knock
 
@@ -3944,7 +3939,7 @@ Inside the town hall  Knock at the window, held by two men. Trying
 Title:    The master . . . the master . . .!
 
 </scene>
-<scene>Scene 172
+<scene num="172">
 
 Ellen's room.   Nosferatu raises his head. He looks drunk with
 
@@ -3959,12 +3954,12 @@ Ellen's room.   Nosferatu raises his head. He looks drunk with
     
 Omitted
 </scene>
-<scene>Scene 173   
+<scene num="173">   
 3 meters
     The sun is rising over the small town.
 
 </scene>
-<scene>Scene 174
+<scene num="174">
 
 Ellen's room   Ellen's last moment of apprehension. There, 
 
@@ -3981,7 +3976,7 @@ Ellen's room   Ellen's last moment of apprehension. There,
    
 
 </scene>
-<scene>Scene 175   5 meters
+<scene num="175">   5 meters
 
 Street with front gardens  The long shadows of sunrise. Nobody is about
 
@@ -3992,7 +3987,7 @@ Street with front gardens  The long shadows of sunrise. Nobody is about
     street.
 
 </scene>
-<scene>Scene 176   
+<scene num="176">   
 8 meters
 Ellen's room   The bed is bathed in sunlight. Ellen's eyes are 
 
@@ -4013,7 +4008,7 @@ Ellen's room   The bed is bathed in sunlight. Ellen's eyes are
     distorted by pain.
 
 </scene>
-<scene>Scene 177
+<scene num="177">
 Siever's lunatic cell  Knock    5 meters
 
 Town hall
@@ -4029,7 +4024,7 @@ Title:    The master . . .the master . . . is dead.
     His head sinks on to his chest.
 
 </scene>
-<scene>Scene 178   
+<scene num="178">   
 8 meters
 Ellen's room   Nosferatu on his knees, supporting himself with
 
@@ -4052,7 +4047,7 @@ Ellen's room   Nosferatu on his knees, supporting himself with
 Title:    Hutter!
 
 </scene>
-<scene>Scene 179   4 meters
+<scene num="179">   4 meters
 
 In front of Hutter's House  Shot looking out from the doorway into the
 
@@ -4061,7 +4056,7 @@ In front of Hutter's House  Shot looking out from the doorway into the
     just walking into the house.
 
 </scene>
-<scene>Scene 180   8 meters
+<scene num="180">   8 meters
 
     Ellen in bed. In anticipation, her hand reaches
 
