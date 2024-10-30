@@ -17,3 +17,20 @@ annot = element annot {text}
 sn = element sn {text}
 p = element p {text}
 #OH: this is still obviously heavily WIP so if anyone has any questions or wants to make changes thats fine
+
+
+# ebb: Suggestions for markup: Can you distinguish what we read on the screen from description that we don't read? 
+# This would include:
+# information about camera distance / shots
+# Director's notes
+# title cards that label + describe
+# cards that contain dialogue : which characters are speaking?
+
+# <sp who="ellen">
+#      <char>ELLEN</char>
+#      <speech>.......</speech>
+# </sp>
+
+# In the descriptions: what characters are mentioned
+# <descript>.....<char who="ellen">Ellen</char> walks in.
+
