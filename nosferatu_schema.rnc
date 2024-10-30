@@ -5,6 +5,7 @@ script = element script {head, act+, scene+}
 
 head = element head {title, mixed{note}}
 title = element title {text}
+#OH 10/30: Maybe change title to mainTitle so it doesn't get mixed up with the actual speech title cards
 note = element note {text}
 
 act = element act {num, text}
@@ -34,3 +35,12 @@ p = element p {text}
 # In the descriptions: what characters are mentioned
 # <descript>.....<char who="ellen">Ellen</char> walks in.
 
+# OH 10/30: Consider adding the following elements to schema in the future, all element names are subject to change, nothing here is final, if you hate it, that's ok
+# location(loc), used to establish where the scene takes place
+# intertitles(inTitle), not 100% but Dr. B mentioned these
+    # title(title) use this for the spoken title cards maybe
+# camera element (cam), under the cam element we can use attributes to describe camera movement i.e. <cam dis="8 meters">
+# distance(dis) <cam dis="8 meters" exp="2x">, distance would be how far the camera is and/or the shot takes place from
+# exposure(exp) <cam exp="2x">, we need to look into this, not entirely sure what 2x or 4x is meant to convey
+# costume(cost) or outfit(out), self explanatory
+# time(time), used at various points in the script to denote daylight or night time
