@@ -4,56 +4,56 @@
 <cam>4 meters</cam>
 Roof Balcony of
 
-Harding's mansion Ellen in Anny's arm. Her hair is fluttering in the wind.
+<loc>Harding's mansion</loc> <dir>Ellen in Anny's arm. Her hair is fluttering in the wind.
 
    Ellen stretching her hands towards the sea, as if trying to 
 
-   defend herself.
+   defend herself.</dir>
 
 Title:   <title>I must go home. He is coming.</title>
 
 </scene>
 <scene num="112">  
 
-At the graveyard
+<loc>At the graveyard</loc>
 
-View over the sea  In the foreground the crosses. In the back sandbank and 
+<loc>View over the sea  In the foreground the crosses. In the back sandbank and 
 
    cliffs. In the distance people, hurrying to rescue the ship-
 
    wrecked. The sand bank . The ship crashes into it . . . 
 
-   turns over on its side. 
+   turns over on its side.
 
    
-View through archway : the sailing boat is moving 
-   past.        Weimar
+<cam>View through archway</cam> : <loc>the sailing boat is moving 
+   past.        Weimar</loc>
 
 </scene>
 <scene num="113">  
 4 meters
 Lunatic's cell
 
-Long shot:  Knock alone. He drags up a chair . . . to the window. He 
+<cam>Long shot</cam>:  <dir>Knock alone. He drags up a chair . . . to the window. He 
 
-   climbs up on it.
+   climbs up on it.</dir>
 
-Medium close-up:  Knock pulls himself up by the bars, trying to look out.
+<cam>Medium close-up</cam>:  <dir>Knock pulls himself up by the bars, trying to look out.
 
-   The wind, blowing in, makes his hair stand on end uncannily.
+   The wind, blowing in, makes his hair stand on end uncannily.</dir>
 
 </scene>
 <scene num="113a">  
 10 meters
-The stranded ship  Dead and forsaken. a rope is dangling from the deck. It is
+<loc>The stranded ship  Dead and forsaken. a rope is dangling from the deck. It is
 
-   swaying in the wind.
+   swaying in the wind.</loc>
 
-Medium close-up  An endless number of rats climbing down the swaying rope.
+<cam>Medium close-up</cam>  <loc>An endless number of rats climbing down the swaying rope.</loc>
 
-Shot of deck.  The hatch. It opens slowly. NOSFERATU climbs out. He
+<cam>Shot of deck.</cam>  <dir>The hatch. It opens slowly.</dir> <dir>NOSFERATU climbs out.</dir> <dir>He
 
-   carries the last coffin. Remains standing. Motionless. The
+   carries the last coffin.</dir> <dir>Remains standing. Motionless.</dir> The
 
    image of death. Then he approaches slowly.
 
@@ -75,7 +75,7 @@ Shot of deck.  The hatch. It opens slowly. NOSFERATU climbs out. He
 
 </scene>
 <scene num="114">  
-8 meters    Lauenburg or Travemünde
+    <cam>8 meters</cam>    <loc>Lauenburg or Travemünde</loc>
 Town center.  Trees, shaken by storm. A carriage races up, stops abruptly.
 
 Medium close-up:  Hutter jumps from the carriage.
@@ -96,9 +96,9 @@ Nosferatu enters the town
 </scene>
 <scene num="116">  
 6 meters
-The roof of Harding's
-
-mansion.  Ellen's room at the Hardings'
+    <loc>The roof of Harding's
+        
+        mansion.</loc>  Ellen's room at the Hardings'
 
    Ellen and Anny. Ellen suddenly breaks away. Overjoyed 
 
@@ -106,7 +106,7 @@ mansion.  Ellen's room at the Hardings'
 
    shouts:
 
-Title:   I must go to him. He is coming!!
+Title:   <title>I must go to him. He is coming!!</title>
 
    
 
@@ -118,32 +118,32 @@ Title:   I must go to him. He is coming!!
 <scene num="117">  
 4 meters 
    
-   Storm-tossed trees. A white figure comes out of the house. 
+   <loc>Storm-tossed trees.</loc> A white figure comes out of the house. 
 
    It is Ellen. She is running through the park.
 
 118   
-perhaps Lüneberg Street
-   Shuttered windows.     Nosferatu striding
+<loc>perhaps Lüneberg Street</loc>
+   <loc>Shuttered windows.</loc>     <dir>Nosferatu striding</dir>
 
-118a   Hutter, running along the street. 
+118a   <dir>Hutter, running along the street.</dir> 
 
 </scene>
 <scene num="119">  
-8 meters
+<cam>8 meters</cam>
 Lunatic's cell
 
-Long shot:  Knock, moving away from the window wall
+<cam>Long shot</cam>: Knock, moving away from the window wall
 
-Medium close-up:  The madman is listening for outside noises, as if he had
+<cam>Medium close-up</cam>:  The madman is listening for outside noises, as if he had
 
    received a signal from the other world . . . triumphantly . . . 
 
    he whispers to himself:
 
-Titles:   The master is near . . .the master is near . . .!
+Titles:   <title>The master is near . . .the master is near . . .!</title>
 
-Long shot:  Suddenly, he listens attentively.
+<cam>Long shot</cam>:  Suddenly, he listens attentively.
 
    He creeps over to the door. There he waits expectantly . . .
 
@@ -163,15 +163,15 @@ Long shot:  Suddenly, he listens attentively.
 for a moment only, then he lets go and sneaks out.
 </scene>
 <scene num="120">  
-5 meters
-In front of Hutter's house Hutter comes running up. He looks up: no light. He is just
+<cam>5 meters</cam>
+<loc>In front of Hutter's house</loc> Hutter comes running up. He looks up: no light. He is just
 
    about to enter when - somebody is calling. He turns around
 
    Ellen!!!!! They fall into each other's arms.
 
 </scene>
-<scene num="121">  Square with fountain    5 meters
+<scene num="121">  <loc>Square with fountain</loc>    <cam>5 meters</cam>
 
    Nosferatu, cof˚n under his arm, is standing in the
 
@@ -181,7 +181,7 @@ In front of Hutter's house Hutter comes running up. He looks up: no light. He is
 
 </scene>
 <scene num="122">  
-4 meters    2x
+<cam>4 meters    2x</cam>
 Hutter's parlour  Ellen's sitting room
 
    A lamp is shining. Hutter and Ellen. They are sitting on the
@@ -192,20 +192,19 @@ Hutter's parlour  Ellen's sitting room
 
 </scene>
 <scene num="123">  
-4 meters
-In front of Hutter's
+<cam>4 meters</cam>
+<loc>In front of Hutter's house</loc>  
 
-house   
 Nosferatu, staring up
 </scene>
 <scene num="124">  
 6 meters
   
-Fade-in.   Hutter and Ellen, on the chaise lounge. He sits up, looking 
+<cam>Fade-in</cam>.   Hutter and Ellen, on the chaise lounge. He sits up, looking 
 
    deep into her eyes.
 
-Title:   Thank God . . . you are well  . . .now everything
+Title:   <title>Thank God . . . you are well  . . .now everything</title>
 
    has come all right.
 
@@ -214,9 +213,10 @@ Title:   Thank God . . . you are well  . . .now everything
    gether again is stronger than anything else. And the
 
    room is bright.
+</scene>
 
-[Scene 125]  
-10 meters
+<scene num="125"> 
+<cam>10 meters</cam>
 Street in front of Hutter's
 
 House   There is nobody about. But in the middle of the street 
@@ -434,7 +434,11 @@ Medium close-up:  The drummer has produced a piece of paper and reads
 
    The drummer has finished reading and goes off.
 
-    </scene><title>End of Act I</title></act>
+    </scene>
+    
+<title>End of Act I</title>
+</act>
+    
 <act><title>Act V
 </title>
 <scene num="131">   
@@ -1206,7 +1210,7 @@ Title:    The master . . . the master . . .!
 </scene>
 <scene num="172">
 
-Ellen's room.   Nosferatu raises his head. He looks drunk with
+<loc>Ellen's room</loc>.   <dir>Nosferatu raises his head. He looks drunk with
 
     pleasure. Ellen eyes are full of terrible fear. She
 
@@ -1214,49 +1218,49 @@ Ellen's room.   Nosferatu raises his head. He looks drunk with
 
     her arms around him: he cannot resist and 
 
-    bends his head over her again.
+    bends his head over her again.</dir>
 
     
 Omitted
 </scene>
 <scene num="173">   
-3 meters
-    The sun is rising over the small town.
+<cam>3 meters</cam>
+    <loc>The sun is rising over the small town.</loc>
 
 </scene>
 <scene num="174">
 
-Ellen's room   Ellen's last moment of apprehension. There, 
+<loc>Ellen's room</loc>   Ellen's last moment of apprehension. <loc>There, 
 
     isn't that a flicker of sunlight on the wall over
 
-    her bed? Here eyes light up hopefully and remain
+    her bed?</loc> <dir>Here eyes light up hopefully and remain
 
     fixed on this first sign of the new day. She stretches
 
     out her hand for it. And look: it is moving
 
-    downwards.
+    downwards.</dir>
 
    
 
 </scene>
 <scene num="175">   5 meters
 
-Street with front gardens  The long shadows of sunrise. Nobody is about
+<loc>Street with front gardens</loc>  <loc>The long shadows of sunrise</loc>. <loc>Nobody is about</loc>
 
-    Then shoulders of Hutter and Bulwer appear.
+    Then <dir>shoulders of Hutter and Bulwer appear.
 
     They are hurrying on and turning into a side
 
-    street.
+    street.</dir>
 
 </scene>
 <scene num="176">   
 8 meters
-Ellen's room   The bed is bathed in sunlight. Ellen's eyes are 
+<loc>Ellen's room</loc>   <loc>The bed is bathed in sunlight</loc>. <dir>Ellen's eyes are 
 
-    full of anticipation. Has she sacrificed herself in 
+    full of anticipation</dir>. Has she sacrificed herself in 
 
     vain? Suddenly the horrible figure jerks himself
 
@@ -1274,24 +1278,24 @@ Ellen's room   The bed is bathed in sunlight. Ellen's eyes are
 
 </scene>
 <scene num="177">
-Siever's lunatic cell  Knock    5 meters
+Siever's lunatic cell  Knock    <cam>5 meters</cam>
 
-Town hall
+<loc>Town hall</loc>
 
-Medium close-up:   Knock, in a straitjacket, alone in the sunlight 
+<cam>Medium close-up</cam>:   Knock, in a straitjacket, alone in the sunlight 
 
     which is falling through a barred window. He
 
     is mumbling disconnected words:
 
-Title:    The master . . .the master . . . is dead.
+Title:    <title>The master . . .the master . . . is dead.</title>
 
-    His head sinks on to his chest.
+    <dir>His head sinks on to his chest.</dir>
 
 </scene>
 <scene num="178">   
 8 meters
-Ellen's room   Nosferatu on his knees, supporting himself with
+<loc>Ellen's room</loc>   <dir>Nosferatu on his knees, supporting himself with
 
     one hand on the ground. He raises the other in 
 
@@ -1307,21 +1311,21 @@ Ellen's room   Nosferatu on his knees, supporting himself with
 
     integrating in the light. Ellen throws up her hands
 
-    triumphantly calling:
+    triumphantly calling</dir>:
 
-Title:    Hutter!
-
-</scene>
-<scene num="179">   4 meters
-
-In front of Hutter's House  Shot looking out from the doorway into the
-
-    distance. Bulwer and Hutter are running, not
-
-    just walking into the house.
+Title:    <title>Hutter!</title>
 
 </scene>
-<scene num="180">   8 meters
+<scene num="179">   <cam>4 meters</cam>
+
+<loc>In front of Hutter's House</loc>  <cam>Shot looking out from the doorway into the
+
+    distance</cam>. <dir>Bulwer and Hutter are running, not
+
+    just walking into the house</dir>.
+
+</scene>
+<scene num="180">   <cam>8 meters</cam>
 
     Ellen in bed. In anticipation, her hand reaches
 
@@ -1331,7 +1335,7 @@ In front of Hutter's House  Shot looking out from the doorway into the
 
     hand.
 
-Close-up:   Her hand grasps his, the it lets go weakly and 
+<cam>Close-up</cam>:   Her hand grasps his, the it lets go weakly and 
 
     drops away.
 

@@ -18,9 +18,11 @@ annot = element annot {text}
 sn = element sn {text}
 p = element p {text}
 
-cam = element cam {text}
-loc = element loc {text}
-time = element time {text}
+cam = element cam {text} #camera note/directions
+loc = element loc {text} #location also includes set notes like open windows 
+time = element time {text} #time of day afternoon evening dark light etc.
+dir = element dir {text} #stage direction ex hatch opens, 
+
 
 #OH: this is still obviously heavily WIP so if anyone has any questions or wants to make changes thats fine
 
