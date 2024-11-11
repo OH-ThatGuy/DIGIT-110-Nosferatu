@@ -1,6 +1,7 @@
 <!--<?xml-model href="nosferatu_schema.rnc" type="application/relax-ng-compact-syntax"?>-->
+<root>
 <scene num="111">  
-4 meters
+<cam>4 meters</cam>
 Roof Balcony of
 
 Harding's mansion Ellen in Anny's arm. Her hair is fluttering in the wind.
@@ -9,7 +10,7 @@ Harding's mansion Ellen in Anny's arm. Her hair is fluttering in the wind.
 
    defend herself.
 
-Title:   I must go home. He is coming.
+Title:   <title>I must go home. He is coming.</title>
 
 </scene>
 <scene num="112">  
