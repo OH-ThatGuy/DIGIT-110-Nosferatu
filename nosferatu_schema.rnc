@@ -11,17 +11,22 @@ note = element note {text}
 act = element act {num, text}
 num = attribute num {xsd:int}
 
-scene = element scene {annot, mixed{(sn | p)*}}
+scene = element scene {(sn | annot | cam | p | loc | time | dir)+}
 #OH: I named this element annot because the script specifically mentions that all bold text is annotations made by F.W. Murnau, maybe we should also specify that it is bold with an attribute?
 annot = element annot {text}
 #OH: we have a document for explaining some shorthand stuff, but I thought I might as well explain here that sn = sidenote (because of their position at the side of the page and p = paragraph, which should be self explanatory
 sn = element sn {text}
 p = element p {text}
 
-cam = element cam {text} #camera note/directions
+cam = element cam {dis?, exp?, text} #camera note/directions  #unit is always in meters
+dis = attribute dis {xsd:int} #whole number without unit 
+exp = attribute exp {xsd:int} #2x 5x DO NOT include the x
 loc = element loc {text} #location also includes set notes like open windows 
 time = element time {text} #time of day afternoon evening dark light etc.
-dir = element dir {text} #stage direction ex hatch opens, 
+
+dir = element dir {type, mixed{cost*}} #direction either stage or character. NEED TO WRITE SCHEMATRON TO VALIDATE COST IS ONLY USED WITH TYPE CHAR
+type = attribute type {"stg" | "char"} #either stage or character directions
+cost = element cost {text}
 
 
 #OH: this is still obviously heavily WIP so if anyone has any questions or wants to make changes thats fine

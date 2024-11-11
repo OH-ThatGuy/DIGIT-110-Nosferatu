@@ -1,5 +1,10 @@
-<!--<?xml-model href="nosferatu_schema.rnc" type="application/relax-ng-compact-syntax"?>-->
+<?xml-model href="nosferatu_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
+    <script>
+        <head><title>...</title>....
+        <note>....</note>
+        </head>
+   <act num="3">    
 <scene num="111">  
 <cam>4 meters</cam>
 Roof Balcony of
@@ -23,7 +28,7 @@ Title:   <title>I must go home. He is coming.</title>
 
    wrecked. The sand bank . The ship crashes into it . . . 
 
-   turns over on its side.
+   turns over on its side.</loc>
 
    
 <cam>View through archway</cam> : <loc>the sailing boat is moving 
@@ -38,7 +43,7 @@ Lunatic's cell
 
    climbs up on it.</dir>
 
-<cam>Medium close-up</cam>:  <dir>Knock pulls himself up by the bars, trying to look out.
+    <cam>Medium close-up:  </cam><dir type="char">Knock pulls himself up by the bars, trying to look out.
 
    The wind, blowing in, makes his hair stand on end uncannily.</dir>
 
@@ -437,8 +442,7 @@ Medium close-up:  The drummer has produced a piece of paper and reads
     </scene>
     
 <title>End of Act I</title>
-</act>
-    
+    </act>  
 <act><title>Act V
 </title>
 <scene num="131">   
