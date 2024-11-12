@@ -12,30 +12,30 @@ Henrik Galeen
 <act num="1"><title>ACT 1</title>
     
 <scene><annot>8 meters    location shot: Wismar</annot>
-<sn>Fade in.</sn>    <p>Townscape
+<cam>Fade in.</cam>    <loc>Townscape</loc>
 
-    View over the roof's of a small old-fashioned
+    <cam>View over the roof's of a small old-fashioned
 
     town built in the style of the 1840s.  The sun 
 
     shines peacefully on pointed gables and
 
-    leafy squares.</p>        
+    leafy squares.</cam>        
 
-<sn>Fade out</sn>    <p>Two shot, one from the church tower onto the town the
+<cam>Fade out</cam>    <cam>Two shot, one from the church tower onto the town the
 
     other from the harbour over towards the town.
 
     1st: view of Lübeck.
 
-    Dissolve to harbour of Wismar</p></scene>
+    Dissolve to harbour of Wismar</cam></scene>
 
 
-<scene num="23">    4 meters    2x
+<scene num="23">    <cam dis="4" exp="2">4 meters    2x</cam>
 
-Fade-in
+<cam>Fade-in</cam>
 
-Outside a window   There are flowers in green window-boxes.  On the 
+<loc>Outside a window</loc>   <dir>There are flowers in green window-boxes.  On the 
 
     window sill a kitten is playing in the morning sun. 
 
@@ -45,12 +45,12 @@ Outside a window   There are flowers in green window-boxes.  On the
 
     pulled in through the window.  The cat jumps in
 
-    af ter it.
+    af ter it.</dir>
 
 </scene>
-<scene num="34">    Ellen's sitting room    7 meters    2x
+<scene num="34">    <loc>Ellen's sitting room</loc>    <cam dis="7" exp="2">7 meters    2x</cam>
 
-Small neat kitchen   The morning sun casts the shadow of a window 
+<loc>Small neat kitchen</loc>   <dir>The morning sun casts the shadow of a window 
 
     frame onto the floor.  Ellen, by the window, is 
 
@@ -66,12 +66,12 @@ Playing with it she sits down on the window
 
     plays with it. Her dressing gown moves in the breeze, 
 
-    her big  child-like eyes a laughing.
+    her big  child-like eyes a laughing.</dir>
 
 </scene>
-<scene num="34a">   20 meters    Hutter    white jabot    blue waist coat.
+<scene num="34a">   <cam dis="20">20 meters</cam>    Hutter    white jabot    blue waist coat.
 
-A small sitting room (attic)  Poor-looking and tidy. A bed, a chair in the
+<loc>A small sitting room (attic)</loc>  <dir>Poor-looking and tidy. A bed, a chair in the
 
     period style.  Hutter is standing in front
 
@@ -81,35 +81,35 @@ A small sitting room (attic)  Poor-looking and tidy. A bed, a chair in the
 
     through the side window. Smiling happily
 
-    he finishes dressing and goes out.
-
-4a  A small ˜ower garden   
-Shot from above. Hutter appears, gardening 
+    he finishes dressing and goes out.</dir>
+</scene>
+<scene num="4a">  <loc>A small flower garden</loc>   
+<cam>Shot from above.</cam> <dir>Hutter appears, gardening 
     knife in hand, looks up  front of Hutter's house  
 
     beaming with joy. He finds a clump of carn-
 
     ations, cuts the flowers with a quick gesture 
 
-    and makes a bouquet.
+    and makes a bouquet.</dir>
 
 </scene>
 <scene num="5">
-The small kitchen   Ellen, still playing with the kitten, hears Hutter  
+<loc>The small kitchen</loc>   <dir>Ellen, still playing with the kitten, hears Hutter  
 
-    coming and jumps up.
+    coming and jumps up.</dir>
 
-Shot of cooker  Ellen comes over and begins to busy herself with 
+<cam>Shot of cooker</cam>  <dir>Ellen comes over and begins to busy herself with 
 
    the sauce pans, with a childlike earnestness towards 
 
-   her house-wifely duties.
+   her house-wifely duties.</dir>
 
-Shot of door:  Hutter is standing in the doorway and laughs and laughs.
+<cam>Shot of door:</cam>  <dir>Hutter is standing in the doorway and laughs and laughs.
 
    
-Hiding the bouquet behind his back, he laughs and laughs
-Shot of cooker  Ellen turns around, catches sight of her husband 
+Hiding the bouquet behind his back, he laughs and laughs</dir>
+<cam>Shot of cooker</cam>  <dir>Ellen turns around, catches sight of her husband 
 
    and seems a little ashamed that she hasn't yet made 
 
@@ -117,12 +117,12 @@ Shot of cooker  Ellen turns around, catches sight of her husband
 
    into the sauce pan holds it upside down indicating 
 
-   that it is empty, and looks at her reproachfully.
+   that it is empty, and looks at her reproachfully.</dir>
 
-Title:   Ellen!
+Title:   <title>Ellen!</title>
 
    
-She is sulking now and trying to placate him. But 
+<dir>She is sulking now and trying to placate him. But 
    he pulls out his watch; it is late already; he has to go.  
 
    He kisses her good-bye, but she calls him back again 
@@ -143,13 +143,13 @@ She is sulking now and trying to placate him. But
 
    drops on the floor, the kitten comes up and
 
-    plays with it.
+    plays with it.</dir>
 
-Fade-out   They are rushing towards each other, Ellen throws 
+<cam>Fade-out</cam>   <dir>They are rushing towards each other, Ellen throws 
 
-   herself into Hutter's arms
+   herself into Hutter's arms</dir>
 
-Long Shot  He produces the bouquet, hands it to her beaming 
+<cam>Long Shot</cam>  <dir>He produces the bouquet, hands it to her beaming 
 
    all over his face. She is touched then, saddening, 
 
@@ -157,30 +157,30 @@ Long Shot  He produces the bouquet, hands it to her beaming
 
    stroking them.  His voice asks for the reasons of her 
 
-   behavior she says:
+   behavior she says:</dir>
 
-Title   Why have you killed them ...
+Title   <title>Why have you killed them ...
 
-   the beautiful flowers?
+   the beautiful flowers?</title>
 
-   Hutter is taken aback for a moment. He apologizes 
+   <dir>Hutter is taken aback for a moment. He apologizes 
 
    and kisses her.
 
-   Then she forgives him, they stand in an embrace.
+   Then she forgives him, they stand in an embrace.</dir>
 
-Fade-out   2x
+<cam exp="2">Fade-out   2x</cam>
    
 </scene>
-<scene num="5a">   10 meters Lauenburg
+<scene num="5a">   <cam dis="10">10 meters</cam> <loc>Lauenburg</loc>
 
-Fade in
+<cam>Fade in</cam>
 
-Street with front gardens  
+<loc>Street with front gardens</loc>  
 
-Title:   Professor Bulwer
+Title:   <title>Professor Bulwer</title>
 
-   Professor Bulwer is walking vigorously, yet slowly along the road, enjoying the morning
+   <dir>Professor Bulwer is walking vigorously, yet slowly along the road, enjoying the morning
 
    and the sunshine.  His stick strikes the ground energetically.
 
@@ -188,17 +188,17 @@ Title:   Professor Bulwer
 
    He grasps the passing man by his sleeve; he holds on to it.  Hutter greets him,
 
-   looking pleased.  Bulwer laughs and looking deep into his eyes says:
+   looking pleased.  Bulwer laughs and looking deep into his eyes says:</dir>
 
-Title:   Why so hasty , my young friend?  One 
+Title:   <title>Why so hasty , my young friend?  One 
 
-   reaches one's goal soon enough.
-
-   
+   reaches one's goal soon enough.</title>
 
    
 
-   Hutter, of course, doesn't understand him.  He has to get 
+   
+
+   <dir>Hutter, of course, doesn't understand him.  He has to get 
 
    to office quickly.  He greets him again and again.  Until he 
 
@@ -206,14 +206,14 @@ Title:   Why so hasty , my young friend?  One
 
    Bulwer stands there for a moment, then he resumes the 
 
-   regular rhythm of his walk.
+   regular rhythm of his walk.</dir>
 
 </scene>
-<scene num="6">   6 meters Caption:  Knock - a house agent
+<scene num="6">   <cam dis="6">6 meters</cam> Caption:  Knock - a house agent
 
-Fade-in
+<cam>Fade-in</cam>
 
-Dusty cramped office Pale light is falling through tiny blind window-panes 
+<loc>Dusty cramped office</loc> <dir>Pale light is falling through tiny blind window-panes 
 
    into the strange room which is eccentrically 
 
@@ -221,178 +221,176 @@ Dusty cramped office Pale light is falling through tiny blind window-panes
 
    KNOCK is standing at a high desk. People
 
-   call him a house agent.
+   call him a house agent.</dir>
 
-Close-up   Knock's spindly hunch-backed figure.  Grey hair, weather-
+<cam>Close-up</cam>   <dir>Knock's spindly hunch-backed figure.  Grey hair, weather-
 
    beaten face full of wrinkles.  Around his mouth throbs the 
 
    ugly tic of the epileptic. In his eyes burns a sombre fire.  
 
-   He is reading a letter.
+   He is reading a letter.</dir>
 
-Close-up   The letter.  On a sheet of paper decorated on the margin 
+<cam>Close-up   The letter.  On a sheet of paper decorated on the margin 
 
    with grotesque vignettes a medley of intricate and quite ill-
 
-   egible signs.
+   egible signs.</cam>
 
-Med. Close-up  Knock seems to be able to make sense of the strange letter,
+<cam>Med. Close-up</cam>  <dir>Knock seems to be able to make sense of the strange letter,
 
    for his ugly mouth sets into an understanding smile.  Then 
 
-   he turns and opens the door.
+   he turns and opens the door.</dir>
 
 </scene>
-<scene num="7">   5 meters
+<scene num="7">   <cam dis="5">5 meters</cam>
 
-Small room ad-
+<loc>Small room ad-
 
-joining the office  Very narrow and dark, totally without sun. Hutter, 
+joining the office</loc>  <dir>Very narrow and dark, totally without sun. Hutter, 
 
    buried in files.  Knock looks through the door and
 
-   calls him in.
+   calls him in.</dir>
 
    
-Another clerk is present
+<annot>Another clerk is present</annot>
 </scene>
-<scene num="8">   30 meters
+<scene num="8">   <cam dis="30">30 meters</cam>
 
-The dusty and
+<loc>The dusty and
 
-cramped office  Knock and Hutter enter.  Knock points to the letter
+cramped office</loc>  <dir>Knock and Hutter enter.  Knock points to the letter
 
    with mysterious gestures and tells Hutter:
-
-Title   Count Orlock - His grace - From Transylvania
+</dir>
+Title   <title>Count Orlock - His grace - From Transylvania
 
    wants to buy a beautiful house in our little
 
-   Town
+   Town</title>
 
  
-Close-up   Knock's demonic face with wide open eyes
+<cam>Close-up   Knock's demonic face with wide open eyes</cam>
 
-Title   You could make a nice bit of money . . .
+Title   <title>You could make a nice bit of money . . .
 
    It will take some effort, however . . .
 
    a few drops of sweat and blood. . .
 
    Perhaps a little blood
-.
-Closeup   In Hutter's face expressions of mounting joy and
+.</title>
+<cam>Closeup</cam>   <dir>In Hutter's face expressions of mounting joy and
 
    strange apprehension are fighting each other.
 
-   Yet joy wins in the end.
+   Yet joy wins in the end.</dir>
 
   
 
-Long shot  Knock digs up and old atlas from the depths
+<cam>Long shot</cam>  <dir>Knock digs up and old atlas from the depths
 
    of the cabinet and opens it. His finger runs
 
-   over a page.
+   over a page.</dir>
 
-Closeup   The route from England to Transyvania on
+<cam>Closeup   The route from England to Transyvania on
 
-   the map.
+   the map.</cam>
 
-Long shot  Transylvania? asks Hutter, his eyes suddenly shin-
+<cam>Long shot</cam>  <dir>Transylvania? asks Hutter, his eyes suddenly shin-
 
    ing at the thought of a journey.  Yet Knock has
 
    turned back to the letter, now reading the 
 
-   last page.
+   last page.</dir>
 
-Closeup   The back page of the letter, covered with the
+<cam>Closeup   The back page of the letter, covered with the
 
-   same illegible squiggles.
+   same illegible squiggles.</cam>
 
-Long shot  Knock seems to be able to make sense of this 
+<cam>Long shot</cam>  <dir>Knock seems to be able to make sense of this 
 
    page too.  He turns back to Hutter who is al-
 
-   ready day-dreaming about his journey.
+   ready day-dreaming about his journey.</dir>
 
-Title   He wants a handsome deserted house.
+Title   <title>He wants a handsome deserted house.</title>
 
-Long shot  For a moment Knock is lost in thought, then he 
+<cam>Long shot</cam>  <dir>For a moment Knock is lost in thought, then he 
 
-   has an idea.  He limps over to the window.
+   has an idea.  He limps over to the window.</dir>
 
 </scene>
-<scene num="9">   4 meters    Window fr ame, take in Knock
+<scene num="9">   <cam dis="4">4 meters    Window frame, take in Knock</cam>
   
-Section of window View down the street
+<loc>Section of window View down the street
 
    The deserted house.  A dilapidated facade. Black 
 
    and hollow windows.  Not a sign of life. Shadows
 
-   on it.
+   on it.</loc>
 
    
-Daytime - Sun
+<time>Daytime - Sun</time>
 </scene>
-<scene num="10">  15 meters
+<scene num="10">  <cam dis="15">15 meters</cam>
 
-The dusty and 
+<loc>The dusty and 
 
-cramped office  Knock walks back from the window and says to Hutter:
+cramped office</loc>  <dir>Knock walks back from the window and says to Hutter:</dir>
 
-Title   That house...just opposite yours.
+Title   <title>That house...just opposite yours.
 
-   Offer him that!
+   Offer him that!</title>
 
-   Hutter seems to be a little taken aback, but he rallies
+   <dir>Hutter seems to be a little taken aback, but he rallies
 
    around quickly.  Knock urges him to set out on the
 
    journey at once, hands him some money and doc-
 
-   uments and pushes him to the door.
+   uments and pushes him to the door.</dir>
 
-Fade-out
+<cam>Fade-out</cam>
 
    
-18 meters     2x   As in scene 8
+<cam dis="18" exp="2">18 meters     2x   As in scene 8</cam>
 </scene>
-<scene num="11">   Ellen is sitting by the window.  Now she can see him
+<scene num="11"><loc>Room in  Hutter's House</loc>  <dir>Ellen is sitting by the window.  Now she can see him coming.  She waves to him.  Her face lights up with joy.
 
-Room in  Hutter's  coming.  She waves to him.  Her face lights up with joy.
-
-House   She hurries over to the door.  Presently Hutter enters.
+   She hurries over to the door.  Presently Hutter enters.
 
    Moved and happy, he puts his arms around her and tells
 
-   her his great news:
+   her his great news:</dir>
 
-Title   I shall go on a journey far far away
+Title   <title>I shall go on a journey far far away
 
    to the country of mountains where
 
-   there are bandits and ghosts still.
+   there are bandits and ghosts still.</title>
 
-   Ellen is startled.  A shadow passes over
+  <dir> Ellen is startled.  A shadow passes over
 
    her forehead.  She wants to hold him back.
 
    But he is not listening.  He has got to
 
-   pack; already he is leaving her.
+   pack; already he is leaving her.</dir>
 
-Fade-out
+<cam>Fade-out</cam>
 
 </scene>
-<scene num="12">   15 meters    Frau Schroeder without shawl    saddlebags
+<scene num="12">   <cam dis="15">15 meters</cam>    Frau Schroeder without shawl    saddlebags
 
-The attic room
+<loc>The attic room</loc>
 
-Fade-in   Hutter is packing his little travelling bag.
+<cam>Fade-in</cam>   <dir>Hutter is packing his little travelling bag.
 
    Ellen appears in the door behind him. Sud-
 
@@ -414,82 +412,82 @@ Fade-in   Hutter is packing his little travelling bag.
 
    again with determination, takes up his bag and 
 
-   leaves the room with her.
+   leaves the room with her.</dir>
 
-Fade out </scene><scene num="13"> 15 meters
+<cam>Fade out</cam> </scene><scene num="13"> <cam>15 meters</cam>
 
-(Lord)Harding's park Hutter, all ready for the journey, takes his leave
+<loc>(Lord)Harding's park</loc> <dir>Hutter, all ready for the journey, takes his leave
 
    from Harding and his sister Anny.  Ellen, weeping
 
-   is supported by Anny.
+   is supported by Anny.</dir>
 
-Close-up   The two men.  Hutter, taking both of Harding's
+<cam>Close-up</cam>   <dir>The two men.  Hutter, taking both of Harding's
 
-   hands and looking deep into his eyes:
+   hands and looking deep into his eyes:</dir>
 
-Title   I entrust Ellen to your care.
+Title   <title>I entrust Ellen to your care.</title>
 
    Harding promises his friend to look after Ellen,
 
    she can live here, she will never be alone.
 
-Long shot of
+<cam>Long shot of
 
-all characters  Hutter gives his hand to Anny and then to Ellen
+all characters</cam>  <dir>Hutter gives his hand to Anny and then to Ellen
 
    One last farewell kiss. At this moment her grief
 
-   is over.  As if she had a premonition she says:
+   is over.  As if she had a premonition she says:</dir>
 
-Title   Farewell!  There is no escape left.
+Title   <title>Farewell!  There is no escape left.</title>
 
-   At first they are all startled by these words.  
+  <dir> At first they are all startled by these words.  
 
    Then Hutter breaks away.  Another farewell, another 
 
    wave of the hand and Hutter vanishes into the park.
 
-   Ellen is staring vacantly into the distance. 
+   Ellen is staring vacantly into the distance.</dir>
 
 </scene>
-<scene num="14">   A number of healthy-looking people are walking
+   <scene num="14"> <loc>Square with fountain</loc> <dir>A number of healthy-looking people are walking
 
-Square with fountain about in the sunshine. Tied to the fountain a lonely
+ about in the sunshine. Tied to the fountain a lonely
 
    sattled horse. Hutter appears, mounts the horse
 
-   gives one last backward look and gallops off.
+   gives one last backward look and gallops off.</dir>
 
-Fade out   
+<cam>Fade out</cam>   
 
 </scene>
-<scene num="15">   9 meters Schlesische Hutte
+<scene num="15">   <cam dis="9">9 meters Schlesische Hutte</cam>
 
-Title   The Carpathian Mountains
+Title   <title>The Carpathian Mountains
 
-   Wild and rocky mountains. Contre jour
+   Wild and rocky mountains. Contre jour</title>
 
-Fade-out   
-Evening
+<cam>Fade-out</cam>  
+<time>Evening</time>
 </scene>
-<scene num="16">   10 meters
+<scene num="16">   <cam dis="10">10 meters</cam>
 
-Long shot  
+<cam>Long shot</cam>  
 
-Outside the Carpathian
+<loc>Outside the Carpathian
 
-inn.   The big mail coach drawn by four horses drives 
+inn.</loc>   <dir>The big mail coach drawn by four horses drives 
 
-   up and comes to a halt.
+   up and comes to a halt.</dir>
 
-Shot of door of inn The inn-keeper, a small old Jew, comes out and 
+<cam>Shot of door of inn</cam> <dir>The inn-keeper, a small old Jew, comes out and 
 
-   sees the coach.
+   sees the coach.</dir>
 
-Shot of coach:  Hutter jumps out first. He looks around.
+<cam>Shot of coach:</cam>  <dir>Hutter jumps out first. He looks around.</dir>
 
-Long shot:  The house.  One part of brick-walled living area, the
+<cam>Long shot:</cam>  <dir>The house.  One part of brick-walled living area, the
 
    other coach house and open stables Shot of coach  
 
@@ -503,16 +501,16 @@ Long shot:  The house.  One part of brick-walled living area, the
 
    The inn-keeper has gone up to Hutter and greets 
 
-   him with an inviting gesture.
+   him with an inviting gesture.</dir>
 
-Shot of coach  The horses are now unharnessed, the coach is 
+<cam>Shot of coach</cam>  <dir>The horses are now unharnessed, the coach is 
 
-   being pushed into the coach house. Night is falling.
-
+   being pushed into the coach house. Night is falling.</dir>
+   
 </scene>
-<scene num="17">   8 meters    servant:  Frau Kurz
+<scene num="17">   <cam dis="8">8 meters</cam>    servant:  Frau Kurz
 
-Inside the Inn.  A large smoky room with an enormous tiled stove. 
+<loc>Inside the Inn.</loc>  <dir>A large smoky room with an enormous tiled stove. 
 
    A central hanging lamp throws out dazzling light
 
@@ -530,44 +528,44 @@ Inside the Inn.  A large smoky room with an enormous tiled stove.
 
    strange country and puts on a sudden show of 
 
-   liveliness. He knocks on the table and says:
+   liveliness. He knocks on the table and says:</dir>
 
-Title   Quickly, my meal - 
+Title   <title>Quickly, my meal - 
 
    I must be off to Count Orlock's
 
-   castle.
+   castle.</title>
  
-   The servant recoils in horror. The strangely identical
+   <dir>The servant recoils in horror. The strangely identical
 
    looking passengers, sitting in the background rise up
 
-   abruptly to stare at him.
+   abruptly to stare at him.</dir>
 
-Shot of bar  The old hunch-backed Jew pricks up his ears.
+<cam>Shot of bar</cam>  <dir>The old hunch-backed Jew pricks up his ears.</dir>
 
    
 
-Long shot  Hutter looks around in embarrassment, then takes up his 
+<cam>Long shot</cam>  <dir>Hutter looks around in embarrassment, then takes up his 
 
-   glass resolutely and downs it in one gulp.
+   glass resolutely and downs it in one gulp.</dir>
 
 </scene>
-<scene num="18">   4 meters    Walddorfsenke
+<scene num="18">   <cam dis="4">4 meters</cam>    Walddorfsenke
 
-A grassy slope behind the The ground falls away towards the back. Night mists are
+<loc>A grassy slope behind the inn</loc> <dir>The ground falls away towards the back. Night mists are
 
-inn   creeping up from the valley.  The horses are put out here 
+creeping up from the valley.  The horses are put out here 
 
    to graze. Suddenly, they r aise their heads, as if frightened 
 
-   and, scattering, gallop away.
+   and, scattering, gallop away.</dir>
 
 </scene>
 <scene num="19">   
 
-Inside the inn
-Shot of window:  The passengers, seen from behind are standing by the win-
+<loc>Inside the inn</loc>
+<cam>Shot of window:</cam>  <dir>The passengers, seen from behind are standing by the win-
 
    dow, looking out apprehensively.  The old servant has not
 
@@ -577,25 +575,25 @@ Shot of window:  The passengers, seen from behind are standing by the win-
 
    is perplexed and wants to ask what is happening. The old
 
-   servant comes up to him and whispers into his ear.
+   servant comes up to him and whispers into his ear.</dir>
 
 Title
    
-You mustn't go there now
+<title>You mustn't go there now
    there are wolves about
 
-   Spend the night here.
+   Spend the night here.</title>
 
-   Hutter understands and decides to stay.
+   <dir>Hutter understands and decides to stay.</dir>
 
-Fade-out19a  
+<cam>Fade-out19a</cam>  
 Hyena
-19b   Horses, panicking
+19b   <dir>Horses, panicking</dir>
 
 </scene>
-<scene num="20">   6 meters
+<scene num="20">   <cam dis="6">6 meters</cam>
 
-A room at the inn. A tiny white-washed room with sharp angles: a flickering 
+<loc>A room at the inn.</loc> <dir>A tiny white-washed room with sharp angles: a flickering 
 
    light from the old servant's candle.  Now Hutter enters.
 
@@ -605,42 +603,42 @@ A room at the inn. A tiny white-washed room with sharp angles: a flickering
 
    Hutter alone.  He goes over to the window, throws it open 
 
-   and looks into the starless night.
+   and looks into the starless night.</dir>
 
 </scene>
 <scene num="21">   (missing from script)
 
 </scene>
-<scene num="22">   5 meters
+<scene num="22">   <cam dis="5">5 meters</cam>
 
-Inside the inn  The pale passengers, now without Hutter in the enormous
+<loc>Inside the inn</loc>  <dir>The pale passengers, now without Hutter in the enormous
 
    room, look frightened. They, too, are listening to the hor-
 
    rible howling. They look at each other and are crossing
 
-   themselves in terror!
+   themselves in terror!</dir>
 
 </scene>
-<scene num="23">   20 meters
+<scene num="23">   <cam dis="20">20 meters</cam>
 
-The tiny white-washed In the light of the candle Hutter, shivering, closes the win-
+<loc>The tiny white-washed room</loc> <dir>In the light of the candle Hutter, shivering, closes the win-
 
-room   dow. He is no longer sleepy. He walks up and down the 
+ dow. He is no longer sleepy. He walks up and down the 
 
-   room restlessly, stopping in front of a little bookcase.
+   room restlessly, stopping in front of a little bookcase.</dir>
 
-Medium close-up  Looking for something to distract him Hutter pulls 
+<cam>Medium close-up</cam>  <dir>Looking for something to distract him Hutter pulls 
 
-   out a book at random.
+   out a book at random.</dir>
 
-Long shot  He moves back to the candle, sits down on his bed
+<cam>Long shot</cam>  <dir>He moves back to the candle, sits down on his bed
 
-   and opens the book. He gets interested in it.
+   and opens the book. He gets interested in it.</dir>
 
-Close up   The book's title page: VAMPIRE
+<cam>Close up   The book's title page: VAMPIRE</cam>
 
-   The page os being turned over.
+   <dir>The page os being turned over.</dir>
 
    THE NOSFERATU
 
@@ -654,73 +652,73 @@ Close up   The book's title page: VAMPIRE
 
    in under his spell, the spell of the vampire NOSFERATU.
 
-Shot of bed Close-up 
-Hutter, shaking his head, continues reading
+<cam>Shot of bed Close-up </cam>
+<dir>Hutter, shaking his head, continues reading
    Book:...grown up on his native soil - from
 
-   which alone he draws his power.
+   which alone he draws his power.</dir>
 
-   Hutter shuts the book, having lost interest. It seems confused
+   <dir>Hutter shuts the book, having lost interest. It seems confused
 
-   to him. He yawns and puts out the candle.
+   to him. He yawns and puts out the candle.</dir>
 
-Fade-out
+<cam>Fade-out</cam>
 
 </scene>
-<scene num="24">   12 meters
+<scene num="24">   <cam dis="12">12 meters</cam>
 
-Fade-in   
+<cam>Fade-in</cam>   
 
-Small white room
+<loc>Small white room
 
-at the inn  Morning sun is flooding in from the window. Hutter
+at the inn</loc>  <dir>Morning sun is flooding in from the window. Hutter
 
    wakes up. Yawning like someone who has slept deeply
 
    but not well. He sits up rubbing his eyes. They fall on
 
-   the book on the bedside table. He reads the title
+   the book on the bedside table. He reads the title</dir>
 
-Close-up   VAMPIRE
+<cam>Close-up   VAMPIRE</cam>
 
-Normal shot:  spits on the floor in contempt of the confused rubbish
+<cam>Normal shot:</cam>  <dir>spits on the floor in contempt of the confused rubbish
 
    and throws the book playfully into a corner.  Then he 
 
    pauses to listen, goes over to the window to open it. He
 
-   takes a deep breath of the morning air.
+   takes a deep breath of the morning air.</dir>
 
 </scene>
-<scene num="25">   6 meters    Walddorf
-   The grassy slope in the morning light. Coachmen and grooms
+<scene num="25">   <cam dis="6">6 meters</cam>    Walddorf
+   <dir>The grassy slope in the morning light. Coachmen and grooms
 
    are rounding up the horses with long whips and lots of shout-
 
-   ing.
+   ing.</dir>
 
 </scene>
-<scene num="26">   5 meters
-The small room  Hutter steps back from the window. His eyes are laughing, as
+<scene num="26">   <cam dis="5">5 meters</cam>
+<loc>The small room</loc>  <dir>Hutter steps back from the window. His eyes are laughing, as
 
    he turns round. He stretches himself happily; then he takes 
 
    off his shirt, goes over to the washstand, pours water over his
 
-   body. He has a proper wash.
+   body. He has a proper wash.</dir>
 
 </scene>
 <scene num="27">
    Dolny Kubin
-In the yard  The old servant, mother to all animals, throws corn to her
+<loc>In the yard</loc>  <dir>The old servant, mother to all animals, throws corn to her
 
    chickens.  There are sparrows, too. Everything is bathed in
 
-   sunlight.
+   sunlight.</dir>
 
 </scene>
-<scene num="28">   10 meters
-Outside the Inn  The bustle of departure. The horses are in harness. The
+<scene num="28">   <cam dis="10">10 meters</cam>
+<loc>Outside the Inn</loc>  <dir>The bustle of departure. The horses are in harness. The
 
    passengers have got into the coach. Now, in the morning
 
@@ -732,86 +730,86 @@ Outside the Inn  The bustle of departure. The horses are in harness. The
 
    hind and with the peasants and nosy children who are
 
-   gathered around the coach.
+   gathered around the coach.</dir>
 
-Close-up   The coachman is about to climb onto his seat, but the
+<cam>Close-up</cam>   <dir>The coachman is about to climb onto his seat, but the
 
    small Jewish inn-keeper holds him back: one passenger
 
    is missing. They look up to the windows; angry about
 
-   the delay the coachman cracks his whip a few times.
+   the delay the coachman cracks his whip a few times.</dir>
 
-Shot of inn:  Hutter appears in an upstairs window, still only half
+<cam>Shot of inn:</cam>  <dir>Hutter appears in an upstairs window, still only half
 
    dressed; he gives a wave: I am coming. And disappears
 
-   again.
+   again.</dir>
 
-Shot of door  Hutter comes rushing out with his travelling bag.
+<cam>Shot of door</cam>  <dir>Hutter comes rushing out with his travelling bag.</dir>
 
     
 
-Shot of coach  He climbs to his seat on the coach-box, the horses 
+<cam>Shot of coach</cam>  <dir>He climbs to his seat on the coach-box, the horses 
 
-   start moving.
+   start moving.</dir>
 
 </scene>
 <scene num="29">
-Outside the inn  The Huzules take off their hats. The children are waving.
+<loc>Outside the inn</loc>  <dir>The Huzules take off their hats. The children are waving.
 
    The old servant has joined them. God bless the travellers. 
 
    May he guard them against evil spirits. They stretch out their
 
-   hands as if warding them off.
+   hands as if warding them off.</dir>
 
-Medium close-up  Hutter breaks into loud laughter.
+<cam>Medium close-up</cam>  <dir>Hutter breaks into loud laughter.</dir>
 
-Fade-out
+<cam>Fade-out</cam>
 
 </scene>
-<scene num="30">   12 meters Westerheim
-A Mountain range
+<scene num="30">   <cam dis="12">12 meters</cam> Westerheim
+<loc>A Mountain range</loc>
 
-Long-range shot  In the distance a steep path cutting through the wild
+<cam>Long-range shot</cam>  <dir>In the distance a steep path cutting through the wild
 
-   scenery, on it the mail coach creeping slowly upwards.
+   scenery, on it the mail coach creeping slowly upwards.</dir>
 
 </scene>
 <scene num="31"> 
-  10 meters    road to the Schlesische Hütte
-The mail coach
+  <cam dis="10">10 meters</cam>    road to the Schlesische Hütte
+<loc>The mail coach</loc>
 
-Medium close-up  The mail coach is moving into the setting sun
+<cam>Medium close-up</cam>  <dir>The mail coach is moving into the setting sun</dir>
 
-Medium close-up  A coach window, and old woman. Hutter leans
+<cam>Medium close-up</cam>  <dir>A coach window, and old woman. Hutter leans
 
-   out, giving the coachman a push with an umbrella
+   out, giving the coachman a push with an umbrella</dir>
 
-Title   Drive on!
+Title   <title>Drive on!</title>
 
-The sun is setting  Next to her another old woman, identical looking
+<time>The sun is setting</time>  <dir>Next to her another old woman, identical looking
 
    She is staring into the abyss. Now the first one turns
 
-   to look in the same direction: two identical faces.
+   to look in the same direction: two identical faces.</dir>
 
 </scene>
-<scene num="32">   4 meters   View from Schlesische Hütte
+<scene num="32">   <cam dis="4">4 meters   View from Schlesische Hütte</cam>
 
-The rocky gorge  Wisps of mist are rising and falling in the last 
+<loc>The rocky gorge</loc>  <dir>Wisps of mist are rising and falling in the last 
 
-   rays of the setting sun. Patches of sun and shade
+   rays of the setting sun. Patches of sun and shade</dir>
 
-Fade-out
+<cam>Fade-out</cam>
 
 </scene>
-<scene num="33">   10 meters    Close to Arler Hütte
+<scene num="33">   <cam dis="10">10 meters    Close to Arler Hütte</cam>
 
-Title   At the crossroad
+Title   <title>At the crossroad</title>
  
-   A carved madonna casts a long shadow across
+   <dir>A carved madonna casts a long shadow across
 
    the road.  Behind it an old woman on her knees,
 
@@ -835,14 +833,14 @@ Title   At the crossroad
 
    left fork. But Hutter disregards their shouting
 
-   He waves farewell with his hat and walks briskly off.
+   He waves farewell with his hat and walks briskly off.</dir>
 
-33a   Hutter walking past the carved madonna
+33a   <dir>Hutter walking past the carved madonna</dir>
 
 </scene>
-<scene num="34">   8 meters    Vratna Pass
+<scene num="34">   <cam dis="8">8 meters    Vratna Pass</cam>
 
-Distant mountains View through the cut made into the rock by the road 
+<loc>Distant mountains</loc> <dir>View through the cut made into the rock by the road 
 
    into the far distance. In the background the fantastic
 
@@ -852,20 +850,20 @@ Distant mountains View through the cut made into the rock by the road
 
    comes racing down. A coach? A phantom? It moves with 
 
-   unearthly speed and disappears behind a ground swell.
+   unearthly speed and disappears behind a ground swell.</dir>
 
-1) Castle Orlok, dissolve 
+<loc>1) Castle Orlok</loc>, <cam>dissolve</cam> 
 
-2) Steep road between
+<loc>2) Steep road between
 
-boulders
+boulders</loc>
 
 </scene>
-<scene num="35">   4 meters    Near Schlesische Hütte
+<scene num="35">   <cam dis="4">4 meters    Near Schlesische Hütte</cam>
 
-At the crossroad
+<loc>At the crossroad</loc>
 
-Angle as in Scene 33 Mortally fightened, the coachman beats the horses. The
+<cam>Angle as in Scene 33</cam> <dir>Mortally fightened, the coachman beats the horses. The
 
    old woman has disappeared as if swallowed up by the
 
@@ -875,18 +873,18 @@ Angle as in Scene 33 Mortally fightened, the coachman beats the horses. The
 
    for a while. Then he pulls himself together and walks
 
-   resoltuely along the road on the left.
+   resoltuely along the road on the left.</dir>
 
-Fade-out
+<cam>Fade-out</cam>
 
 </scene>
-<scene num="36">   Vratna Pass
+<scene num="36">   <cam>Vratna Pass</cam>
 
-Fade-in
+<cam>Fade-in</cam>
 
-Carpathian virgin
+<loc>Carpathian virgin
 
-forest.   The trees are castling long shadows on the forest
+forest.</loc>   <dir>The trees are castling long shadows on the forest
 
    path. Hutter appears. He halts: what's that? Some-
 
@@ -920,12 +918,12 @@ forest.   The trees are castling long shadows on the forest
 
    into the carriage. It reverses quick as lightning,
 
-   dashes off a disappears.   
+   dashes off a disappears.</dir>   
 
 </scene>
 <scene num="37">
-   5 meters    At the Vratna Pass, behind Tyer Hora
-A fairy-t ale forest  Empty. By the roadside a wise, man-sized raven.
+   <cam dis="5">5 meters    At the Vratna Pass, behind Tyer Hora</cam>
+<loc>A fairy-tale forest</loc>  <dir>Empty. By the roadside a wise, man-sized raven.
 
     Its shoulders hunched up. It turns its head listening. 
 
@@ -938,16 +936,16 @@ A fairy-t ale forest  Empty. By the roadside a wise, man-sized raven.
     sits inside, looking terrified. 
 The raven
  follow him 
-   with mocking eyes behind glasses.
+   with mocking eyes behind glasses.</dir>
 
    
-Coach drives at top speed through a white forest
+<dir>Coach drives at top speed through a white forest</dir>
 </scene>
 <scene num="38">
-   5 meters
+   <cam dis="5">5 meters
 Long shot of a snake-
 
-like bend.  Valley. Deserted lane. Only a lonely twisted will-tree
+like bend.</cam>  <dir>Valley. Deserted lane. Only a lonely twisted will-tree
 
     with a straggly top can be seen. Again the carriage
 
@@ -957,20 +955,20 @@ like bend.  Valley. Deserted lane. Only a lonely twisted will-tree
 
    with blank eyes. Isn't there a grin on its mouth?
 
-   Drives over stone bridge across deep gorge
+   Drives over stone bridge across deep gorge</dir>
 
 </scene>
 <scene num="39"> 
-  15  meters    Poczamok
-Count Orlock's castle
+  <cam dis="15">15  meters    Poczamok</cam>
+<loc>Count Orlock's castle</loc>
 
-39a   The arch of a gate in the shade. The silhouette of the 
+39a  <dir> The arch of a gate in the shade. The silhouette of the 
 
    carriage drives underneath it at a sharp angle and disappears 
 
-   in the moonlit spacious castle yard. Shot of castle yard
+   in the moonlit spacious castle yard.</dir> <cam>Shot of castle yard</cam>
 
-Medium close-up  The porch. The carriage stops in front of it. Al
+<cam>Medium close-up</cam>  <dir>The porch. The carriage stops in front of it. Al
 
    -most in a faint, Hutter slides down. As if in a
 
@@ -980,9 +978,9 @@ Medium close-up  The porch. The carriage stops in front of it. Al
 
    it with his eyes. He stands in front of the closed 
 
-   gate, holding his bag.
+   gate, holding his bag.</dir>
 
-39b   Then, very very slowly the two wings of 
+39b   <dir>Then, very very slowly the two wings of 
 
    the gate open up. Somewhere far back
 
@@ -1002,15 +1000,15 @@ Medium close-up  The porch. The carriage stops in front of it. Al
 
    he walks towards the stranger. Behind
 
-   him the gate closes
+   him the gate closes</dir>
 
     </scene><title>End of Act 1</title></act>
 <act><title>Act II
 </title>
 <scene num="40">
 
-Hall.
-Medium close-up  In the center Orlok, the candle in his hand. The
+<loc>Hall.</loc>
+<cam>Medium close-up</cam>  <dir>In the center Orlok, the candle in his hand. The
 
     walls of the hall are plunged in darkness from 
 
@@ -1020,38 +1018,38 @@ Medium close-up  In the center Orlok, the candle in his hand. The
 
    hollow eyes and thin mouth the lord of the cas-
 
-   tle himself?
+   tle himself?</dir>
 
-Close-up   The face twists into a polite grimace. Sharp r atlike
+<cam>Close-up</cam>   <dir>The face twists into a polite grimace. Sharp r atlike
 
-   teach appear over the lower lip.
+   teach appear over the lower lip.</dir>
 
-Medium Close-up  They are now face to face. It must be the count for 
+<cam>Medium Close-up</cam>  <dir>They are now face to face. It must be the count for 
 
    this is no servant's gesture with which he now takes
 
-   hold of his visitor's bag.
+   hold of his visitor's bag.</dir>
 
-Title   The servants are asleep
+Title   <title>The servants are asleep
 
-   It is almost after midnight.
+   It is almost after midnight.</title>
 
   
 
-   Hutter's clenched fingers let go. Bag in hand,
+   <dir>Hutter's clenched fingers let go. Bag in hand,
 
     Orlok turns around. He holds up the candle
 
-   and walks ahead. Hutter follows.
+   and walks ahead. Hutter follows.</dir>
 
 </scene>
 <scene num="41">
 
-Gallery of ancestor's
+<loc>Gallery of ancestor's
 
-portraits
+portraits</loc>
 
-Medium Close-up  One of the castle owner's ancestors , frontal
+<cam>Medium Close-up</cam>  <dir>One of the castle owner's ancestors , frontal
 
    view. For centuries he has been asleep like this
 
@@ -1059,16 +1057,16 @@ Medium Close-up  One of the castle owner's ancestors , frontal
 
    His eyes begin to move. Two figures are passing:
 
-   Orlok and his visitor.   
+   Orlok and his visitor.</dir>   
 
-Long shot panorama He follows them with his eyes.  They walk close to the 
+<cam>Long shot panorama</cam> <dir>He follows them with his eyes.  They walk close to the 
 
-   wall where portrait follows portrait.
+   wall where portrait follows portrait.</dir>
 
 </scene>
-<scene num="42">   25 meters
+<scene num="42">   <cam dis="25">25 meters</cam>
 
-Dining room.  Gigantic dimensions. In the center a massive Renaissance 
+<loc>Dining room.</loc>  <dir>Gigantic dimensions. In the center a massive Renaissance 
 
    table. Somewhere in the distance a fire place. Flanked by
 
@@ -1090,9 +1088,9 @@ Dining room.  Gigantic dimensions. In the center a massive Renaissance
 
    Hutter sits down. Orlok lifts up the papers and studies
 
-   them.
+   them.</dir>
 
-Close-up   Orlok reading. The back page of the letter shows a con- 
+<cam>Close-up</cam>   <dir>Orlok reading. The back page of the letter shows a con- 
 
    fusion of numbers, legible and illegible letters. The holy 
 
@@ -1100,37 +1098,37 @@ Close-up   Orlok reading. The back page of the letter shows a con-
 
    balistic signs. The spindly fingers holding the letter cover
 
-   up the rest like claws.
+   up the rest like claws.</dir>
 
-Close-up   Hutter is spell bound, his eyes wide-open
+<cam>Close-up</cam>   <dir>Hutter is spell bound, his eyes wide-open</dir>
 
-Closeup   Over the top margin of the letter Orlok's eyes appear. He
+<cam>Closeup</cam>   <dir>Over the top margin of the letter Orlok's eyes appear. He
 
    is looking over to Hutter like a snake about to hypnotize
 
-   it's victim.
+   it's victim.</dir>
 
-Close-up   Hutter eating. He puts a morsel into his mouth. He lifts
+<cam>Close-up</cam>   <dir>Hutter eating. He puts a morsel into his mouth. He lifts
 
-   up his eyes. His look turns into a stare. He is unable to swallow
+   up his eyes. His look turns into a stare. He is unable to swallow</dir>
 
-Long shot  The hall with the halo of light in the center; the
+<cam>Long shot</cam>  <dir>The hall with the halo of light in the center; the
 
-   figures are looming above the table.
+   figures are looming above the table.</dir>
 
-Close-up   An antique clock with a pendulum. A hammer 
+<cam>Close-up</cam>   <dir>An antique clock with a pendulum. A hammer 
 
    strikes the hour. The big hand points to 12
 
-   o'clock.
+   o'clock.</dir>
 
-Medium close-up:  Hutter staring into space as if transfixed. After
+<cam>Medium close-up:</cam>  <dir>Hutter staring into space as if transfixed. After
 
     the twelfth stroke he drops his knife and fork. 
 
-    The knife grazes his hand, it is bleeding.
+    The knife grazes his hand, it is bleeding.</dir>
 
-Medium Close-up  Quick as lightning the count rushes up to him 
+<cam>Medium Close-up</cam>  <dir>Quick as lightning the count rushes up to him 
 
    offering his help. He prevents Hutter from wiping 
 
@@ -1143,14 +1141,14 @@ Medium Close-up  Quick as lightning the count rushes up to him
    Hutter pulls away his hand from his grip. He moves
 
    backwards 
-towards the fireplace.
-Medium Close-up  By the fireplace. The Count is polite; he has lost 
+towards the fireplace.</dir>
+<cam>Medium Close-up</cam>  <dir>By the fireplace. The Count is polite; he has lost 
 
    his ghostlike appearance. He is asking for something 
 
-   in a friendly, almost sad manner.
+   in a friendly, almost sad manner.</dir>
 
-Title   Shall we stay up together
+Title   <title>Shall we stay up together
 
    for a little while? It's a
 
@@ -1158,19 +1156,19 @@ Title   Shall we stay up together
 
    And during the day I am always 
 
-   out and about.
+   out and about.</title>
 
-   The Count sits down. And Hutter cannot resist
+   <dir>The Count sits down. And Hutter cannot resist
 
    his chivalrous manner. He sinks back into the
 
-   massive chair.
+   massive chair.</dir>
 
 </scene>
-<scene num="43">   18 meters
-Fade-in
+<scene num="43">   <cam dis="18">18 meters</cam>
+<cam>Fade-in</cam>
 
-The same hall  Hutter wakes up in the large armchair near the
+<loc>The same hall</loc>  <dir>Hutter wakes up in the large armchair near the
 
    fireplace. He can hardly remember the events of 
 
@@ -1178,13 +1176,13 @@ The same hall  Hutter wakes up in the large armchair near the
 
    empty. But there is light on it. Hutter's gaze wanders
 
-   across the hall over to the window.
+   across the hall over to the window.</dir>
 
-Shot of window  It is very high and divided up into small panes. 
+<cam>Shot of window  It is very high and divided up into small panes. 
 
-   Morning light is streaming in.
+   Morning light is streaming in.</cam>
 
-Shot as before  An old-fashioned window. An ancient hall, very dusty.
+<cam>Shot as before</cam>  <dir>An old-fashioned window. An ancient hall, very dusty.
 
    Nothing strange about it. Hutter yawns. His eyes 
 
@@ -1196,34 +1194,34 @@ Shot as before  An old-fashioned window. An ancient hall, very dusty.
 
    A mirror! His bag is nearby on the floor. He takes 
 
-   out his mirror and looks at his neck.
+   out his mirror and looks at his neck.</dir>
 
-Close-up   The mirror shows two red spots on his neck, 
+<cam>Close-up   The mirror shows two red spots on his neck, 
 
-   very close together.
+   very close together.</cam>
 
-Normal close-up  Why should he worry about a few little spots? he
+<cam>Normal close-up</cam>  <dir>Why should he worry about a few little spots? he
 
    thinks and puts the mirror away. He yawns once
 
    more. But suddenly he stops. What's this? He looks
 
-   at the table, astonished. 
+   at the table, astonished.</dir>
 
    
 
-Close up:  A still-life of food: fruit, a joint, all kinds
+<cam>Close up:  A still-life of food: fruit, a joint, all kinds
 
-    of gastronomic delicacies.
+    of gastronomic delicacies.</cam>
 
-Normal:   He is overjoyed. He rushes over to the table and begins 
+<cam>Normal:</cam>   <dir>He is overjoyed. He rushes over to the table and begins 
 
-   to eat as if he were starved.
+   to eat as if he were starved.</dir>
 
 </scene>
-<scene num="44">   22 meters    Poczamok
+<scene num="44">   <cam dis="22">22 meters    Poczamok</cam>
 
-The dilapidated terrace Still eating, Hutter steps out into the sunlight. He looks
+<loc>The dilapidated terrace</loc> <dir>Still eating, Hutter steps out into the sunlight. He looks
 
    around, seeming relaxed. He holds a sheet of paper
 
@@ -1231,45 +1229,45 @@ The dilapidated terrace Still eating, Hutter steps out into the sunlight. He loo
 
    able place and, leaning against the stone wall He begins
 
-   to write a letter.
+   to write a letter.</dir>
 
-Close-up:  The beginning of the letter: My dearest, my only one. . .
+<cam>Close-up:</cam>  The beginning of the letter: My dearest, my only one. . .
 
-Normal:   Hutter stands upright, looking at the clouds. Why does
+<cam>Normal:</cam>  <dir> Hutter stands upright, looking at the clouds. Why does
 
    that stupid mosquito buzzing around his nose stop him
 
    from concentrating? He catches it quickly. And now he 
 
-   knows how to continue. He puts pencil to paper again.
+   knows how to continue. He puts pencil to paper again.</dir>
 
-Close-up:   Part of the letter:...the mosquitoes are a real pest. I have
+<cam>Close-up:</cam>   Part of the letter:...the mosquitoes are a real pest. I have
 
    been stung at the next by two at once, very close to-
 
    gether, one on each side...
 
-Long shot:  Hutter keeps writing
+<cam>Long shot:</cam>  <dir>Hutter keeps writing</dir>
 
 </scene>
-<scene num="45">   14 meters    Poczamok
+<scene num="45">   <cam dis="14">14 meters    Poczamok</cam>
 
-Forest near the castle A man on horseback is approaching. He stops occasionally
+<loc>Forest near the castle</loc> <dir>A man on horseback is approaching. He stops occasionally
 
-   and peers over to the castle as if he were scared of it.
+   and peers over to the castle as if he were scared of it.</dir>
 
-Outside the porch: Hutter stands there, waving with the letter. The rider comes
+<cam>Outside the porch:</cam> <dir>Hutter stands there, waving with the letter. The rider comes
 
    up cautiously and takes the letter without dismounting
 
-   The he dashes off at a gallop showing signs of great fear.
+   The he dashes off at a gallop showing signs of great fear.</dir>
 
 </scene>
-<scene num="46">   15    meters
+<scene num="46">   <cam dis="15">15    meters</cam>
 
-Fade-in.
+<cam>Fade-in.</cam>
 
-Dining room  Orlok is sitting by the fireplace bent over some plans.
+<loc>Dining room</loc>  <dir>Orlok is sitting by the fireplace bent over some plans.
 
    Hutter is standing behind him. Orlok shows more 
 
@@ -1283,21 +1281,21 @@ Dining room  Orlok is sitting by the fireplace bent over some plans.
 
    He wants to hide it quickly, yet Orlok was quicker. He has
 
-   picked it up and is looking at it.
+   picked it up and is looking at it.</dir>
 
-Close up   A miniature portrait of Ellen.
+<cam>Close up   A miniature portrait of Ellen.</cam>
 
-Medium close-up  Orlock asks about the person in the picture. And Hutter
+<cam>Medium close-up</cam>  <dir>Orlock asks about the person in the picture. And Hutter
 
-   is forced to answer him.
+   is forced to answer him.</dir>
 
-Close up:  Orlok's eyes open wide. His lips look even thinner than
+<cam>Close up:</cam>  <dir>Orlok's eyes open wide. His lips look even thinner than
 
-   before. Contemplating the picture he whispers:
+   before. Contemplating the picture he whispers:</dir>
 
-Title   What a beautiful throat your wife has...
+Title   <title>What a beautiful throat your wife has...</title>
 
-Medium close-up:  Hutter is breathing hard. The fear which grips 
+<cam>Medium close-up:</cam>  <dir>Hutter is breathing hard. The fear which grips 
 
    him in the count's presence is replaced by a sud-
 
@@ -1311,15 +1309,15 @@ Medium close-up:  Hutter is breathing hard. The fear which grips
 
    determination and a glazed look in his eyes, and 
 
-   says, anticipating the horrors to come with pleasure.
+   says, anticipating the horrors to come with pleasure.</dir>
 
-Title   I shall buy the house...
+Title   <title>I shall buy the house...
 
    The handsome deserted
 
-   house opposite yours.
+   house opposite yours.</title>
 
-   Quickly, he takes up the contract and signs it. He
+   <dir>Quickly, he takes up the contract and signs it. He
 
    hands it back to Hutter. Hutter bows uneasily and
 
@@ -1330,15 +1328,15 @@ Title   I shall buy the house...
    claws.
 
    
-Hutter takes his bag with him
-Fade- out:  
+Hutter takes his bag with him</dir>
+<cam>Fade- out:</cam> 
 
 </scene>
-<scene num="47">   15 meters
+<scene num="47">   <cam dis="15">15 meters</cam>
 
-Fade-in:   
-Candle is burning
-A small room in castle Hutter is standing in the middle of the room, 
+<cam>Fade-in:   
+Candle is burning</cam>
+<loc>A small room in castle</loc> <dir>Hutter is standing in the middle of the room, 
 
    quite dazed. He shakes off his misgivings. He de-
 
@@ -1350,8 +1348,8 @@ A small room in castle Hutter is standing in the middle of the room,
 
    from the inn. Did the in-keepers wife put it there? 
 
-   Mechanically, he opens it.
-   Close-up:  The book
+   Mechanically, he opens it.</dir>
+   <cam>Close-up:  The book</cam>
    
    Chapter II
    
@@ -1365,7 +1363,7 @@ A small room in castle Hutter is standing in the middle of the room,
    
    We humans, however, are helpless and blind at night
    
-   Normal   Hutter shuts the book. A horrible thought has 
+   <cam>Normal</cam>   <dir>Hutter shuts the book. A horrible thought has 
    
    occurred to him. He is feverish. Is it this book, 
    
@@ -1375,6 +1373,9 @@ A small room in castle Hutter is standing in the middle of the room,
    
    to have vampire-like claws and rat's teeth. He
    
-   jumps up, first running, the sneaking to the door.
+   jumps up, first running, the sneaking to the door.</dir>
    
 </scene>
+</act>
+</script>
+</root>
