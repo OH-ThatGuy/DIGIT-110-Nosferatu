@@ -5,17 +5,23 @@ script = element script {head, act+}
 # EBB: I moved scene down into act, since your current encoding has scenes nested inside acts. 
 
 head = element head {title, mixed{note}}
-title = element title {type?, text}
+title = element title {type?, mixed{char}}
 #OH 10/30: Maybe change title to mainTitle so it doesn't get mixed up with the actual speech title cards
 # ebb: Suggestion: Just keep it as title, and use an optional @type attribute to separate the main title, so you can process it differently.
+# ebb: Adding a <char> element here wo you can mark the character names! 
+char = element char {who, text}
+who = attribute who {"ellen" | "nos" | "hutter" | text}
+# ebb: I added a few simple character values, and you can just add more here? See if you agree with this. 
+
 note = element note {text}
 
 act = element act {num, scene+}
 num = attribute num {xsd:int}
 
-scene = element scene {num, mixed{(sn | annot | title | cam | p | loc | time | dir)+}}
+scene = element scene {num, mixed{(char | sn | annot | title | cam | p | loc | time | dir)+}}
 #OH: I named this element annot because the script specifically mentions that all bold text is annotations made by F.W. Murnau, maybe we should also specify that it is bold with an attribute?
-# EBB: I added the title element here so you can reference the title cards in the scenes. 
+# ebb: I added the title element here so you can reference the title cards in the scenes. 
+# ebb: Including a <char> element here wo you can mark the character names! 
 annot = element annot {text}
 #OH: we have a document for explaining some shorthand stuff, but I thought I might as well explain here that sn = sidenote (because of their position at the side of the page and p = paragraph, which should be self explanatory
 sn = element sn {text}
