@@ -18,7 +18,7 @@
 
 
          <scene num="23">
-            <cam dis="4" exp="2">4 meters 2x</cam>
+            <cam dis="4" sync="2">4 meters 2x</cam>
             <cam>Fade-in</cam>
             <loc>Outside a window</loc>
             <dir>There are flowers in green window-boxes. On the window sill a kitten is playing in
@@ -28,7 +28,7 @@
          </scene>
          <scene num="34">
             <loc>Ellen's sitting room</loc>
-            <cam dis="7" exp="2">7 meters 2x</cam>
+            <cam dis="7" sync="2">7 meters 2x</cam>
             <loc>Small neat kitchen</loc>
             <dir>The morning sun casts the shadow of a window frame onto the floor. Ellen, by the
                window, is pulling the thread with the ball, the cat follows it with a leap. Then she
@@ -82,7 +82,7 @@
                killed them ... the beautiful flowers?</title>
             <dir>Hutter is taken aback for a moment. He apologizes and kisses her. Then she forgives
                him, they stand in an embrace.</dir>
-            <cam exp="2">Fade-out 2x</cam>
+            <cam sync="2">Fade-out 2x</cam>
          </scene>
          <scene num="5a">
             <cam dis="10">10 meters</cam>
@@ -167,7 +167,7 @@
                him to set out on the journey at once, hands him some money and doc- uments and
                pushes him to the door.</dir>
             <cam>Fade-out</cam>
-            <cam dis="18" exp="2">18 meters 2x As in scene 8</cam>
+            <cam dis="18" sync="2">18 meters 2x As in scene 8</cam>
          </scene>
          <scene num="11"><loc>Room in Hutter's House</loc>
             <dir>Ellen is sitting by the window. Now she can see him coming. She waves to him. Her
