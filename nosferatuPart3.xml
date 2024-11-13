@@ -507,7 +507,7 @@ Fade in.
 <annot>Compare the following
     black dress and shawl</annot>
 
-    <dir cost>Hutter, black waist-coat and jacket.</dir>
+    <dir type="cost">Hutter, black waist-coat and jacket.</dir>
 
 <loc>Ellen's room.</loc>
 
