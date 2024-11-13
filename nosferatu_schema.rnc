@@ -1,18 +1,21 @@
 start = root
 root = element root {script}
 #OH: as we progress we'll add more elements, but I just wanted to get a base for now
-script = element script {head, act+, scene+}
+script = element script {head, act+}
+# EBB: I moved scene down into act, since your current encoding has scenes nested inside acts. 
 
 head = element head {title, mixed{note}}
-title = element title {text}
+title = element title {type?, text}
 #OH 10/30: Maybe change title to mainTitle so it doesn't get mixed up with the actual speech title cards
+# ebb: Suggestion: Just keep it as title, and use an optional @type attribute to separate the main title, so you can process it differently.
 note = element note {text}
 
-act = element act {num, text}
+act = element act {num, scene+}
 num = attribute num {xsd:int}
 
-scene = element scene {(sn | annot | cam | p | loc | time | dir)+}
+scene = element scene {num, mixed{(sn | annot | title | cam | p | loc | time | dir)+}}
 #OH: I named this element annot because the script specifically mentions that all bold text is annotations made by F.W. Murnau, maybe we should also specify that it is bold with an attribute?
+# EBB: I added the title element here so you can reference the title cards in the scenes. 
 annot = element annot {text}
 #OH: we have a document for explaining some shorthand stuff, but I thought I might as well explain here that sn = sidenote (because of their position at the side of the page and p = paragraph, which should be self explanatory
 sn = element sn {text}
@@ -39,12 +42,7 @@ cost = element cost {text}
 # title cards that label + describe
 # cards that contain dialogue : which characters are speaking?
 
-# <sp who="ellen">
-#      <char>ELLEN</char>
-#      <speech>.......</speech>
-# </sp>
-
-# In the descriptions: what characters are mentioned
+# In the <title> descriptions: **what characters are mentioned**
 # <descript>.....<char who="ellen">Ellen</char> walks in.
 
 # OH 10/30: Consider adding the following elements to schema in the future, all element names are subject to change, nothing here is final, if you hate it, that's ok

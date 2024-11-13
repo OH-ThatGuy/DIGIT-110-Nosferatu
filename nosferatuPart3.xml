@@ -1,1359 +1,391 @@
 <?xml-model href="nosferatu_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <script>
-        <head><title>...</title>....
-        <note>....</note>
+        <head><title>...</title>.... <note>....</note>
         </head>
-   <act num="3">    
-<scene num="111">  
-<cam>4 meters</cam>
-Roof Balcony of
-
-<loc>Harding's mansion</loc> <dir>Ellen in Anny's arm. Her hair is fluttering in the wind.
-
-   Ellen stretching her hands towards the sea, as if trying to 
-
-   defend herself.</dir>
-
-Title:   <title>I must go home. He is coming.</title>
-
-</scene>
-<scene num="112">  
-
-<loc>At the graveyard</loc>
-
-<loc>View over the sea  In the foreground the crosses. In the back sandbank and 
-
-   cliffs. In the distance people, hurrying to rescue the ship-
-
-   wrecked. The sand bank . The ship crashes into it . . . 
-
-   turns over on its side.</loc>
-
-   
-<cam>View through archway</cam> : <loc>the sailing boat is moving 
-   past.        Weimar</loc>
-
-</scene>
-<scene num="113">  
-4 meters
-Lunatic's cell
-
-<cam>Long shot</cam>:  <dir>Knock alone. He drags up a chair . . . to the window. He 
-
-   climbs up on it.</dir>
-
-    <cam>Medium close-up:  </cam><dir type="char">Knock pulls himself up by the bars, trying to look out.
-
-   The wind, blowing in, makes his hair stand on end uncannily.</dir>
-
-</scene>
-<scene num="113a">  
-10 meters
-<loc>The stranded ship  Dead and forsaken. a rope is dangling from the deck. It is
-
-   swaying in the wind.</loc>
-
-<cam>Medium close-up</cam>  <loc>An endless number of rats climbing down the swaying rope.</loc>
-
-<cam>Shot of deck.</cam>  <dir>The hatch. It opens slowly.</dir> <dir>NOSFERATU climbs out.</dir> <dir>He
-
-   carries the last coffin.</dir> <dir>Remains standing. Motionless.</dir> The
-
-   image of death. Then he approaches slowly.
-
-   
-
-   
-1) Ship anchored in the harbor. Dissolve
-   2)Ship's hatch with a piece of deck.
-
-   Trick:   1) Canvas glides away from hatch.
-
-               2) Hatch lid is lifted.
-
-               3) Rats are rushing on deck.
-
-               4) Nosferatu coffin in arms climbs out.
-
-   
-
-</scene>
-<scene num="114">  
-    <cam>8 meters</cam>    <loc>Lauenburg or Travemünde</loc>
-Town center.  Trees, shaken by storm. A carriage races up, stops abruptly.
-
-Medium close-up:  Hutter jumps from the carriage.
-
-   An axle is broken.
-
-   The coachman seems at a loss.
-
-   Hutter cannot wait. He leaves the carriage and runs of f.
-
-</scene>
-<scene num="115">  
-5 meters
-Archway with a view of
-
-the harbor:  
-Nosferatu enters the town
-</scene>
-<scene num="116">  
-6 meters
-    <loc>The roof of Harding's
-        
-        mansion.</loc>  Ellen's room at the Hardings'
-
-   Ellen and Anny. Ellen suddenly breaks away. Overjoyed 
-
-   as if she had a happy vision she throws her arms up and 
-
-   shouts:
-
-Title:   <title>I must go to him. He is coming!!</title>
-
-   
-
-   She moves off and vanishes.
-
-   Anny wrings her hands in despair.
-
-</scene>
-<scene num="117">  
-4 meters 
-   
-   <loc>Storm-tossed trees.</loc> A white figure comes out of the house. 
-
-   It is Ellen. She is running through the park.
-
-118   
-<loc>perhaps Lüneberg Street</loc>
-   <loc>Shuttered windows.</loc>     <dir>Nosferatu striding</dir>
-
-118a   <dir>Hutter, running along the street.</dir> 
-
-</scene>
-<scene num="119">  
-<cam>8 meters</cam>
-Lunatic's cell
-
-<cam>Long shot</cam>: Knock, moving away from the window wall
-
-<cam>Medium close-up</cam>:  The madman is listening for outside noises, as if he had
-
-   received a signal from the other world . . . triumphantly . . . 
-
-   he whispers to himself:
-
-Titles:   <title>The master is near . . .the master is near . . .!</title>
-
-<cam>Long shot</cam>:  Suddenly, he listens attentively.
-
-   He creeps over to the door. There he waits expectantly . . .
-
-   The door opens. The attendant appears. He looks around
-
-   the room. Not noticing that Knock is behind him. Knock
-
-   creeps carefully behind his back. Suddenly frightened, the 
-
-   attendant turns around. Knock makes for his throat like 
-
-   a vampire. The attendant falls over. The madman is at his
-
-   throat
-
-   
-for a moment only, then he lets go and sneaks out.
-</scene>
-<scene num="120">  
-<cam>5 meters</cam>
-<loc>In front of Hutter's house</loc> Hutter comes running up. He looks up: no light. He is just
-
-   about to enter when - somebody is calling. He turns around
-
-   Ellen!!!!! They fall into each other's arms.
-
-</scene>
-<scene num="121">  <loc>Square with fountain</loc>    <cam>5 meters</cam>
-
-   Nosferatu, cof˚n under his arm, is standing in the
-
-   middle of the square. Looking around to orientate 
-
-   himself. Then he strides on.
-
-</scene>
-<scene num="122">  
-<cam>4 meters    2x</cam>
-Hutter's parlour  Ellen's sitting room
-
-   A lamp is shining. Hutter and Ellen. They are sitting on the
-
-   chaise lounge.  The happiness of being reunited was too much.
-
-   Overpowered by emotion, he sinks down on her arm.
-
-</scene>
-<scene num="123">  
-<cam>4 meters</cam>
-<loc>In front of Hutter's house</loc>  
-
-Nosferatu, staring up
-</scene>
-<scene num="124">  
-6 meters
-  
-<cam>Fade-in</cam>.   Hutter and Ellen, on the chaise lounge. He sits up, looking 
-
-   deep into her eyes.
-
-Title:   <title>Thank God . . . you are well  . . .now everything</title>
-
-   has come all right.
-
-   She does not understand him. But the joy of being to-
-
-   gether again is stronger than anything else. And the
-
-   room is bright.
-</scene>
-
-<scene num="125"> 
-<cam>10 meters</cam>
-Street in front of Hutter's
-
-House   There is nobody about. But in the middle of the street 
-
-   stands NOSFERATU, hidden by the night, carrying the 
-
-   cof fin. Slowly, he turns his head and looks over to Hutter's
-
-   house.
-
-Shot of Hutter's house [There is a friendly light in the window]
-
-The deserted house Empty! Carrying the coffin - Nosferatu appears
-   in picture.
-
-Medium close-up:  NOSFERATU. Once more he turns his head. He looks over
-
-   to the other side. The deserted house is over there. He 
-
-   makes for that now, walking slow.
-
-   
-Then he goes into the house.
-Fade-out.
-
-</scene>
-<scene num="126">  
-12 meters
-On the stranded ship The captain, collapsed in death, is tied to the helm. In the
-
-   foreground, some men, Harding among them, are climbing
-
-   up on deck. They are aghast at the terrible sight.
-
-Close-up:  The dead captain. Tied to the helm in discharge of his duty!
-
-   One hand is still on the helm. The other, holding a crucifix,
-
-   clutches his chest in mortal agony.
-
-   His head sunk back, face distorted. There are two red marks
-
-   on his neck . . . 
-
-Close-up:  Harding. He cannot comprehend the horror . . .
-
-</scene>
-<scene num="127">  
-6 meters
-Sandbank harbor  The stranded ship is in sight. It is night-time
-
-Long shot:  In the blowing wind nocturnal figures . . .townspeople
-
-Close-up:  Down the tilted hulk a man is climbing along a rope.
-
-Medium close-up:  By the light of a torch! the captain of the harbor with a
-
-   number of old people . . . Looking like fishermen. The
-
-   climber approaches and reports.
-
-Title:   Everything has been examined . . 
-
-   No living soul on board.
-
-   The captain receives the report . . .  jots down some notes.
-
-</scene>
-<scene num="128">  
-10 meters   [Is inserted below]
-On board ship.  Night
-
-Long shot:  Back-board with helm.
-
-   Some men are lifting up the dead captain, and carrying
-
-   off the corpse.
-
-Captain's cabin:  Harding alone . . . he finds a book next to a masthead that
-
-   is affixed to the helm. In the light of a dim lantern
-
-   he reads:
-
-Close-up:  A page of the book
-
-   Varna - July 12
-
-   Crew - apart from myself the captain - one helmsman
-
-   mate and five sailors.
-
-   Departing  - for the Dardanelles.
-
-Normal Shot:  Harding shakes his head.
-
-   He is puzzled.
-
-   
-On deck. Harding emerges from the cabin
-   with the book in his hand.
-
-Fade-out.
-
-</scene>
-<scene num="129">  
-15 meters
-Fade-in:   
-Daytime
-Port Authority building A large hall. On the walls a number of figure heads
-
-   Models of ships are suspended from the ceiling. The
-
-   dead captain [is carried] in lying in state.
-
-Medium Close-up: Dr. Sievers is examining him. He notices the marks on
-
-   his neck.
-
-   Dr. Sievers turns to Harding. He, too, cannot make 
-
-   sense of this case. Nevertheless he talks incessantly.
-
-   Harding 
-comes closer
- shows him the log-book. Both
-   of them are reading:
-
-Close-up:  The log-book. A page:
-
-   Second day: July 13
-
-   A sailor has fallen ill with a fever.
-
-   Course: SSW. Direction of wind:
-
-   
-
-   Third day: July 14
-
-   Mate is talking strangely. He says there is an unknown
-
-   passenger below deck.
-
-   Course SE. Direction of wind NE.
-
-   Volume of wind 3.6.
-
-Normal shot:  Sievers and Harding are looking at each other.
-
-   Sievers' white beard is trembling. They continue reading.
-
-   Tenth day: July 22
-
-   Rats in the ship's hold.
-
-   Danger of plague.
-
-Normal shot:  Harding has been reading this aloud.
-
-   Now Sievers understands at last. He points to the book 
-
-   with his finger. Danger of plague! That's what it is. Dan-
-
-   ger of plague, he calls out.
-
-Title:   Danger of plague!
-
-   Go home!
-
-   Shut all your windows and doors!
-
-   Deeply frightened, the bystanders move away. The women 
-
-   put the ends of their head-scarves into their mouths. Panic-
-
-   stricken .the crowd leaves the room.
-
-Fade-out.
-
-   
-(Perhaps end of act)
-</scene>
-<scene num="130">  
-15 meters
-Fade-in
-
-A deserted square: Nobody is about. Except in the center of the square, the
-
-   town-drummer with his large drum.
-
-Medium close-up:  The drummer. He beats a mighty roll.
-
-Medium close-up:  A closed window.  The hatch opens and a woman's head
-
-   appears: totally emaciated, sunken cheeks, long dishevelled
-
-   hair. The disease has gripped her too. On her neck the 
-
-   ominous little marks.
-
-Medium close-up:  The drummer has produced a piece of paper and reads
-
-   it aloud:
-
- 
-
-   magistrate of this town prohibits any movement
-
-   of plague-suspects into hospitals to prevent
-
-   the plague from spreading through the streets.
-
-  
-
-   The drummer has finished reading and goes off.
-
-    </scene>
-    
-<title>End of Act I</title>
-    </act>  
-<act><title>Act V
-</title>
-<scene num="131">   
-15 meters
-Fade in.
-
-A bend in a street   A man emerges from a front door. He shuts the
-
-    door behind him. Quickly and with circumspection 
-
-    he chalks a white cross on the door. Then goes on.
-
-Panning shot:   The adjoining house. The man knocks hard on 
-
-    the door. From a window above a head looks out.
-
-    There are still people living here. The man moves on.
-
-Panning shot:   The first house in the side-street. A coffin is being
-
-    carried out. Men carrying it have white bandages 
-
-    over their mouths. The man comes along and 
-
-    dr aws a cross on this house, too. Then he walks
-
-    on, following his horrible business.
-
-</scene>
-<scene num="132">   
-15 meters    2x    shaded candle on table 
-    near armchair
-.
-Ellen's bedroom
-
-Close-up:   Book-cover Inscription
-
-    (Vampire) See Chapter 1 of book.
-
-Dissolve to:   Ellen by the window, the book on her knees
-
-    continues reading, overcoming her aversion.
-
-    Chapter II appears.
-
-Medium close-up:  Ellen is pondering on what she has read.
-
-    Hutter comes into the picture, with agitation
-
-    almost hostility he grabs the book.
-
-    Ellen, standing now, looks straight into his
-
-    eyes, turns and points over to the deserted
-
-    house.
-
-    
-Compare the following
-    black dress and shawl
-
-    Hutter, black waist-coat and jacket.
-
-Ellen's room.
-
-Long shot:   Ellen by the window. Hutter approaches from 
-
-    the door
-
-Medium close   Suddenly, she grabs his arm, stares out of the 
-
-    window pointing out, she shouts: There!!!
-
-    
-Her body is tensed up like a bow trembling
-    with excitement.
-
-</scene>
-<scene num="133">   3 meters
-
-The deserted house  Seen through Ellen's window frame.
-
-Almost at once dissolve
-
-to window.
-
-Medium close-up:   A window, divided into four rectangular panes.
-
-    Light from behind. Stuck to the window, almost
-
-    completely covering it,
-
-    something looking like a black fourlegged spider.
-
-    It takes a moment before one can make out Nos-
-
-    feratu's fingers which are clawing the window frame.
-
-    In the center of the body, grinning lasciviously, 
-
-    the waxen face with ratlike teeth.  
-
-</scene>
-<scene num="134">   
-8 meters 2x
-Ellen's bedroom.   Ellen holds frantically on to Hutter's hand [shaken]
-
-    breathing heavily
-
-    She bends her head back. towards him saying.
-
-Title:    This is how I see it- every evening. . .!!!
-
-    She bends her head back. She knows all she has
-
-     to know. And there is peace in the knowledge.
-
-    Hutter has not come to that yet. He finds her calm-
-
-    ness disturbing. He follows the retreating figure 
-
-    with his eyes.
-
-Medium close-up:   Ellen is swaying.
-
-Medium close-up:   Hutter, despairingly, presses his fist against his face.
-
-Fade-out.
-
-</scene>
-<scene num="135">   6 meters
-
-In front of Hutter's house  It is now evening. The lamp-lighter comes down 
-
-    the darkening street and lights up the street-lamps.
-
-    The he walks on.
-
-    
-! remains!
-</scene>
-<scene num="136">   
-10 meters
-Fade-in:
-
-Anny's bedroom
-
-Long shot:   Anny crouching on a chaise lounge. Bent over her 
-
-    Harding who is holding her hands and trying to 
-
-    calm down the struggling woman who is shaking fitfully.
-
-    She collapses with exhaustion. Then pulls himself
-
-    together and decides:
-
-Title:    I will run over quickly . . . 
-
-    I shall get Sievers.
-
-    And he is gone.
-
-Medium close-up:   Anny, having almost fainted with fear, comes to
-
-    again. She opens her eyes. She lifts her head. No-
-
-    body around?? Is she all alone?? Isn't there some-
-
-    thing moving about in the corner? Something
-
-    fluttering at the window?
-
-Medium close-up:   The window, covered by the curtain. Behind it
-
-    the shadow of a giant bat.
-
-    It grows and grows. Soon it isn't a bat any long-
-
-    er. A vampire! NOSTERATU?!
-
-Medium close-up:   Anny's body hits the wall. She jumps up and pulls
-
-    the bell. Then half crazed with fear, she runs
-
-    into the background.
-
-</scene>
-<scene num="137">
-Anny's bedroom.
-
-Long shot:   Night. Servants running to and fro in the direc-
-
-    tion of the bedroom.
-
-   
-
- 
-    
-
-   
-
-137a   The bell is ringing.
-
-137b   Servant's room. A servant asleep doesn't hear, turns
-
-   over in his sleep
-</scene>
-<scene num="138">   
-3 meters
-Anny's 
-Bedroom
-  Anny pressed close to the wall. Servants are rushing in.
-   There!
-
-   She shouts pointing to the window. Like a flock of 
-
-   chicken the women are huddling together. Anny rushes
-
-   over to them, but they are already so gripped by fear that
-
-   they imagine her fingers, which they are trying to push back,  
-
-   to be the vampire's claws. Shrieking, they run off in all
-
-   directions. The door is slammed shut. Anny beats against 
-
-   
-the door
-. She is waiting for the horror, but she doesn't
-   want to see it, much r ather die first. She grabs a table cloth 
-
-   and covers her head and neck. Then she collapses.
-
-Fade-out.
-
-</scene>
-<scene num="139">  
-3 meters
-Fade-in.
-
-Ellen's bedroom  Daytime. Ellen by the window . . .looking out. She stands
-
-   motionless. Paralysed by misery she witnesses the daily
-
-   scene of wretchedness.
-
-</scene>
-<scene num="140">  
-8 meters
-Street in front of
-
-Hutter's's house  Ascending. In the distance, a strange procession is wandering
-
-   across the street. One coffin after another carried by 
-
-   survivors. Past Hutter's house, towards the procession, a 
-
-   man is dragging himself along, tired to death. She supports
-
-   himself by a stick. He catches sight of the distant procession
-
-   and lifts up his hands to heaven in misery.
-
-</scene>
-<scene num="141">  
-with window -frame    Ellen
-Ellen's room.   Ellen, on the point of fainting, turns away from the window
-
-   She cannot bear the sight of this wretchedness any longer.
-
-   She sinks into a chair, resting her head in her hands.
-
-Close-up:  The book, open. She has been reading it for days
-
-Close up:  A page of the book:
-
-   ONLY IF A CHASTE WOMAN
-
-   CAN FEARLESSLY MAKE
-
-   HIM
-
-   MISS THE FIRST CROWING
-
-   OF THE COCK WILL HE DISINTEGRATE
-
-   IN THE LIGHT OF 
-
-   DAWN
-
-Close-up:  Ellen lifts up her head, staring into space like a visionary.
-
-   She knows. She shuts her eyes. 
-
-Fade out.
-
-</scene>
-<scene num="142">   
-3 meters 
- 
-Fade-in.
-
-In front of Harding's
-
-mansion..
-Medium close-up:   The porch. Harding - haggard - a broken man, 
-
-    comes out. He closes the door and supports himself
-
-    against the door-post. His hand reaches up, paints
-
-    a black cross on the door . . .and falls down. His
-
-    hollow eyes refrain from looking at his work . . .  
-
-    again . . . they cannot bear to see the symbol. He 
-
-    moves forward with a glazed look in his eyes.
-
-Fade-out.   
-Harding: black cape, dark trousers
-</scene>
-<scene num="143">   
-7 meters
-Fade-in.
-
-In front of deserted house  Street
-
-    A group of emaciated men with a fanatical look
-
-    about them are standing around. An unkept-looking
-
-    woman is haranguing them. They are raising
-
-    their fists.
-
-Title:    He has been seen!
-
-    He ran out of the house!
-
-    He strangled the attendant!
-
-</scene>
-<scene num="144">   
-8 meters
-Well in the market-place  Two ancient women are sitting by the well. Death 
-
-    has no terrors for them. Since every new day is a 
-
-    present to them. 
-
-Close-up:   The are whispering to each other; their heads
-
-    are trembling.
-
-Title:    In the deserted house. . .
-
-    that's where it is hiding.
-
-    He strangled him. The vampire.
-
-Medium close-up:  Further back agitated people are running
-
-    across the square, shouting excitedly to 
-
-    one another. The two woman turn around
-
-    gesturing ˚ercely.
-
-    The clench their bony fists threateningly. Harding
-
-    can be seen behind the well. He has heard everything. 
-
-Close up:   He utters a bitter and mocking laugh.
-
-Long shot:   Harding walks on.
-
-144a    
-10 meters
-Street shot from above:  
-Crossing. Crowd gathering from all sides,
-    then moving in one direction.
-
-Close-up:   A street-corner with a man
-
-    who points at something above. People
-
-    rush up to him; they all turn to face the same
-
-    way, look up, make threatening gestures
-
-    Somebody throws stones.
-
-    
-
-</scene>
-<scene num="145">
-
-Gable of a house   A figure is crouching on a roof-top
-
-</scene>
-<scene num="146"> (?)
-Medium close-up:  It is Knock. He is looking down with a 
-
-    sneer on his face and pokes out his tongue
-
-    A stone whizzes part him. He suddenly gets 
-
-    up and clambers off.
-
-</scene>
-<scene num="147">   
-8 meters
-Ellen's bedroom   Ellen in an old armchair, busy embroidering a 
-
-    cushion in the cross-stitch manner of the 1840s
-
-    An inscription reading:
-
-     I LOVE YOU
-
-    She puts down her work, resting her head.
-
-    Tired, she falls to day-dreaming. 
-Then she lights
-    a lamp. 
-
-Medium close-up:   Ellen takes up her work again, determined
-
-    to finish it.
-
-</scene>
-<scene num="148">   
-Evening    4 meters
-Back of deserted house.  The street is empty. Knock jumps down a wall 
-
-    and runs off. In the distance some men appear, 
-
-    chasing him. They catch sight of him and rush
-
-    af ter him.
-
-</scene>
-<scene num="149">   
-8 meters
-Meadows outside the town  Shot against a wide expanse of sky. In the distance
-
-    running figures, no more then silhouettes (Turn
-
-    slowly) Knock in front. His pursuers following
-
-    a long way behind.
-
-</scene>
-<scene num="150">   
-3 meters
-Fields.    Evening mists. Cornfields waving in the wind.
-
-    Suddenly, right in front between the ears of
-
-    corn head. Dishevelled hair. Then a bony back
-
-    The heads turn around slowly.
-
-    It is Knock.
-
-</scene>
-<scene num="151">   
-3 meters
-A lane between fields.  The landscape has grown dim in the evening light.
-
-    The men chasing Knock are approaching. They stop. 
-
-    They seem to have lost the tr ail.
-
-    Suddenly, one of them sees something. He opens 
-
-    his eyes wide, shouting: there!!!
-
-    They all look one way. They dash off in that 
-
-    direction.
-
-</scene>
-<scene num="152">   
-10 meters
- 
-Cornfield, Long-shot:  In the distance one can still the back and dis-
-
-    hevelled head. Is it Knock? He seems not to hear
-
-    or see his pursuers. The men are coming near,
-
-    rushing towards him across the field.
-
-    They lift their sticks and fists.
-
-</scene>
-<scene num="152 continued">
-
-Medium close-up   A scare-crow. A black coat is dangling on a stick.
-
-    Bits of straw and tattered rags. The men fall on
-
-    it in the disappointment. Suddenly they stop.
-
-    There! What can that be !!!
-
-Long-shot:   A hundred feet away a head has appeared. Then
-
-    the f igure of a man. It is moving away quickly. 
-
-    The chase starts up again.
-
-Fade-out.
-
-</scene>
-<scene num="153">   
-3 meters
-Title:    Night
-
-Deserted house. Medium Nosferatu at the window.
-
-close-up:
-Dissolve
-
-</scene>
-<scene num="154">   
-8 meters    2x
-Ellen's bedroom
-
-Medium close-up:  Ellen wakes up. She sits up in bed, listening
-
-    as if she had heard somebody calling her.
-
-    She gets up, walking as if pulled by invisible
-
-    threads.
-
-Long shot:   She goes over to the window. In the fore-
-
-    ground Hutter asleep in an armchair, look-
-
-    ing worn out.
-
-Medium close-up:  Ellen is clinging to the window. She sees.
-
-</scene>
-<scene num="155">.   3 meters
-
-Deserted house.   Nosferatu at the window.
-
-    He raises his arms slowly.
-
-</scene><scene num="156">  
-
-Ellen's room
-
-Medium close-up:  Ellen is about to collapse by the window.
-
-    Shaking with fear she struggles violently 
-
-    with herself. The last battle.
-
-    Twice her hands comes up to open the window
-
-    and drops down again weakly; then, with
-
-    sudden determination, she pulls herself up
-
-    dead straight and deliberately throws the 
-
-    window wide open.
-
-</scene><scene num="157">    
-4 meters
-Deserted house.
-
-Medium close-up:  
-Window
-    Nosferatu moves away from the window, turns 
-
-    around and disappears.
-
-</scene>
-<scene num="158">   4 meters
-
-Ellen's room. Close-up:  
-Ellen trembling with fear and apprehension
-</scene>
-<scene num="159">
-
-Deserted house
-
-Medium close-up   Locked-up gates
-
-    Suddenly the gates swing open:
-
-    Nosferatu appears 
-
-</scene>
-<scene num="160">  12 meters    2x
-
-Ellen's room.
-
-Medium close-up: Ellen is covering her face with her hands, seized
-
-   with mortal fear.
-
-Long shot; window
-
-moves out of picture Ellen at window. She wants to call for help.
-
-   She staggers forward. She stops in front of Hutter.
-
-   One last moment of indecision.
-
-   Then she wakes him up. Hutter jumps to his feet.
-
-   He catches the trembling figure in his arms.
-
-   and carries her over to the sofa.
-
-   She begs him, hands raised as if in prayer:
-
-Title:   Bulwer . . . Fetch Bulwer!
-
-   She entreats him to go. Hutter takes her hands, she
-
-   quickly kisses his head,
-
-   Then he rushes out.
-
-</scene>
-<scene num="161">  3 meters
-
-In front of Hutter's
-
-House.   A path bordered by flowers.
-
-   Hutter rushes out.
-
-   Trousers, pleated shirt, collar without tie. No hat
-
-   no waist coat.
-
-</scene>
-<scene num="162">  5 meters
-
-Ellen's room
-
-Long shot.  Ellen is still looking in the direction she saw Hutter
-
-   leave, then she gets up and walks toward the 
-
-   window.
-
-</scene>
-<scene num="163"> 
-
-Deserted house. 
-
-Long Shot:  Nosferatu is walking forward and moves out of the
-
-   picture. The house looks more deserted than ever!
-
-
-
-In front of Hutter's
-
-house   Nobody is about. Nosferatu is approaching. He comes
-
-   to a halt. (He is preparing to jump, looks up)
-
-   He enters the house.
-
-
-
-Ellen's room  Ellen turns around suddenly. She is shaking with 
-
-   fear, anticipating the horror about to happen.
-
-   And it is coming -  - slowly, tensed like a predatory
-
-   animal. She recoils, moves backwards step by step,
-
-   and step by step it follows her
-
-    Heart! - Hand
-
-</scene>
-<scene num="166">   6 meters
-
-Bulwer's laboratory
-
-(Living room)   In addition to the already familiar fish tanks there 
-
-    is a large telescope by a window. A profusion of 
-
-    antiquated scientific gadgets, globes etc. A lamp
-
-    is burning. Bulwer asleep in dressing-gown and
-
-    night-cap in the armchair. Cages with birds and
-
-    all kinds of animals. Hutter rushes in. He wakes
-
-    Bulwer, begs him to come with him. Bulwer starts 
-
-    to get dressed.
-
-</scene>
-<scene num="167">
-
-A municipal building on the
-period (town hall)   A large crowd is gathering in front of the town
-
-    hall. Knock has been captured. More people
-
-    keep pouring in from all sides.
-
-    
-Omitted
-</scene>
-<scene num="168">   5 meters
- 
-An office room inside
-
-the town hall   Sievers rushes in excitedly from the adjoining 
-
-    room accompanied by a man who has brought
-
-    him the news. From the other side Knock is being
-
-    brought in. The lunatic is trembling with fear.
-
-    exit
-
-</scene>
-<scene num="169">   4 meters
-
-Ellen's room   Night. Ellen in bed, the strangler is at her throat, 
-
-    his fingers clawing her arms. Her eyes, widened in 
-
-    mortal fear, have a glazed look. Then she seems to 
-
-    have heard something.
-
-</scene>
-<scene num="170">   A cock jumps on to a still-life farm implements.
-
-    He flaps his wings, puffs up his throat and her-
-
-    alds the morning.
-
-</scene>
-<scene num="171">   6 meters
-
-Siever's lunatic's cell  Knock
-
-Inside the town hall  Knock at the window, held by two men. Trying
-
-    to ward them off, he shouts anxiously:
-
-Title:    The master . . . the master . . .!
-
-</scene>
-<scene num="172">
-
-<loc>Ellen's room</loc>.   <dir>Nosferatu raises his head. He looks drunk with
-
-    pleasure. Ellen eyes are full of terrible fear. She
-
-    must not allow Nosferatu just to go. She pulls
-
-    her arms around him: he cannot resist and 
-
-    bends his head over her again.</dir>
-
-    
-Omitted
-</scene>
-<scene num="173">   
-<cam>3 meters</cam>
-    <loc>The sun is rising over the small town.</loc>
-
-</scene>
-<scene num="174">
-
-<loc>Ellen's room</loc>   Ellen's last moment of apprehension. <loc>There, 
-
-    isn't that a flicker of sunlight on the wall over
-
-    her bed?</loc> <dir>Here eyes light up hopefully and remain
-
-    fixed on this first sign of the new day. She stretches
-
-    out her hand for it. And look: it is moving
-
-    downwards.</dir>
-
-   
-
-</scene>
-<scene num="175">   5 meters
-
-<loc>Street with front gardens</loc>  <loc>The long shadows of sunrise</loc>. <loc>Nobody is about</loc>
-
-    Then <dir>shoulders of Hutter and Bulwer appear.
-
-    They are hurrying on and turning into a side
-
-    street.</dir>
-
-</scene>
-<scene num="176">   
-8 meters
-<loc>Ellen's room</loc>   <loc>The bed is bathed in sunlight</loc>. <dir>Ellen's eyes are 
-
-    full of anticipation</dir>. Has she sacrificed herself in 
-
-    vain? Suddenly the horrible figure jerks himself
-
-    up. He looks about in amazement. He clutches
-
-    his heart. The bestial tenseness of his bearing relaxes.
-
-    For a moment he stands, legs apart, as if trying 
-
-    to regain his balance. He clutches his heart again
-
-    and falls on his knees, his face turned to the sun,
-
-    distorted by pain.
-
-</scene>
-<scene num="177">
-Siever's lunatic cell  Knock    <cam>5 meters</cam>
-
-<loc>Town hall</loc>
-
-<cam>Medium close-up</cam>:   Knock, in a straitjacket, alone in the sunlight 
-
-    which is falling through a barred window. He
-
-    is mumbling disconnected words:
-
-Title:    <title>The master . . .the master . . . is dead.</title>
-
-    <dir>His head sinks on to his chest.</dir>
-
-</scene>
-<scene num="178">   
-8 meters
-<loc>Ellen's room</loc>   <dir>Nosferatu on his knees, supporting himself with
-
-    one hand on the ground. He raises the other in 
-
-    the direction of the sun to shield himself from
-
-    the light that brings him death. But he cannot
-
-    hold out against the sun. His fingers, his hand, 
-
-    his arm are dissolving in the light. The sun seems 
-
-    about to strike his heart. Now his body is dis-
-
-    integrating in the light. Ellen throws up her hands
-
-    triumphantly calling</dir>:
-
-Title:    <title>Hutter!</title>
-
-</scene>
-<scene num="179">   <cam>4 meters</cam>
-
-<loc>In front of Hutter's House</loc>  <cam>Shot looking out from the doorway into the
-
-    distance</cam>. <dir>Bulwer and Hutter are running, not
-
-    just walking into the house</dir>.
-
-</scene>
-<scene num="180">   <cam>8 meters</cam>
-
-    Ellen in bed. In anticipation, her hand reaches
-
-    out for Hutter. Hutter comes rushing in, falls
-
-    on his knees by the bed.  He t akes hold of her
-
-    hand.
-
-<cam>Close-up</cam>:   Her hand grasps his, the it lets go weakly and 
-
-    drops away.
-
-    Ellen's head falls over - - - - 
-
-    Bulwer is standing at the window, hands behind 
-
-    his back looking out.
-
-     
-
-      <title>THE END</title>
-
-</scene>
-</act>
-</script>
+        <act num="4"><!--ebb: I think this is act 4 continued, yes?  -->
+            <scene num="111">
+                <cam>4 meters</cam> Roof Balcony of <loc>Harding's mansion</loc>
+                <dir>Ellen in Anny's arm. Her hair is fluttering in the wind. Ellen stretching her
+                    hands towards the sea, as if trying to defend herself.</dir> Title: <title>I
+                    must go home. He is coming.</title>
+            </scene>
+            <scene num="112">
+                <loc>At the graveyard</loc>
+                <loc>View over the sea In the foreground the crosses. In the back sandbank and
+                    cliffs. In the distance people, hurrying to rescue the ship- wrecked. The sand
+                    bank . The ship crashes into it . . . turns over on its side.</loc>
+                <cam>View through archway</cam> : <loc>the sailing boat is moving past. Weimar</loc>
+            </scene>
+            <scene num="113"> 4 meters Lunatic's cell <cam>Long shot</cam>: <dir>Knock alone. He
+                    drags up a chair . . . to the window. He climbs up on it.</dir>
+                <cam>Medium close-up: </cam><dir type="char">Knock pulls himself up by the bars,
+                    trying to look out. The wind, blowing in, makes his hair stand on end
+                    uncannily.</dir>
+            </scene>
+            <scene num="113a"> 10 meters <loc>The stranded ship Dead and forsaken. a rope is
+                    dangling from the deck. It is swaying in the wind.</loc>
+                <cam>Medium close-up</cam>
+                <loc>An endless number of rats climbing down the swaying rope.</loc>
+                <cam>Shot of deck.</cam>
+                <dir>The hatch. It opens slowly.</dir>
+                <dir>NOSFERATU climbs out.</dir>
+                <dir>He carries the last coffin.</dir>
+                <dir>Remains standing. Motionless.</dir> The image of death. Then he approaches
+                slowly. 1) Ship anchored in the harbor. Dissolve 2)Ship's hatch with a piece of
+                deck. Trick: 1) Canvas glides away from hatch. 2) Hatch lid is lifted. 3) Rats are
+                rushing on deck. 4) Nosferatu coffin in arms climbs out. </scene>
+            <scene num="114">
+                <cam>8 meters</cam>
+                <loc>Lauenburg or Travemünde</loc> Town center. Trees, shaken by storm. A carriage
+                races up, stops abruptly. Medium close-up: Hutter jumps from the carriage. An axle
+                is broken. The coachman seems at a loss. Hutter cannot wait. He leaves the carriage
+                and runs of f. </scene>
+            <scene num="115"> 5 meters Archway with a view of the harbor: Nosferatu enters the town </scene>
+            <scene num="116"> 6 meters <loc>The roof of Harding's mansion.</loc> Ellen's room at the
+                Hardings' Ellen and Anny. Ellen suddenly breaks away. Overjoyed as if she had a
+                happy vision she throws her arms up and shouts: Title: <title>I must go to him. He
+                    is coming!!</title> She moves off and vanishes. Anny wrings her hands in
+                despair. </scene>
+            <scene num="117"> 4 meters <loc>Storm-tossed trees.</loc> A white figure comes out of
+                the house. It is Ellen. She is running through the park. 118 <loc>perhaps Lüneberg
+                    Street</loc>
+                <loc>Shuttered windows.</loc>
+                <dir>Nosferatu striding</dir> 118a <dir>Hutter, running along the street.</dir>
+            </scene>
+            <scene num="119">
+                <cam>8 meters</cam> Lunatic's cell <cam>Long shot</cam>: Knock, moving away from the
+                window wall <cam>Medium close-up</cam>: The madman is listening for outside noises,
+                as if he had received a signal from the other world . . . triumphantly . . . he
+                whispers to himself: Titles: <title>The master is near . . .the master is near . .
+                    .!</title>
+                <cam>Long shot</cam>: Suddenly, he listens attentively. He creeps over to the door.
+                There he waits expectantly . . . The door opens. The attendant appears. He looks
+                around the room. Not noticing that Knock is behind him. Knock creeps carefully
+                behind his back. Suddenly frightened, the attendant turns around. Knock makes for
+                his throat like a vampire. The attendant falls over. The madman is at his throat for
+                a moment only, then he lets go and sneaks out. </scene>
+            <scene num="120">
+                <cam>5 meters</cam>
+                <loc>In front of Hutter's house</loc> Hutter comes running up. He looks up: no
+                light. He is just about to enter when - somebody is calling. He turns around
+                Ellen!!!!! They fall into each other's arms. </scene>
+            <scene num="121">
+                <loc>Square with fountain</loc>
+                <cam>5 meters</cam> Nosferatu, cof˚n under his arm, is standing in the middle of the
+                square. Looking around to orientate himself. Then he strides on. </scene>
+            <scene num="122">
+                <cam>4 meters 2x</cam> Hutter's parlour Ellen's sitting room A lamp is shining.
+                Hutter and Ellen. They are sitting on the chaise lounge. The happiness of being
+                reunited was too much. Overpowered by emotion, he sinks down on her arm. </scene>
+            <scene num="123">
+                <cam>4 meters</cam>
+                <loc>In front of Hutter's house</loc> Nosferatu, staring up </scene>
+            <scene num="124"> 6 meters <cam>Fade-in</cam>. Hutter and Ellen, on the chaise lounge.
+                He sits up, looking deep into her eyes. Title: <title>Thank God . . . you are well .
+                    . .now everything</title> has come all right. She does not understand him. But
+                the joy of being to- gether again is stronger than anything else. And the room is
+                bright. </scene>
+            <scene num="125">
+                <cam>10 meters</cam> Street in front of Hutter's House There is nobody about. But in
+                the middle of the street stands NOSFERATU, hidden by the night, carrying the cof
+                fin. Slowly, he turns his head and looks over to Hutter's house. Shot of Hutter's
+                house [There is a friendly light in the window] The deserted house Empty! Carrying
+                the coffin - Nosferatu appears in picture. Medium close-up: NOSFERATU. Once more he
+                turns his head. He looks over to the other side. The deserted house is over there.
+                He makes for that now, walking slow. Then he goes into the house. Fade-out. </scene>
+            <scene num="126"> 12 meters On the stranded ship The captain, collapsed in death, is
+                tied to the helm. In the foreground, some men, Harding among them, are climbing up
+                on deck. They are aghast at the terrible sight. Close-up: The dead captain. Tied to
+                the helm in discharge of his duty! One hand is still on the helm. The other, holding
+                a crucifix, clutches his chest in mortal agony. His head sunk back, face distorted.
+                There are two red marks on his neck . . . Close-up: Harding. He cannot comprehend
+                the horror . . . </scene>
+            <scene num="127"> 6 meters Sandbank harbor The stranded ship is in sight. It is
+                night-time Long shot: In the blowing wind nocturnal figures . . .townspeople
+                Close-up: Down the tilted hulk a man is climbing along a rope. Medium close-up: By
+                the light of a torch! the captain of the harbor with a number of old people . . .
+                Looking like fishermen. The climber approaches and reports. Title: Everything has
+                been examined . . No living soul on board. The captain receives the report . . .
+                jots down some notes. </scene>
+            <scene num="128"> 10 meters [Is inserted below] On board ship. Night Long shot:
+                Back-board with helm. Some men are lifting up the dead captain, and carrying off the
+                corpse. Captain's cabin: Harding alone . . . he finds a book next to a masthead that
+                is affixed to the helm. In the light of a dim lantern he reads: Close-up: A page of
+                the book Varna - July 12 Crew - apart from myself the captain - one helmsman mate
+                and five sailors. Departing - for the Dardanelles. Normal Shot: Harding shakes his
+                head. He is puzzled. On deck. Harding emerges from the cabin with the book in his
+                hand. Fade-out. </scene>
+            <scene num="129"> 15 meters Fade-in: Daytime Port Authority building A large hall. On
+                the walls a number of figure heads Models of ships are suspended from the ceiling.
+                The dead captain [is carried] in lying in state. Medium Close-up: Dr. Sievers is
+                examining him. He notices the marks on his neck. Dr. Sievers turns to Harding. He,
+                too, cannot make sense of this case. Nevertheless he talks incessantly. Harding
+                comes closer shows him the log-book. Both of them are reading: Close-up: The
+                log-book. A page: Second day: July 13 A sailor has fallen ill with a fever. Course:
+                SSW. Direction of wind: Third day: July 14 Mate is talking strangely. He says there
+                is an unknown passenger below deck. Course SE. Direction of wind NE. Volume of wind
+                3.6. Normal shot: Sievers and Harding are looking at each other. Sievers' white
+                beard is trembling. They continue reading. Tenth day: July 22 Rats in the ship's
+                hold. Danger of plague. Normal shot: Harding has been reading this aloud. Now
+                Sievers understands at last. He points to the book with his finger. Danger of
+                plague! That's what it is. Dan- ger of plague, he calls out. Title: Danger of
+                plague! Go home! Shut all your windows and doors! Deeply frightened, the bystanders
+                move away. The women put the ends of their head-scarves into their mouths. Panic-
+                stricken .the crowd leaves the room. Fade-out. (Perhaps end of act) </scene>
+            <scene num="130"> 15 meters Fade-in A deserted square: Nobody is about. Except in the
+                center of the square, the town-drummer with his large drum. Medium close-up: The
+                drummer. He beats a mighty roll. Medium close-up: A closed window. The hatch opens
+                and a woman's head appears: totally emaciated, sunken cheeks, long dishevelled hair.
+                The disease has gripped her too. On her neck the ominous little marks. Medium
+                close-up: The drummer has produced a piece of paper and reads it aloud: magistrate
+                of this town prohibits any movement of plague-suspects into hospitals to prevent the
+                plague from spreading through the streets. The drummer has finished reading and goes
+                off. </scene>
+            <title>End of Act I</title>
+        </act>
+        <act num="5"><title>Act V </title>
+            <scene num="131"> 15 meters Fade in. A bend in a street A man emerges from a front door.
+                He shuts the door behind him. Quickly and with circumspection he chalks a white
+                cross on the door. Then goes on. Panning shot: The adjoining house. The man knocks
+                hard on the door. From a window above a head looks out. There are still people
+                living here. The man moves on. Panning shot: The first house in the side-street. A
+                coffin is being carried out. Men carrying it have white bandages over their mouths.
+                The man comes along and dr aws a cross on this house, too. Then he walks on,
+                following his horrible business. </scene>
+            <scene num="132"> 15 meters 2x shaded candle on table near armchair . Ellen's bedroom
+                Close-up: Book-cover Inscription (Vampire) See Chapter 1 of book. Dissolve to: Ellen
+                by the window, the book on her knees continues reading, overcoming her aversion.
+                Chapter II appears. Medium close-up: Ellen is pondering on what she has read. Hutter
+                comes into the picture, with agitation almost hostility he grabs the book. Ellen,
+                standing now, looks straight into his eyes, turns and points over to the deserted
+                house. Compare the following black dress and shawl Hutter, black waist-coat and
+                jacket. Ellen's room. Long shot: Ellen by the window. Hutter approaches from the
+                door Medium close Suddenly, she grabs his arm, stares out of the window pointing
+                out, she shouts: There!!! Her body is tensed up like a bow trembling with
+                excitement. </scene>
+            <scene num="133"> 3 meters The deserted house Seen through Ellen's window frame. Almost
+                at once dissolve to window. Medium close-up: A window, divided into four rectangular
+                panes. Light from behind. Stuck to the window, almost completely covering it,
+                something looking like a black fourlegged spider. It takes a moment before one can
+                make out Nos- feratu's fingers which are clawing the window frame. In the center of
+                the body, grinning lasciviously, the waxen face with ratlike teeth. </scene>
+            <scene num="134"> 8 meters 2x Ellen's bedroom. Ellen holds frantically on to Hutter's
+                hand [shaken] breathing heavily She bends her head back. towards him saying. Title:
+                This is how I see it- every evening. . .!!! She bends her head back. She knows all
+                she has to know. And there is peace in the knowledge. Hutter has not come to that
+                yet. He finds her calm- ness disturbing. He follows the retreating figure with his
+                eyes. Medium close-up: Ellen is swaying. Medium close-up: Hutter, despairingly,
+                presses his fist against his face. Fade-out. </scene>
+            <scene num="135"> 6 meters In front of Hutter's house It is now evening. The
+                lamp-lighter comes down the darkening street and lights up the street-lamps. The he
+                walks on. ! remains! </scene>
+            <scene num="136"> 10 meters Fade-in: Anny's bedroom Long shot: Anny crouching on a
+                chaise lounge. Bent over her Harding who is holding her hands and trying to calm
+                down the struggling woman who is shaking fitfully. She collapses with exhaustion.
+                Then pulls himself together and decides: Title: I will run over quickly . . . I
+                shall get Sievers. And he is gone. Medium close-up: Anny, having almost fainted with
+                fear, comes to again. She opens her eyes. She lifts her head. No- body around?? Is
+                she all alone?? Isn't there some- thing moving about in the corner? Something
+                fluttering at the window? Medium close-up: The window, covered by the curtain.
+                Behind it the shadow of a giant bat. It grows and grows. Soon it isn't a bat any
+                long- er. A vampire! NOSTERATU?! Medium close-up: Anny's body hits the wall. She
+                jumps up and pulls the bell. Then half crazed with fear, she runs into the
+                background. </scene>
+            <scene num="137"> Anny's bedroom. Long shot: Night. Servants running to and fro in the
+                direc- tion of the bedroom. 137a The bell is ringing. 137b Servant's room. A servant
+                asleep doesn't hear, turns over in his sleep </scene>
+            <scene num="138"> 3 meters Anny's Bedroom Anny pressed close to the wall. Servants are
+                rushing in. There! She shouts pointing to the window. Like a flock of chicken the
+                women are huddling together. Anny rushes over to them, but they are already so
+                gripped by fear that they imagine her fingers, which they are trying to push back,
+                to be the vampire's claws. Shrieking, they run off in all directions. The door is
+                slammed shut. Anny beats against the door . She is waiting for the horror, but she
+                doesn't want to see it, much r ather die first. She grabs a table cloth and covers
+                her head and neck. Then she collapses. Fade-out. </scene>
+            <scene num="139"> 3 meters Fade-in. Ellen's bedroom Daytime. Ellen by the window . .
+                .looking out. She stands motionless. Paralysed by misery she witnesses the daily
+                scene of wretchedness. </scene>
+            <scene num="140"> 8 meters Street in front of Hutter's's house Ascending. In the
+                distance, a strange procession is wandering across the street. One coffin after
+                another carried by survivors. Past Hutter's house, towards the procession, a man is
+                dragging himself along, tired to death. She supports himself by a stick. He catches
+                sight of the distant procession and lifts up his hands to heaven in misery. </scene>
+            <scene num="141"> with window -frame Ellen Ellen's room. Ellen, on the point of
+                fainting, turns away from the window She cannot bear the sight of this wretchedness
+                any longer. She sinks into a chair, resting her head in her hands. Close-up: The
+                book, open. She has been reading it for days Close up: A page of the book: ONLY IF A
+                CHASTE WOMAN CAN FEARLESSLY MAKE HIM MISS THE FIRST CROWING OF THE COCK WILL HE
+                DISINTEGRATE IN THE LIGHT OF DAWN Close-up: Ellen lifts up her head, staring into
+                space like a visionary. She knows. She shuts her eyes. Fade out. </scene>
+            <scene num="142"> 3 meters Fade-in. In front of Harding's mansion.. Medium close-up: The
+                porch. Harding - haggard - a broken man, comes out. He closes the door and supports
+                himself against the door-post. His hand reaches up, paints a black cross on the door
+                . . .and falls down. His hollow eyes refrain from looking at his work . . . again .
+                . . they cannot bear to see the symbol. He moves forward with a glazed look in his
+                eyes. Fade-out. Harding: black cape, dark trousers </scene>
+            <scene num="143"> 7 meters Fade-in. In front of deserted house Street A group of
+                emaciated men with a fanatical look about them are standing around. An
+                unkept-looking woman is haranguing them. They are raising their fists. Title: He has
+                been seen! He ran out of the house! He strangled the attendant! </scene>
+            <scene num="144"> 8 meters Well in the market-place Two ancient women are sitting by the
+                well. Death has no terrors for them. Since every new day is a present to them.
+                Close-up: The are whispering to each other; their heads are trembling. Title: In the
+                deserted house. . . that's where it is hiding. He strangled him. The vampire. Medium
+                close-up: Further back agitated people are running across the square, shouting
+                excitedly to one another. The two woman turn around gesturing ˚ercely. The clench
+                their bony fists threateningly. Harding can be seen behind the well. He has heard
+                everything. Close up: He utters a bitter and mocking laugh. Long shot: Harding walks
+                on. 144a 10 meters Street shot from above: Crossing. Crowd gathering from all sides,
+                then moving in one direction. Close-up: A street-corner with a man who points at
+                something above. People rush up to him; they all turn to face the same way, look up,
+                make threatening gestures Somebody throws stones. </scene>
+            <scene num="145"> Gable of a house A figure is crouching on a roof-top </scene>
+            <scene num="146"> (?) Medium close-up: It is Knock. He is looking down with a sneer on
+                his face and pokes out his tongue A stone whizzes part him. He suddenly gets up and
+                clambers off. </scene>
+            <scene num="147"> 8 meters Ellen's bedroom Ellen in an old armchair, busy embroidering a
+                cushion in the cross-stitch manner of the 1840s An inscription reading: I LOVE YOU
+                She puts down her work, resting her head. Tired, she falls to day-dreaming. Then she
+                lights a lamp. Medium close-up: Ellen takes up her work again, determined to finish
+                it. </scene>
+            <scene num="148"> Evening 4 meters Back of deserted house. The street is empty. Knock
+                jumps down a wall and runs off. In the distance some men appear, chasing him. They
+                catch sight of him and rush af ter him. </scene>
+            <scene num="149"> 8 meters Meadows outside the town Shot against a wide expanse of sky.
+                In the distance running figures, no more then silhouettes (Turn slowly) Knock in
+                front. His pursuers following a long way behind. </scene>
+            <scene num="150"> 3 meters Fields. Evening mists. Cornfields waving in the wind.
+                Suddenly, right in front between the ears of corn head. Dishevelled hair. Then a
+                bony back The heads turn around slowly. It is Knock. </scene>
+            <scene num="151"> 3 meters A lane between fields. The landscape has grown dim in the
+                evening light. The men chasing Knock are approaching. They stop. They seem to have
+                lost the tr ail. Suddenly, one of them sees something. He opens his eyes wide,
+                shouting: there!!! They all look one way. They dash off in that direction. </scene>
+            <scene num="152"> 10 meters Cornfield, Long-shot: In the distance one can still the back
+                and dis- hevelled head. Is it Knock? He seems not to hear or see his pursuers. The
+                men are coming near, rushing towards him across the field. They lift their sticks
+                and fists. </scene>
+            <scene num="152 continued"> Medium close-up A scare-crow. A black coat is dangling on a
+                stick. Bits of straw and tattered rags. The men fall on it in the disappointment.
+                Suddenly they stop. There! What can that be !!! Long-shot: A hundred feet away a
+                head has appeared. Then the f igure of a man. It is moving away quickly. The chase
+                starts up again. Fade-out. </scene>
+            <scene num="153"> 3 meters Title: Night Deserted house. Medium Nosferatu at the window.
+                close-up: Dissolve </scene>
+            <scene num="154"> 8 meters 2x Ellen's bedroom Medium close-up: Ellen wakes up. She sits
+                up in bed, listening as if she had heard somebody calling her. She gets up, walking
+                as if pulled by invisible threads. Long shot: She goes over to the window. In the
+                fore- ground Hutter asleep in an armchair, look- ing worn out. Medium close-up:
+                Ellen is clinging to the window. She sees. </scene>
+            <scene num="155">. 3 meters Deserted house. Nosferatu at the window. He raises his arms
+                slowly. </scene><scene num="156"> Ellen's room Medium close-up: Ellen is about to
+                collapse by the window. Shaking with fear she struggles violently with herself. The
+                last battle. Twice her hands comes up to open the window and drops down again
+                weakly; then, with sudden determination, she pulls herself up dead straight and
+                deliberately throws the window wide open. </scene><scene num="157"> 4 meters
+                Deserted house. Medium close-up: Window Nosferatu moves away from the window, turns
+                around and disappears. </scene>
+            <scene num="158"> 4 meters Ellen's room. Close-up: Ellen trembling with fear and
+                apprehension </scene>
+            <scene num="159"> Deserted house Medium close-up Locked-up gates Suddenly the gates
+                swing open: Nosferatu appears </scene>
+            <scene num="160"> 12 meters 2x Ellen's room. Medium close-up: Ellen is covering her face
+                with her hands, seized with mortal fear. Long shot; window moves out of picture
+                Ellen at window. She wants to call for help. She staggers forward. She stops in
+                front of Hutter. One last moment of indecision. Then she wakes him up. Hutter jumps
+                to his feet. He catches the trembling figure in his arms. and carries her over to
+                the sofa. She begs him, hands raised as if in prayer: Title: Bulwer . . . Fetch
+                Bulwer! She entreats him to go. Hutter takes her hands, she quickly kisses his head,
+                Then he rushes out. </scene>
+            <scene num="161"> 3 meters In front of Hutter's House. A path bordered by flowers.
+                Hutter rushes out. Trousers, pleated shirt, collar without tie. No hat no waist
+                coat. </scene>
+            <scene num="162"> 5 meters Ellen's room Long shot. Ellen is still looking in the
+                direction she saw Hutter leave, then she gets up and walks toward the window. </scene>
+            <scene num="163"> Deserted house. Long Shot: Nosferatu is walking forward and moves out
+                of the picture. The house looks more deserted than ever! In front of Hutter's house
+                Nobody is about. Nosferatu is approaching. He comes to a halt. (He is preparing to
+                jump, looks up) He enters the house. Ellen's room Ellen turns around suddenly. She
+                is shaking with fear, anticipating the horror about to happen. And it is coming - -
+                slowly, tensed like a predatory animal. She recoils, moves backwards step by step,
+                and step by step it follows her Heart! - Hand </scene>
+            <scene num="166"> 6 meters Bulwer's laboratory (Living room) In addition to the already
+                familiar fish tanks there is a large telescope by a window. A profusion of
+                antiquated scientific gadgets, globes etc. A lamp is burning. Bulwer asleep in
+                dressing-gown and night-cap in the armchair. Cages with birds and all kinds of
+                animals. Hutter rushes in. He wakes Bulwer, begs him to come with him. Bulwer starts
+                to get dressed. </scene>
+            <scene num="167"> A municipal building on the period (town hall) A large crowd is
+                gathering in front of the town hall. Knock has been captured. More people keep
+                pouring in from all sides. Omitted </scene>
+            <scene num="168"> 5 meters An office room inside the town hall Sievers rushes in
+                excitedly from the adjoining room accompanied by a man who has brought him the news.
+                From the other side Knock is being brought in. The lunatic is trembling with fear.
+                exit </scene>
+            <scene num="169"> 4 meters Ellen's room Night. Ellen in bed, the strangler is at her
+                throat, his fingers clawing her arms. Her eyes, widened in mortal fear, have a
+                glazed look. Then she seems to have heard something. </scene>
+            <scene num="170"> A cock jumps on to a still-life farm implements. He flaps his wings,
+                puffs up his throat and her- alds the morning. </scene>
+            <scene num="171"> 6 meters Siever's lunatic's cell Knock Inside the town hall Knock at
+                the window, held by two men. Trying to ward them off, he shouts anxiously: Title:
+                The master . . . the master . . .! </scene>
+            <scene num="172">
+                <loc>Ellen's room</loc>. <dir>Nosferatu raises his head. He looks drunk with
+                    pleasure. Ellen eyes are full of terrible fear. She must not allow Nosferatu
+                    just to go. She pulls her arms around him: he cannot resist and bends his head
+                    over her again.</dir> Omitted </scene>
+            <scene num="173">
+                <cam>3 meters</cam>
+                <loc>The sun is rising over the small town.</loc>
+
+            </scene>
+            <scene num="174">
+                <loc>Ellen's room</loc> Ellen's last moment of apprehension. <loc>There, isn't that
+                    a flicker of sunlight on the wall over her bed?</loc>
+                <dir>Here eyes light up hopefully and remain fixed on this first sign of the new
+                    day. She stretches out her hand for it. And look: it is moving downwards.</dir>
+            </scene>
+            <scene num="175"> 5 meters <loc>Street with front gardens</loc>
+                <loc>The long shadows of sunrise</loc>. <loc>Nobody is about</loc> Then
+                    <dir>shoulders of Hutter and Bulwer appear. They are hurrying on and turning
+                    into a side street.</dir>
+            </scene>
+            <scene num="176"> 8 meters <loc>Ellen's room</loc>
+                <loc>The bed is bathed in sunlight</loc>. <dir>Ellen's eyes are full of
+                    anticipation</dir>. Has she sacrificed herself in vain? Suddenly the horrible
+                figure jerks himself up. He looks about in amazement. He clutches his heart. The
+                bestial tenseness of his bearing relaxes. For a moment he stands, legs apart, as if
+                trying to regain his balance. He clutches his heart again and falls on his knees,
+                his face turned to the sun, distorted by pain. </scene>
+            <scene num="177"> Siever's lunatic cell Knock <cam>5 meters</cam>
+                <loc>Town hall</loc>
+                <cam>Medium close-up</cam>: Knock, in a straitjacket, alone in the sunlight which is
+                falling through a barred window. He is mumbling disconnected words: Title:
+                    <title>The master . . .the master . . . is dead.</title>
+                <dir>His head sinks on to his chest.</dir>
+            </scene>
+            <scene num="178"> 8 meters <loc>Ellen's room</loc>
+                <dir>Nosferatu on his knees, supporting himself with one hand on the ground. He
+                    raises the other in the direction of the sun to shield himself from the light
+                    that brings him death. But he cannot hold out against the sun. His fingers, his
+                    hand, his arm are dissolving in the light. The sun seems about to strike his
+                    heart. Now his body is dis- integrating in the light. Ellen throws up her hands
+                    triumphantly calling</dir>: Title: <title>Hutter!</title>
+            </scene>
+            <scene num="179">
+                <cam>4 meters</cam>
+                <loc>In front of Hutter's House</loc>
+                <cam>Shot looking out from the doorway into the distance</cam>. <dir>Bulwer and
+                    Hutter are running, not just walking into the house</dir>. </scene>
+            <scene num="180">
+                <cam>8 meters</cam> Ellen in bed. In anticipation, her hand reaches out for Hutter.
+                Hutter comes rushing in, falls on his knees by the bed. He t akes hold of her hand.
+                    <cam>Close-up</cam>: Her hand grasps his, the it lets go weakly and drops away.
+                Ellen's head falls over - - - - Bulwer is standing at the window, hands behind his
+                back looking out. <title>THE END</title>
+            </scene>
+        </act>
+    </script>
 </root>
