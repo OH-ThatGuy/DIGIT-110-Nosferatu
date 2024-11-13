@@ -1,12 +1,10 @@
 start = root
 root = element root {script}
-#OH: as we progress we'll add more elements, but I just wanted to get a base for now
+
 script = element script {head, act+}
-# EBB: I moved scene down into act, since your current encoding has scenes nested inside acts. 
 
 head = element head {title, mixed{note}}
-title = element title {type?, mixed{char}}
-#OH 10/30: Maybe change title to mainTitle so it doesn't get mixed up with the actual speech title cards
+title = element title {type?, mixed{char}} #NOTE: NEED TO ADD TYPE ATTRIBUTE TO TITLE FOR MAIN VS SUB
 # ebb: Suggestion: Just keep it as title, and use an optional @type attribute to separate the main title, so you can process it differently.
 # ebb: Adding a <char> element here wo you can mark the character names! 
 char = element char {who, text}
@@ -16,26 +14,36 @@ who = attribute who {"ellen" | "nos" | "hutter" | text}
 note = element note {text}
 
 act = element act {num, scene+}
+
 num = attribute num {xsd:int}
+
+#NEED TO VALIDATE TO MAKE SURE ITS ONLY ONE LETTER 
 
 scene = element scene {num, mixed{(char | sn | annot | title | cam | p | loc | time | dir)+}}
 #OH: I named this element annot because the script specifically mentions that all bold text is annotations made by F.W. Murnau, maybe we should also specify that it is bold with an attribute?
 # ebb: I added the title element here so you can reference the title cards in the scenes. 
 # ebb: Including a <char> element here wo you can mark the character names! 
-annot = element annot {text}
-#OH: we have a document for explaining some shorthand stuff, but I thought I might as well explain here that sn = sidenote (because of their position at the side of the page and p = paragraph, which should be self explanatory
-sn = element sn {text}
-p = element p {text}
 
-cam = element cam {dis?, exp?, text} #camera note/directions  #unit is always in meters
+sub = attribute sub {text} #Sub scene ext 117a the 117 would be num but the a would be sub
+
+annot = element annot {text} #Author F.W. Murnaus bolded annotations from origional text. NOTE ALL BOLD TEXT IS HANDWRITTEN ANNOTATION FROM MURNAU
+#OH: we have a document for explaining some shorthand stuff, but I thought I might as well explain here that sn = sidenote (because of their position at the side of the page and p = paragraph, which should be self explanatory
+
+sn = element sn {text} #side note (notes positioned on side of page
+p = element p {text} #paragraph
+
+cam = element cam {dis?, sync?, text} #camera note/directions  #unit is always in meters
 dis = attribute dis {xsd:int} #whole number without unit 
-exp = attribute exp {xsd:int} #2x 5x DO NOT include the x
+sync = attribute sync {xsd:int} #2x 5x DO NOT include the x. This is shutter sync speed
 loc = element loc {text} #location also includes set notes like open windows 
 time = element time {text} #time of day afternoon evening dark light etc.
 
-dir = element dir {type} #direction either stage or character. AF: NEED TO WRITE SCHEMATRON TO VALIDATE COST IS ONLY USED WITH TYPE CHAR
-type = attribute type {"stg" | "char" | "cost"} #either stage, costume, or character directions
+dir = element dir {type, mixed{cost*}} #direction either stage or character. 
+#NEED TO WRITE SCHEMATRON TO VALIDATE COST IS ONLY USED WITH TYPE CHAR
+#NEED TO ADD ATTRIBUTE TO DESIGNATE WHICH CHARACTER THE DIRECTION IS FOR
 
+type = attribute type {"stg" | "char"} #either stage or character directions
+cost = element cost {text} #Costume
 
 
 #OH: this is still obviously heavily WIP so if anyone has any questions or wants to make changes thats fine
