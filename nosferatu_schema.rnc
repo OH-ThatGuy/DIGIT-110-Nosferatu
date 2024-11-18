@@ -21,9 +21,9 @@ num = attribute num { xsd:int }
 
 scene =
     element scene {
-        num,
+        num?,
         sub?,
-        mixed { (cost | char | sn | annot | title | cam | p | loc | time | dir)+ }
+        mixed { (cost | char | annot | title | cam | p | loc | time | dir)+ }
     }
 # OH: I named this element annot because the script specifically mentions that all bold text is annotations made by F.W. Murnau, maybe we should also specify that it is bold with an attribute?
 # ebb: I added the title element here so you can reference the title cards in the scenes. 
@@ -32,9 +32,6 @@ sub = attribute sub { text } # NEED TO VALIDATE TO MAKE SURE ITS ONLY ONE LETTER
 # Sub scene ext 117a the 117 would be num but the a would be sub
 annot = element annot { text }
 # Author F.W. Murnaus bolded annotations from origional text. NOTE ALL BOLD TEXT IS HANDWRITTEN ANNOTATION FROM MURNAU
-# OH: we have a document for explaining some shorthand stuff, but I thought I might as well explain here that sn = sidenote (because of their position at the side of the page and p = paragraph, which should be self explanatory
-sn = element sn { text }
-# side note (notes positioned on side of page
 p = element p { text }
 # paragraph
 cam = element cam { dis?, sync?, text }
