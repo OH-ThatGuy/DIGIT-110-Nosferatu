@@ -3,7 +3,7 @@
    <script>
       <head><title>...</title>.... <note>....</note>
       </head>
-      <act num="1">
+      <act num="2">
          <scene num="48">
             <cam dis="4"> 4 meters</cam>
             <loc>Dining hall</loc>
@@ -605,9 +605,9 @@
                tempted to leave. Thus he awaits the horror. . . </dir>
             <cam>Fade out. </cam>
          </scene>
-         <title>End of Act I</title>
+         <title>End of Act III</title>
       </act>
-      <act num="5">
+      <act num="4">
          <title>ACT IV </title>
          <scene num="100">
             <cam dis="5">5 meters </cam>
