@@ -1,6 +1,4 @@
-
-
-<?xml-model href="nosferatu_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../nosferatu_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <script>
       <head><title>...</title>.... <note>....</note>
