@@ -23,14 +23,16 @@ scene =
     element scene {
         num?,
         sub?,
-        mixed { (cost | char | annot | title | cam | p | loc | time | dir)+ }
+        (cost | char | annot | title | cam | p | loc | time | dir | gapMk | note)+
     }
+    
+gapMk = element gapMk { text }
 # OH: I named this element annot because the script specifically mentions that all bold text is annotations made by F.W. Murnau, maybe we should also specify that it is bold with an attribute?
 # ebb: I added the title element here so you can reference the title cards in the scenes. 
 # ebb: Including a <char> element here wo you can mark the character names! 
 sub = attribute sub { text } # NEED TO VALIDATE TO MAKE SURE ITS ONLY ONE LETTER 
 # Sub scene ext 117a the 117 would be num but the a would be sub
-annot = element annot { text }
+annot = element annot { mixed{(cost | char | annot | title | cam | p | loc | time | dir | gapMk | note)*} }
 # Author F.W. Murnaus bolded annotations from origional text. NOTE ALL BOLD TEXT IS HANDWRITTEN ANNOTATION FROM MURNAU
 p = element p { text }
 # paragraph

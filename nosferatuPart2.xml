@@ -47,7 +47,7 @@
             <cam>Fade out.</cam>
          </scene>
          <scene num="52">
-            <cam dis="6">6 meters</cam> Title <title>The same night</title>
+            <cam dis="6">6 meters</cam>  <title>The same night</title>
             <loc>Ellen's bedroom at the Hardings</loc>
             <dir type="char">She wakes up suddenly. She has been dreaming. As if she had seen a
                vision ... She has a premonition of danger ... Now she gets up. Moves over to the
@@ -64,7 +64,7 @@
             <cam>Medium close-up of door</cam>
             <dir type="char">Ellen is perching on the edge of the balcony. Harding leading to the
                balcony rushes into the room. Discovers that the bed is empty. He shouts: Ellen!
-            </dir> Title <title> Ellen!</title>
+            </dir>  <title> Ellen!</title>
             <dir type="char">He catches sight of the sleepwalker at the moment when, woken up by his
                shouts, she loses her balance and falls over. He runs up to her and gathers her in
                his arms. He carries her over to the bed. A servant, alerted by the noise appears in
@@ -85,7 +85,7 @@
             <cam>Fade in.</cam>
             <loc>Ellen's bedroom</loc>
             <cam>Long shot:</cam>
-            <dir type="char">Ellen shouts:</dir> Title <title> Hutter!!!</title>
+            <dir type="char">Ellen shouts:</dir>  <title> Hutter!!!</title>
             <cam>Long shot</cam>: <loc> Ellen in bed</loc><dir type="char"> ...in delirium. Anny is
                kneeling by her side. A doctor. Professor Sievers, is taking her pulse.</dir> Harding <!-- I assume this is a character in which case im not quite sure what to wrap it in.  -->
             <dir type="char">Ellen trembles like a wounded bird. She doubles up throws herself about
@@ -108,7 +108,7 @@
                weakly. </dir>
             <cam>Medium close-up:</cam>
             <dir type="char">She settles back listlessly into her pillows. Sievers can tell the
-               improvement from the pulse-rate and says to Harding:</dir> Title: <title> Normal
+               improvement from the pulse-rate and says to Harding:</dir>  <title> Normal
                congestion of the blood. . . caused by an awkward position during sleep...</title>
             <dir type="char">He has assumed an academic air. His beard trembles in his eagerness. </dir>
             <cam>Fade-out.</cam>
@@ -142,10 +142,10 @@
             <cam dis="6">6 meters</cam>
             <loc>Portrait gallery with flight of stairs</loc>
             <dir type="char">Hutter is dragging himself along with difficulty. He goes down a few
-               stairs. At the end of the corridor he finds a door. He opens it.</dir> 62a. A curving
-            gallery Hutter opens one door after the other
-            <!--The line above with "62a" is kinda confusing. I'm just going to wait so I can discuss this with the council-->
-            exterior </scene>
+               stairs. At the end of the corridor he finds a door. He opens it.</dir></scene>
+            <scene sub="62a."> <loc>A curving
+               gallery exterior</loc> <dir type="char">Hutter opens one door after the other</dir>
+                </scene>
          <scene num="63">
             <cam dis="15">15 meters</cam>
             <loc>A vault Empty and dark.</loc>
@@ -168,7 +168,7 @@
          <scene num="65">
             <cam dis="6">6 meters</cam>
             <cam>Fade-in.</cam>
-            <loc>A niche inside the castle The small castle room</loc> . <dir type="char">Hutter is
+            <loc>A niche inside the castle The small castle room.</loc> <dir type="char">Hutter is
                crouched on the floor. His body is twisted with fear. His hair is standing on end
                ...his eyes are staring. Sud- denly, he starts up and listens. Can he hear a noise in
                this desolate place? Could it mean his salvation? With difficulty he drags his
@@ -207,7 +207,7 @@
          </scene>
          <scene num="70">
             <cam dis="8">8 meters</cam>
-            <dir type="char">The small castle room Hutter jumps back from the window. </dir> Title
+            <dir type="char">The small castle room Hutter jumps back from the window. </dir> 
                <title>Ellen!</title>
             <dir type="char">NOSFERATU is on his way. Ellen is in danger. He has to hurry. Save
                Ellen. Ellen! Ellen!. Suddenly, he starts tearing down the wall-hangings and tearing
@@ -245,11 +245,11 @@
       <act num="3">
          <title>Act III </title>
          <scene num="73">
-            <cam dis="12">12 meters</cam> Title <title>A Budapest hospital</title>
+            <cam dis="12">12 meters</cam>  <title>A Budapest hospital</title>
             <loc>Hospital Ward</loc>
             <dir type="char"> A long line of white beds. In the foreground, Hutter. In bandages ...
                his eyes closed. The doctor comes to him now. He examines him. Questions the nurse
-               She tells him about the case:</dir> Title <title>He was brought in yesterday by
+               She tells him about the case:</dir>  <title>He was brought in yesterday by
                Huzules who said he had fallen down a mountain. He is still feverish ...</title>
             <dir type="char">As the doctor continues his examination Hutter wakes up, opens his
                eyes. There is fear in his feverish look still. The nurse hurries up to him to hold
@@ -289,7 +289,7 @@
                one can discern a name, underneath the baroque figure head; DEMETER</dir>
          </scene>
          <scene num="75">
-            <cam dis="12">12 meters</cam> Title <title> Professor Bulwer, a Paracelsian, explains
+            <cam dis="12">12 meters</cam>  <title> Professor Bulwer, a Paracelsian, explains
                the nature of carnivorous plants to his students</title>
             <loc>The institute</loc>
             <cam>Medium close-up:</cam>
@@ -302,7 +302,7 @@
                Its struggling is in vain. With irresistible force the flower has drawn it into the
                recesses of the calyx . . . </dir>
             <cam>Medium- close-up:</cam>
-            <dir type="char">Bulwer pointing at the flower. Slowly his lips are moving:</dir> Title:
+            <dir type="char">Bulwer pointing at the flower. Slowly his lips are moving:</dir> 
                <title> The patient who came in yesterday has had an attack. </title>
          </scene>
          <scene num="77">
@@ -317,7 +317,7 @@
                does not come. Knock remains at the window, arms jerking, he begins . . . to catch
                flies which he puts into his mouth. Horrible food. The madman's face twists into a
                grin that resembles distant lightning. His swollen lips are murmuring
-               something:</dir> Title: <title>Blood is life! Blood is life!!!</title>
+               something:</dir>  <title>Blood is life! Blood is life!!!</title>
             <dir type="char"> Suddenly, the madman starts up and throws himself with all his might
                on the unsuspecting Sievers. Who can barely ward him off. But the attendant comes to
                his help quickly and throws the straightjacket over the raging man's head. </dir>
@@ -330,7 +330,7 @@
             <cam>Close-up:</cam>
             <dir type="stg">On a piece of rock in the water hangs a small polyp. Now it stretches
                out its tentacles, grabs a small fish and pulls it up to its mouth. It is almost
-               transparent, colorless and of a jelly-like consistency. </dir> Title: <title>And this
+               transparent, colorless and of a jelly-like consistency. </dir>  <title>And this
                one . . .a polyp with tentacles . . . transparent . . . almost incorporeal . . .
                almost a phantom . . . </title>
          </scene>
@@ -340,7 +340,7 @@
             <cam>Close-up</cam>
             <dir type="char">On the floor, in his straitjacket, whining pitifully, mad Knock. His
                face. Turning his sad eyes upwards. He notices something there. His lips form a
-               word:</dir> Title: <title> Spiders . . . !</title>
+               word:</dir>  <title> Spiders . . . !</title>
             <cam>Close-up:</cam>
             <dir type="stg">A spider-web with a live spider which clutches, vampire-like an insect
                and is sucking its blood.</dir>
@@ -425,7 +425,7 @@
             <dir type="char">Ellen's face is distorted as if she were suffering physical pain.
                Harding and Anny are perplexed. </dir>
          </scene>
-         <scene num="87"> Title: <title>GALAZ</title>
+         <scene num="87">  <title>GALAZ</title>
             <loc>The port of Galaz at night.</loc>
             <dir type="stg"> The 'Demeter' is anchored off the jetty. Nobody is about on the quay. A
                stormy night, strange uncertain light. Sud- denly - a gentle movement from the ship
@@ -440,12 +440,12 @@
                still, yet full of resolution. The nurse notices his unsteady stance. She fusses
                around him. You ought to stay a few more days! Have some more rest! But he wards her
                off. His gestures are restless and fluttering, a strange force has taken possession
-               of him.</dir> Title: <title> I have to get home by the shortest possible way!
+               of him.</dir>  <title> I have to get home by the shortest possible way!
                !</title>
             <dir type="char"> So he says goodbye, disregarding the nurse's advice, thanks her for
                her care and goes out quickly. </dir>
          </scene>
-         <scene num="89"> Title: <title>Constantinople</title>
+         <scene num="89">  <title>Constantinople</title>
             <loc>The port. Night.</loc>
             <dir type="stg">Wild dogs are barking from the debris in the street up to the distant
                firmament, writhing in the mud like snakes.</dir>
@@ -456,7 +456,7 @@
          </scene>
          <scene num="90">
             <cam dis="8">8 meters </cam>
-            <loc> Polnischer Kamm Non-stop rain Entry to the Vratna Gorge</loc> Title: <title> In
+            <loc> Polnischer Kamm Non-stop rain Entry to the Vratna Gorge</loc>  <title> In
                the Hungarian plain.</title>
             <dir type="stg">Coach station in the Pusta The mail coach is arriving at top speed. The
                coachman whips his exhausted horses into a last effort. The coach has barely stopped
@@ -507,7 +507,7 @@
          </scene>
          <scene num="93">
             <cam dis="8">8 meters</cam>
-            <loc>North Sea</loc> Title: <title>Open Sea</title>
+            <loc>North Sea</loc>  <title>Open Sea</title>
             <dir type="stg"> The Mediterranean. In the distance the "Demeter" sailing through the
                waters gleaming in the even- ing light. </dir>
             <cam>Dissolve. Medium close-up</cam>
@@ -519,7 +519,7 @@
             <cam dis="8">8 meters</cam>
             <dir type="stg">In the captain's cabin The captain of the 'Demeter' bent over maps,
                making en- tries in the log-book. The mater enters and reports excitedly: </dir>
-            Title: <title> Below deck a sailor has fallen ill. He is talking in a fever.</title>
+             <title> Below deck a sailor has fallen ill. He is talking in a fever.</title>
             <dir type="char"> The captan looks up, shocked. He leaves his work and fol- low the
                mate.</dir>
          </scene>
@@ -558,7 +558,7 @@
             </dir>
          </scene>
          <scene num="97">
-            <cam dis="12">12 meters</cam> Title: <title>The gulf of Biscay</title>
+            <cam dis="12">12 meters</cam>  <title>The gulf of Biscay</title>
             <loc>On deck, the 'Demeter' Evening.</loc>
             <dir type="char">In the last light of the sun captain and mate are about to push the
                shrouded corpse of the last sailor over the railing. They have covered their mouths
@@ -571,7 +571,7 @@
                pulls himself together, tears the cloth off his face, takes up an axe and,
                brandishing it in the air,</dir>
             <cam> calls out:</cam>
-            <!-- I assume this is describing a camera shot? --> Title: <title> I'm going down!!! If
+            <!-- I assume this is describing a camera shot? -->  <title> I'm going down!!! If
                I haven't come back in ten minutes . . .</title>
             <dir type="char"> With the courage of a desperate man he hurries over to the
                companion-way. </dir>
@@ -641,7 +641,7 @@
             <cam dis="4">4 meters</cam>
             <loc>Roof of Harding's mansion</loc>
             <dir type="char"> Ellen, her clothes fluttering in the wind, her hair like a flag, is
-               sleeping in the storm. She stretches out her arms defensi- vely. A white figure
+               sleeping in the storm. She stretches out her arms defensively. A white figure
                against the black night sky. </dir>
          </scene>
          <scene num="104"> XXXXXXXXXX <!-- I feel as if we talked about this but at the moment I cant recall on the solution we came up with for this so im leaving it blank until further notice -->
@@ -653,7 +653,7 @@
             <loc> Contre jour North Sea</loc>
             <dir type="stg"> High Sea. The storm is raging, enormous tidal waves . . . In the
                distance a sailing ship, the 'Demeter' at full sail, racing to its perdition.
-               Trick</dir> (Scenes 106 and 107 are missing)
+               Trick</dir> <gapMk>(Scenes 106 and 107 are missing)</gapMk>
             <!--Again, im leaving this blank until we discuss it later-->
          </scene>
          <scene num="108">

@@ -38,7 +38,7 @@
                child-like eyes a laughing.</dir>
          </scene>
          <scene num="34" sub="a">
-            <cam dis="20">20 meters</cam> Hutter white jabot blue waist coat. <loc>A small sitting
+            <cam dis="20">20 meters</cam> <cost>Hutter white jabot blue waist coat.</cost> <loc>A small sitting
                room (attic)</loc>
             <dir type="char">Poor-looking and tidy. A bed, a chair in the period style. Hutter is
                standing in front of the mirror. He is about to put his jack- et on. He pauses to
@@ -66,7 +66,7 @@
             <dir type="char">Ellen turns around, catches sight of her husband and seems a little
                ashamed that she hasn't yet made breakfast. Now Hutter moves closer to her, looks
                into the sauce pan holds it upside down indicating that it is empty, and looks at her
-               reproachfully.</dir> Title: <title>Ellen!</title>
+               reproachfully.</dir>  <title>Ellen!</title>
             <dir type="char">She is sulking now and trying to placate him. But he pulls out his
                watch; it is late already; he has to go. He kisses her good-bye, but she calls him
                back again to confess that she hasn't got any money left to do the shopping. He pulls
@@ -81,7 +81,7 @@
             <cam>Long Shot</cam>
             <dir type="char">He produces the bouquet, hands it to her beaming all over his face. She
                is touched then, saddening, she takes the glowers looking at the stems and stroking
-               them. His voice asks for the reasons of her behavior she says:</dir> Title <title>Why
+               them. His voice asks for the reasons of her behavior she says:</dir>  <title>Why
                have you killed them ... the beautiful flowers?</title>
             <dir type="char">Hutter is taken aback for a moment. He apologizes and kisses her. Then
                she forgives him, they stand in an embrace.</dir>
@@ -91,12 +91,12 @@
             <cam dis="10">10 meters</cam>
             <loc>Lauenburg</loc>
             <cam>Fade in</cam>
-            <loc>Street with front gardens</loc> Title: <title>Professor Bulwer</title>
+            <loc>Street with front gardens</loc>  <title>Professor Bulwer</title>
             <dir type="char">Professor Bulwer is walking vigorously, yet slowly along the road,
                enjoying the morning and the sunshine. His stick strikes the ground energetically.
                Suddenly he stops and turns around. Who is following him in such haste? Isn't it
                Hutter? He grasps the passing man by his sleeve; he holds on to it. Hutter greets
-               him, looking pleased. Bulwer laughs and looking deep into his eyes says:</dir> Title:
+               him, looking pleased. Bulwer laughs and looking deep into his eyes says:</dir> 
                <title>Why so hasty , my young friend? One reaches one's goal soon enough.</title>
             <dir type="char">Hutter, of course, doesn't understand him. He has to get to office
                quickly. He greets him again and again. Until he manages at last to break free with a
@@ -130,9 +130,9 @@
             <cam dis="30">30 meters</cam>
             <loc>The dusty and cramped office</loc>
             <dir type="char">Knock and Hutter enter. Knock points to the letter with mysterious
-               gestures and tells Hutter: </dir> Title <title>Count Orlock - His grace - From
+               gestures and tells Hutter: </dir>  <title>Count Orlock - His grace - From
                Transylvania wants to buy a beautiful house in our little Town</title>
-            <cam>Close-up Knock's demonic face with wide open eyes</cam> Title <title>You could make
+            <cam>Close-up Knock's demonic face with wide open eyes</cam>  <title>You could make
                a nice bit of money . . . It will take some effort, however . . . a few drops of
                sweat and blood. . . Perhaps a little blood .</title>
             <cam>Closeup</cam>
@@ -150,7 +150,7 @@
                squiggles.</cam>
             <cam>Long shot</cam>
             <dir type="char">Knock seems to be able to make sense of this page too. He turns back to
-               Hutter who is al- ready day-dreaming about his journey.</dir> Title <title>He wants a
+               Hutter who is al- ready day-dreaming about his journey.</dir>  <title>He wants a
                handsome deserted house.</title>
             <cam>Long shot</cam>
             <dir type="char">For a moment Knock is lost in thought, then he has an idea. He limps
@@ -165,7 +165,7 @@
          <scene num="10">
             <cam dis="15">15 meters</cam>
             <loc>The dusty and cramped office</loc>
-            <dir type="char">Knock walks back from the window and says to Hutter:</dir> Title
+            <dir type="char">Knock walks back from the window and says to Hutter:</dir> 
                <title>That house...just opposite yours. Offer him that!</title>
             <dir type="char">Hutter seems to be a little taken aback, but he rallies around quickly.
                Knock urges him to set out on the journey at once, hands him some money and doc-
@@ -177,7 +177,7 @@
             <dir type="char">Ellen is sitting by the window. Now she can see him coming. She waves
                to him. Her face lights up with joy. She hurries over to the door. Presently Hutter
                enters. Moved and happy, he puts his arms around her and tells her his great
-               news:</dir> Title <title>I shall go on a journey far far away to the country of
+               news:</dir>  <title>I shall go on a journey far far away to the country of
                mountains where there are bandits and ghosts still.</title>
             <dir type="char"> Ellen is startled. A shadow passes over her forehead. She wants to
                hold him back. But he is not listening. He has got to pack; already he is leaving
@@ -204,11 +204,11 @@
                sister Anny. Ellen, weeping is supported by Anny.</dir>
             <cam>Close-up</cam>
             <dir type="char">The two men. Hutter, taking both of Harding's hands and looking deep
-               into his eyes:</dir> Title <title>I entrust Ellen to your care.</title> Harding
+               into his eyes:</dir>  <title>I entrust Ellen to your care.</title> Harding
             promises his friend to look after Ellen, she can live here, she will never be alone.
                <cam>Long shot of all characters</cam>
             <dir type="char">Hutter gives his hand to Anny and then to Ellen One last farewell kiss.
-               At this moment her grief is over. As if she had a premonition she says:</dir> Title
+               At this moment her grief is over. As if she had a premonition she says:</dir> 
                <title>Farewell! There is no escape left.</title>
             <dir type="char"> At first they are all startled by these words. Then Hutter breaks
                away. Another farewell, another wave of the hand and Hutter vanishes into the park.
@@ -222,7 +222,7 @@
             <cam>Fade out</cam>
          </scene>
          <scene num="15">
-            <cam dis="9">9 meters Schlesische Hutte</cam> Title <title>The Carpathian Mountains Wild
+            <cam dis="9">9 meters Schlesische Hutte</cam>  <title>The Carpathian Mountains Wild
                and rocky mountains. Contre jour</title>
             <cam>Fade-out</cam>
             <time>Evening</time>
@@ -255,7 +255,7 @@
                At once the old servant approaches with a glass and puts it down in front of him. He
                overcomes a strange anxiety that was brought on by the evening mood in a strange
                country and puts on a sudden show of liveliness. He knocks on the table and
-               says:</dir> Title <title>Quickly, my meal - I must be off to Count Orlock's
+               says:</dir>  <title>Quickly, my meal - I must be off to Count Orlock's
                castle.</title>
             <dir type="char">The servant recoils in horror. The strangely identical looking
                passengers, sitting in the background rise up abruptly to stare at him.</dir>
@@ -278,7 +278,7 @@
                out apprehensively. The old servant has not go the courage to go up to where they
                stand and makes the sign of the cross. Hutter stands alone, looking around. He is
                perplexed and wants to ask what is happening. The old servant comes up to him and
-               whispers into his ear.</dir> Title <title>You mustn't go there now there are wolves
+               whispers into his ear.</dir>  <title>You mustn't go there now there are wolves
                about Spend the night here.</title>
             <dir type="char">Hutter understands and decides to stay.</dir>
             <cam>Fade-out19a</cam>
@@ -396,7 +396,7 @@
             <dir type="stg">The mail coach is moving into the setting sun</dir>
             <cam>Medium close-up</cam>
             <dir type="char">A coach window, and old woman. Hutter leans out, giving the coachman a
-               push with an umbrella</dir> Title <title>Drive on!</title>
+               push with an umbrella</dir>  <title>Drive on!</title>
             <time>The sun is setting</time>
             <dir type="char">Next to her another old woman, identical looking She is staring into
                the abyss. Now the first one turns to look in the same direction: two identical
@@ -410,7 +410,7 @@
             <cam>Fade-out</cam>
          </scene>
          <scene num="33">
-            <cam dis="10">10 meters Close to Arler Hütte</cam> Title <title>At the crossroad</title>
+            <cam dis="10">10 meters Close to Arler Hütte</cam>  <title>At the crossroad</title>
             <dir type="char">A carved madonna casts a long shadow across the road. Behind it an old
                woman on her knees, deep in prayer. She lifts her head and looks down the road. The
                mail coach approaches, the horses are pulling with difficulty, breathing hard. She
@@ -509,7 +509,7 @@
                the lower lip.</dir>
             <cam>Medium Close-up</cam>
             <dir type="char">They are now face to face. It must be the count for this is no
-               servant's gesture with which he now takes hold of his visitor's bag.</dir> Title
+               servant's gesture with which he now takes hold of his visitor's bag.</dir> 
                <title>The servants are asleep It is almost after midnight.</title>
             <dir type="char">Hutter's clenched fingers let go. Bag in hand, Orlok turns around. He
                holds up the candle and walks ahead. Hutter follows.</dir>
@@ -565,7 +565,7 @@
                towards the fireplace.</dir>
             <cam>Medium Close-up</cam>
             <dir type="char">By the fireplace. The Count is polite; he has lost his ghostlike
-               appearance. He is asking for something in a friendly, almost sad manner.</dir> Title
+               appearance. He is asking for something in a friendly, almost sad manner.</dir> 
                <title>Shall we stay up together for a little while? It's a long time to go till
                sunrise . . . And during the day I am always out and about.</title>
             <dir type="char">The Count sits down. And Hutter cannot resist his chivalrous manner. He
@@ -640,15 +640,15 @@
                answer him.</dir>
             <cam>Close up:</cam>
             <dir type="char">Orlok's eyes open wide. His lips look even thinner than before.
-               Contemplating the picture he whispers:</dir> Title <title>What a beautiful throat
+               Contemplating the picture he whispers:</dir>  <title>What a beautiful throat
                your wife has...</title>
             <cam>Medium close-up:</cam>
             <dir type="char">Hutter is breathing hard. The fear which grips him in the count's
-               presence is replaced by a sud- den fear for his wife. He forgets himself and rea-
-               ches for the miniature. For the first time he touches Orlok's body. The count jumps
+               presence is replaced by a sudden fear for his wife. He forgets himself and reaches for the miniature. 
+               For the first time he touches Orlok's body. The count jumps
                up. He raises himself to his full height with triumphant determination and a glazed
                look in his eyes, and says, anticipating the horrors to come with pleasure.</dir>
-            Title <title>I shall buy the house... The handsome deserted house opposite
+             <title>I shall buy the house... The handsome deserted house opposite
                yours.</title>
             <dir type="char">Quickly, he takes up the contract and signs it. He hands it back to
                Hutter. Hutter bows uneasily and retires. Orlok watches him go, a satanic look has
@@ -661,9 +661,9 @@
             <cam>Fade-in: Candle is burning</cam>
             <loc>A small room in castle</loc>
             <dir type="char">Hutter is standing in the middle of the room, quite dazed. He shakes
-               off his misgivings. He de- cides to leave tomorrow. He kisses the picture and starts
+               off his misgivings. He decides to leave tomorrow. He kisses the picture and starts
                to undress, when to his amazement he discovers a book in his pocket. The old book
-               from the inn. Did the in-keepers wife put it there? Mechanically, he opens it.</dir>
+               from the inn. Did the inn-keepers wife put it there? Mechanically, he opens it.</dir>
             <cam>Close-up: The book</cam> Chapter II Night is the vampire's element. He can see in
             the dark which is a wonderful ability to have in this world half of which is night. We
             humans, however, are helpless and blind at night <cam>Normal</cam>
