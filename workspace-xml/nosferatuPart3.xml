@@ -77,7 +77,7 @@
                 <loc> Ellen's room at the Hardings' </loc>
                 <dir type="char">Ellen and Anny. Ellen suddenly breaks away. Overjoyed as if she had
                     a happy vision she throws her arms up and shouts:</dir>
-                <title>  I must go to him. He is coming!! </title>
+                <title> I must go to him. He is coming!! </title>
                 <dir type="char">She moves off and vanishes.</dir>
                 <dir type="char">Anny wrings her hands in despair.</dir>
             </scene>
@@ -149,8 +149,7 @@
                 <cam>Fade-in.</cam>
                 <dir type="char">Hutter and Ellen, on the chaise lounge. He sits up, looking deep
                     into her eyes.</dir>
-                <title> Thank God . . . you are well . . .now everything has come all
-                    right.</title>
+                <title> Thank God . . . you are well . . .now everything has come all right.</title>
                 <dir type="char">She does not understand him. But the joy of being to- gether again
                     is stronger than anything else. And the room is bright.</dir>
             </scene>
@@ -161,13 +160,14 @@
                 <dir type="char">There is nobody about. But in the middle of the street stands
                     NOSFERATU, hidden by the night, carrying the cof fin. Slowly, he turns his head
                     and looks over to Hutter's house.</dir>
-                <cam>Shot of Hutter's house </cam><dir type="stg">[There is a friendly light in the
-                    window] </dir>
+                <cam>Shot of Hutter's house </cam>
+                <dir type="stg">[There is a friendly light in the window] </dir>
                 <dir type="char">The deserted house Empty! Carrying the coffin - Nosferatu appears
                     in picture. </dir>
-                <cam>Medium close-up: </cam><dir type="char">NOSFERATU. Once more he turns his head.
-                    He looks over to the other side. The deserted house is over there. He makes for
-                    that now, walking slow. Then he goes into the house. </dir>
+                <cam>Medium close-up: </cam>
+                <dir type="char">NOSFERATU. Once more he turns his head. He looks over to the other
+                    side. The deserted house is over there. He makes for that now, walking slow.
+                    Then he goes into the house. </dir>
                 <cam>Fade-out.</cam>
             </scene>
             <scene num="126">
@@ -188,13 +188,13 @@
                 <cam dis="6">6 meters</cam>
                 <loc>Sandbank harbor The stranded ship is in sight.</loc>
                 <time>It is night-time</time>
-                <cam>Long shot: </cam><dir type="stg">In the blowing wind nocturnal figures . .
-                    .townspeople</dir>
-                <cam>Close-up: </cam><dir type="char">Down the tilted hulk a man is climbing along a
-                    rope. </dir>
-                <cam>Medium close-up: </cam><dir type="char">By the light of a torch! the captain of
-                    the harbor with a number of old people . . . Looking like fishermen. The climber
-                    approaches and reports. </dir>
+                <cam>Long shot: </cam>
+                <dir type="stg">In the blowing wind nocturnal figures . . .townspeople</dir>
+                <cam>Close-up: </cam>
+                <dir type="char">Down the tilted hulk a man is climbing along a rope. </dir>
+                <cam>Medium close-up: </cam>
+                <dir type="char">By the light of a torch! the captain of the harbor with a number of
+                    old people . . . Looking like fishermen. The climber approaches and reports. </dir>
                 <title> Everything has been examined . . No living soul on board. The captain
                     receives the report . . . jots down some notes.</title>
             </scene>
@@ -207,9 +207,9 @@
                 <loc>Back-board with helm.</loc>
                 <dir type="char">Some men are lifting up the dead captain, and carrying off the
                     corpse. </dir>
-                <loc>Captain's cabin: </loc><dir type="char">Harding alone . . . he finds a book
-                    next to a masthead that is affixed to the helm. In the light of a dim lantern he
-                    reads: </dir>
+                <loc>Captain's cabin: </loc>
+                <dir type="char">Harding alone . . . he finds a book next to a masthead that is
+                    affixed to the helm. In the light of a dim lantern he reads: </dir>
                 <cam>Close-up: A page of the book</cam>
                 <p>Varna - July 12 Crew - apart from myself the captain - one helmsman mate and five
                     sailors. Departing - for the Dardanelles. </p>
@@ -290,10 +290,10 @@
                 <dir type="char">The man knocks hard on the door. From a window above a head looks
                     out. There are still people living here. The man moves on. </dir>
                 <cam>Panning shot: </cam>
-                <loc>The first house in the side-street</loc>. <dir type="char">A coffin is being
-                    carried out. Men carrying it have white bandages over their mouths. The man
-                    comes along and dr aws a cross on this house, too. Then he walks on, following
-                    his horrible business.</dir>
+                <loc>The first house in the side-street.</loc>
+                <dir type="char">A coffin is being carried out. Men carrying it have white bandages
+                    over their mouths. The man comes along and dr aws a cross on this house, too.
+                    Then he walks on, following his horrible business.</dir>
             </scene>
 
             <scene num="132">
@@ -323,8 +323,9 @@
                     she shouts: There!!!</dir>
                 <dir type="char">Her body is tensed up like a bow trembling with excitement.</dir>
             </scene>
-            <scene num="133"> 3 meters <loc>The deserted house Seen through Ellen's window
-                    frame.</loc>
+            <scene num="133">
+                <cam dis="3">3 meters</cam>
+                <loc>The deserted house Seen through Ellen's window frame.</loc>
                 <cam> Almost at once dissolve to window.</cam>
                 <cam>Medium close-up: </cam>
                 <loc>A window, divided into four rectangular panes. Light from behind.</loc>
@@ -369,8 +370,7 @@
                     down the struggling woman who is shaking fitfully.</dir>
                 <dir type="char"> She collapses with exhaustion. Then pulls himself together and
                     decides: </dir>
-                <title> I will run over quickly . . . I shall get Sievers. And he is
-                    gone.</title>
+                <title> I will run over quickly . . . I shall get Sievers. And he is gone.</title>
                 <cam>Medium close-up: </cam>
                 <dir type="char">Anny, having almost fainted with fear, comes to again. She opens
                     her eyes. She lifts her head. No- body around?? Is she all alone?? Isn't there
@@ -438,7 +438,9 @@
                     She supports himself by a stick. He catches sight of the distant procession and
                     lifts up his hands to heaven in misery. </dir>
             </scene>
-            <scene num="141"> with window -frame Ellen <!-- need to fix this. Something is missing -->
+            <scene num="141">
+                <dir type="char">with window -frame Ellen</dir>
+                <!-- need to fix this. Something is missing -->
                 <loc>Ellen's room.</loc>
                 <dir type="char">Ellen, on the point of fainting, turns away from the window She
                     cannot bear the sight of this wretchedness any longer. She sinks into a chair,
@@ -484,8 +486,8 @@
                     them. Since every new day is a present to them. </dir>
                 <cam>Close-up:</cam>
                 <dir type="char">The are whispering to each other; their heads are trembling.</dir>
-                <title> In the deserted house. . . that's where it is hiding. He strangled
-                    him. The vampire. </title>
+                <title> In the deserted house. . . that's where it is hiding. He strangled him. The
+                    vampire. </title>
                 <cam>Medium close-up:</cam>
                 <dir type="char">Further back agitated people are running across the square,
                     shouting excitedly to one another. The two woman turn around gesturing ˚ercely.
@@ -525,7 +527,8 @@
                 <dir type="char">Ellen in an old armchair, busy embroidering a cushion in the
                     cross-stitch manner of the 1840s An inscription reading: I LOVE YOU She puts
                     down her work, resting her head. Tired, she falls to day-dreaming. Then she
-                    lights a lamp. </dir> M<cam>edium close-up:</cam>
+                    lights a lamp. </dir>
+                <cam>Medium close-up:</cam>
                 <dir type="char">Ellen takes up her work again, determined to finish it.</dir>
             </scene>
             <scene num="148">
@@ -596,7 +599,8 @@
                 <cam>Medium close-up:</cam>
                 <dir type="char">Ellen is clinging to the window. She sees. </dir>
             </scene>
-            <scene num="155">. <cam dis="3"> 3 meters</cam>
+            <scene num="155">
+                <cam dis="3"> 3 meters</cam>
                 <loc>Deserted house.</loc>
                 <dir type="char">Nosferatu at the window. He raises his arms slowly.</dir>
             </scene>
@@ -635,8 +639,8 @@
             <scene num="160">
                 <cam dis="12" sync="2">12 meters 2x</cam>
                 <loc>Ellen's room.</loc>
-                <cam>Medium close-up: </cam><dir type="char">Ellen is covering her face with her
-                    hands, seized with mortal fear. </dir>
+                <cam>Medium close-up: </cam>
+                <dir type="char">Ellen is covering her face with her hands, seized with mortal fear. </dir>
                 <cam>Long shot; window moves out of picture</cam>
                 <dir type="char">Ellen at window. She wants to call for help. She staggers forward.
                     She stops in front of Hutter. One last moment of indecision. Then she wakes him
@@ -646,7 +650,9 @@
                 <dir type="char">She entreats him to go. Hutter takes her hands, she quickly kisses
                     his head, Then he rushes out.</dir>
             </scene>
-            <scene num="161"> 3 meters <loc>In front of Hutter's House. A path bordered by flowers. </loc>
+            <scene num="161">
+                <cam dis="3">3 meters</cam>
+                <loc>In front of Hutter's House. A path bordered by flowers. </loc>
                 <dir type="char">Hutter rushes out.</dir>
                 <cost>Trousers, pleated shirt, collar without tie. No hat no waist coat.</cost>
             </scene>
@@ -679,10 +685,10 @@
                 <loc>In addition to the already familiar fish tanks there is a large telescope by a
                     window. A profusion of antiquated scientific gadgets, globes etc. A lamp is
                     burning.</loc>
-                <!-- need to figure out how to break this up --><dir type="char">Bulwer asleep in
-                    dressing-gown and night-cap in the armchair. Cages with birds and all kinds of
-                    animals. Hutter rushes in. He wakes Bulwer, begs him to come with him. Bulwer
-                    starts to get dressed.</dir>
+                <!-- need to figure out how to break this up -->
+                <dir type="char">Bulwer asleep in dressing-gown and night-cap in the armchair. Cages
+                    with birds and all kinds of animals. Hutter rushes in. He wakes Bulwer, begs him
+                    to come with him. Bulwer starts to get dressed.</dir>
             </scene>
             <scene num="167">
                 <loc>A municipal building on the period (town hall)</loc>
@@ -701,9 +707,10 @@
             <scene num="169">
                 <cam dis="4">4 meters</cam>
                 <loc>Ellen's room</loc>
-                <time>Night</time>. <dir type="char">Ellen in bed, the strangler is at her throat,
-                    his fingers clawing her arms. Her eyes, widened in mortal fear, have a glazed
-                    look. Then she seems to have heard something.</dir>
+                <time>Night.</time>
+                <dir type="char">Ellen in bed, the strangler is at her throat, his fingers clawing
+                    her arms. Her eyes, widened in mortal fear, have a glazed look. Then she seems
+                    to have heard something.</dir>
             </scene>
             <scene num="170">
                 <dir type="stg">A cock jumps on to a still-life farm implements. He flaps his wings,
@@ -717,49 +724,63 @@
                 <title> The master . . . the master . . .!</title>
             </scene>
             <scene num="172">
-                <loc>Ellen's room</loc>. <dir type="char">Nosferatu raises his head. He looks drunk
-                    with pleasure. Ellen eyes are full of terrible fear. She must not allow
-                    Nosferatu just to go. She pulls her arms around him: he cannot resist and bends
-                    his head over her again.</dir> Omitted </scene>
+                <loc>Ellen's room.</loc>
+                <dir type="char">Nosferatu raises his head. He looks drunk with pleasure. Ellen eyes
+                    are full of terrible fear. She must not allow Nosferatu just to go. She pulls
+                    her arms around him: he cannot resist and bends his head over her again.</dir>
+                <annot>Omitted</annot>
+            </scene>
             <scene num="173">
                 <cam>3 meters</cam>
                 <loc>The sun is rising over the small town.</loc>
             </scene>
             <scene num="174">
-                <loc>Ellen's room</loc> Ellen's last moment of apprehension. <loc>There, isn't that
-                    a flicker of sunlight on the wall over her bed?</loc>
+                <loc>Ellen's room</loc>
+                <dir type="char">Ellen's last moment of apprehension.
+                    <!-- Not sure if this is a title or dir. Need to check video --></dir>
+                <loc>There, isn't that a flicker of sunlight on the wall over her bed?</loc>
                 <dir type="char">Here eyes light up hopefully and remain fixed on this first sign of
                     the new day. She stretches out her hand for it. And look: it is moving
                     downwards.</dir>
             </scene>
-            <scene num="175"> 5 meters <loc>Street with front gardens</loc>
-                <loc>The long shadows of sunrise</loc>. <loc>Nobody is about</loc> Then <dir
-                    type="char">shoulders of Hutter and Bulwer appear. They are hurrying on and
-                    turning into a side street.</dir>
+            <scene num="175">
+                <cam dis="5">5 meters</cam>
+                <loc>Street with front gardens</loc>
+                <loc>The long shadows of sunrise.</loc>
+                <loc>Nobody is about</loc>
+                <dir type="char"> Then shoulders of Hutter and Bulwer appear. They are hurrying on
+                    and turning into a side street.</dir>
             </scene>
-            <scene num="176"> 8 meters <loc>Ellen's room</loc>
-                <loc>The bed is bathed in sunlight</loc>. <dir type="char">Ellen's eyes are full of
-                    anticipation</dir><dir type="char">. Has she sacrificed herself in vain?
-                    Suddenly the horrible figure jerks himself up. He looks about in amazement. He
-                    clutches his heart. The bestial tenseness of his bearing relaxes. For a moment
-                    he stands, legs apart, as if trying to regain his balance. He clutches his heart
-                    again and falls on his knees, his face turned to the sun, distorted by
-                    pain.</dir>
+            <scene num="176">
+                <cam dis="8">8 meters</cam>
+                <loc>Ellen's room</loc>
+                <loc>The bed is bathed in sunlight.</loc>
+                <dir type="char">Ellen's eyes are full of anticipation</dir>
+                <dir type="char">. Has she sacrificed herself in vain? Suddenly the horrible figure
+                    jerks himself up. He looks about in amazement. He clutches his heart. The
+                    bestial tenseness of his bearing relaxes. For a moment he stands, legs apart, as
+                    if trying to regain his balance. He clutches his heart again and falls on his
+                    knees, his face turned to the sun, distorted by pain.</dir>
             </scene>
-            <scene num="177"> Siever's lunatic cell Knock <cam>5 meters</cam>
+            <scene num="177">
+                <annot>Siever's lunatic cell <cam dis="5">Knock 5 meters</cam></annot>
                 <loc>Town hall</loc>
-                <cam>Medium close-up</cam>: Knock, in a straitjacket, alone in the sunlight which is
-                falling through a barred window. He is mumbling disconnected words: <title>
-                    The master . . .the master . . . is dead.</title>
+                <cam>Medium close-up:</cam>
+                <dir type="char">Knock, in a <cost>straitjacket</cost>, alone in the sunlight which
+                    is falling through a barred window. He is mumbling disconnected words:</dir>
+                <title> The master . . .the master . . . is dead.</title>
                 <dir type="char">His head sinks on to his chest.</dir>
             </scene>
-            <scene num="178"> 8 meters <loc>Ellen's room</loc>
+            <scene num="178">
+                <cam dis="8">8 meters</cam>
+                <loc>Ellen's room</loc>
                 <dir type="char">Nosferatu on his knees, supporting himself with one hand on the
                     ground. He raises the other in the direction of the sun to shield himself from
                     the light that brings him death. But he cannot hold out against the sun. His
                     fingers, his hand, his arm are dissolving in the light. The sun seems about to
                     strike his heart. Now his body is dis- integrating in the light. Ellen throws up
-                    her hands triumphantly calling</dir>: <title> Hutter!</title>
+                    her hands triumphantly calling:</dir>
+                <title> Hutter!</title>
             </scene>
             <scene num="179">
                 <cam>4 meters</cam>
@@ -769,11 +790,15 @@
                     house.</dir>
             </scene>
             <scene num="180">
-                <cam>8 meters</cam> Ellen in bed. In anticipation, her hand reaches out for Hutter.
-                Hutter comes rushing in, falls on his knees by the bed. He t akes hold of her hand.
-                    <cam>Close-up</cam>: Her hand grasps his, the it lets go weakly and drops away.
-                Ellen's head falls over - - - - Bulwer is standing at the window, hands behind his
-                back looking out. </scene>
+                <cam>8 meters</cam>
+                <dir type="char">Ellen in bed.</dir>
+                <dir type="char"> In anticipation, her hand reaches out for Hutter. Hutter comes
+                    rushing in, falls on his knees by the bed. He t akes hold of her hand.</dir>
+                <cam>Close-up:</cam>
+                <dir type="char"> Her hand grasps his, the it lets go weakly and drops away. Ellen's
+                    head falls over - - - - Bulwer is standing at the window, hands behind his back
+                    looking out.</dir>
+            </scene>
             <title>THE END</title>
         </act>
     </script>
