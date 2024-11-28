@@ -10,7 +10,7 @@
                 <loc>Harding's mansion</loc>
                 <dir type="char">Ellen in Anny's arm. Her hair is fluttering in the wind. Ellen
                     stretching her hands towards the sea, as if trying to defend herself.</dir>
-                <title> I must go home. He is coming.</title>
+                <annot><title> I must go home. He is coming.</title></annot>
             </scene>
 
             <scene num="112">
@@ -20,12 +20,12 @@
                 <dir type="char">In the distance people, hurrying to rescue the ship- wrecked.</dir>
                 <dir type="stg">The sand bank . The ship crashes into it . . . turns over on its
                     side.</dir>
-                <cam>View through archway:</cam>
-                <loc>the sailing boat is moving past. Weimar</loc>
+                <annot><cam>View through archway:</cam>
+                <loc>the sailing boat is moving past. Weimar</loc></annot>
             </scene>
 
             <scene num="113">
-                <cam dis="4">4 meters</cam>
+                <annot><cam dis="4">4 meters</cam></annot>
                 <loc>Lunatic's cell</loc>
                 <cam>Long shot:</cam>
                 <dir type="char">Knock alone. He drags up a chair . . . to the window. He climbs up
@@ -35,7 +35,7 @@
                     blowing in, makes his hair stand on end uncannily.</dir>
             </scene>
             <scene num="113" sub="a">
-                <cam dis="10">10 meters</cam>
+                <annot><cam dis="10">10 meters</cam></annot>
                 <loc>The stranded ship Dead and forsaken. a rope is dangling from the deck. It is
                     swaying in the wind.</loc>
                 <cam>Medium close-up</cam>
@@ -46,16 +46,16 @@
                 <dir type="char">He carries the last coffin.</dir>
                 <dir type="char">Remains standing. Motionless.</dir>
                 <dir type="char">The image of death. Then he approaches slowly.</dir>
-                <loc>1) Ship anchored in the harbor.</loc>
+                <annot><loc>1) Ship anchored in the harbor.</loc>
                 <cam>Dissolve</cam>
                 <loc>2)Ship's hatch with a piece of deck.</loc>
                 <dir type="stg"> Trick: 1) Canvas glides away from hatch. 2) Hatch lid is lifted. 3)
                     Rats are rushing on deck.</dir>
-                <dir type="char">4) Nosferatu coffin in arms climbs out.</dir>
+                <dir type="char">4) Nosferatu coffin in arms climbs out.</dir></annot>
             </scene>
             <scene num="114">
-                <cam>8 meters</cam>
-                <loc>Lauenburg or Travemünde</loc>
+                <annot><cam>8 meters</cam>
+                <loc>Lauenburg or Travemünde</loc></annot>
                 <loc>Town center. Trees, shaken by storm.</loc>
                 <dir type="stg">A carriage races up, stops abruptly.</dir>
                 <cam>Medium close-up:</cam>
@@ -66,30 +66,30 @@
                 <dir type="char">Hutter cannot wait. He leaves the carriage and runs of f.</dir>
             </scene>
             <scene num="115">
-                <cam dis="5">5 meters</cam>
+                <annot><cam dis="5">5 meters</cam></annot>
                 <loc>Archway with a view of the harbor: </loc>
-                <dir type="char">Nosferatu enters the town</dir>
+                <annot><dir type="char">Nosferatu enters the town</dir></annot>
             </scene>
 
             <scene num="116">
-                <cam dis="6">6 meters</cam>
+                <annot><cam dis="6">6 meters</cam></annot>
                 <loc>The roof of Harding's mansion.</loc>
                 <loc> Ellen's room at the Hardings' </loc>
                 <dir type="char">Ellen and Anny. Ellen suddenly breaks away. Overjoyed as if she had
                     a happy vision she throws her arms up and shouts:</dir>
-                <title> I must go to him. He is coming!! </title>
+                <annot><title> I must go to him. He is coming!! </title></annot>
                 <dir type="char">She moves off and vanishes.</dir>
                 <dir type="char">Anny wrings her hands in despair.</dir>
             </scene>
             <scene num="117">
-                <cam dis="4">4 meters </cam>
+                <annot><cam dis="4">4 meters </cam></annot>
                 <loc>Storm-tossed trees.</loc>
                 <dir type="char">A white figure comes out of the house. It is Ellen. She is running
                     through the park. </dir>
             </scene>
 
             <scene num="118">
-                <loc>perhaps Lüneberg Street</loc>
+                <annot><loc>perhaps Lüneberg Street</loc></annot>
                 <loc>Shuttered windows.</loc>
                 <dir type="char">Nosferatu striding</dir>
             </scene>
@@ -99,21 +99,21 @@
             </scene>
 
             <scene num="119">
-                <cam>8 meters</cam>
+                <annot><cam>8 meters</cam></annot>
                 <loc>Lunatic's cell</loc>
                 <cam>Long shot:</cam>
                 <dir type="stg">Knock, moving away from the window wall</dir>
                 <cam>Medium close-up:</cam>
                 <dir type="char">The madman is listening for outside noises, as if he had received a
                     signal from the other world . . . triumphantly . . . he whispers to himself: </dir>
-                <title>s: The master is near . . .the master is near . . .!</title>
+                <annot><title>The master is near . . .the master is near . . .!</title></annot>
                 <cam>Long shot:</cam>
                 <dir type="char">Suddenly, he listens attentively. He creeps over to the door. There
                     he waits expectantly . . . The door opens. The attendant appears. He looks
                     around the room. Not noticing that Knock is behind him. Knock creeps carefully
                     behind his back. Suddenly frightened, the attendant turns around. Knock makes
                     for his throat like a vampire. The attendant falls over. The madman is at his
-                    throat for a moment only, then he lets go and sneaks out.</dir>
+                    throat <annot>for a moment only, then he lets go and sneaks out.</annot></dir>
             </scene>
 
             <scene num="120">
