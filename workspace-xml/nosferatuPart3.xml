@@ -21,7 +21,7 @@
                 <dir type="stg">The sand bank . The ship crashes into it . . . turns over on its
                     side.</dir>
                 <annot><cam>View through archway:</cam>
-                <loc>the sailing boat is moving past. Weimar</loc></annot>
+                    <loc>the sailing boat is moving past. Weimar</loc></annot>
             </scene>
 
             <scene num="113">
@@ -47,15 +47,15 @@
                 <dir type="char">Remains standing. Motionless.</dir>
                 <dir type="char">The image of death. Then he approaches slowly.</dir>
                 <annot><loc>1) Ship anchored in the harbor.</loc>
-                <cam>Dissolve</cam>
-                <loc>2)Ship's hatch with a piece of deck.</loc>
-                <dir type="stg"> Trick: 1) Canvas glides away from hatch. 2) Hatch lid is lifted. 3)
-                    Rats are rushing on deck.</dir>
-                <dir type="char">4) Nosferatu coffin in arms climbs out.</dir></annot>
+                    <cam>Dissolve</cam>
+                    <loc>2)Ship's hatch with a piece of deck.</loc>
+                    <dir type="stg"> Trick: 1) Canvas glides away from hatch. 2) Hatch lid is
+                        lifted. 3) Rats are rushing on deck.</dir>
+                    <dir type="char">4) Nosferatu coffin in arms climbs out.</dir></annot>
             </scene>
             <scene num="114">
                 <annot><cam>8 meters</cam>
-                <loc>Lauenburg or Travemünde</loc></annot>
+                    <loc>Lauenburg or Travemünde</loc></annot>
                 <loc>Town center. Trees, shaken by storm.</loc>
                 <dir type="stg">A carriage races up, stops abruptly.</dir>
                 <cam>Medium close-up:</cam>
@@ -117,7 +117,7 @@
             </scene>
 
             <scene num="120">
-                <cam>5 meters</cam>
+                <annot><cam>5 meters</cam></annot>
                 <loc>In front of Hutter's house</loc>
                 <dir type="char">Hutter comes running up. He looks up: no light. He is just about to
                     enter when - somebody is calling. He turns around Ellen!!!!! They fall into each
@@ -131,7 +131,7 @@
             </scene>
 
             <scene num="122">
-                <cam dis="4" sync="2">4 meters 2x</cam>
+                <annot><cam dis="4" sync="2">4 meters 2x</cam></annot>
                 <loc>Hutter's parlour Ellen's sitting room</loc>
                 <dir type="stg">A lamp is shining. Hutter and Ellen. They are sitting on the chaise
                     lounge. The happiness of being reunited was too much. Overpowered by emotion, he
@@ -139,39 +139,40 @@
             </scene>
 
             <scene num="123">
-                <cam>4 meters</cam>
+                <annot><cam>4 meters</cam></annot>
                 <loc>In front of Hutter's house</loc>
-                <dir type="char">Nosferatu, staring up</dir>
+                <annot><dir type="char">Nosferatu, staring up</dir></annot>
             </scene>
 
             <scene num="124">
-                <cam dis="6">6 meters</cam>
+                <annot><cam dis="6">6 meters</cam></annot>
                 <cam>Fade-in.</cam>
                 <dir type="char">Hutter and Ellen, on the chaise lounge. He sits up, looking deep
                     into her eyes.</dir>
-                <title> Thank God . . . you are well . . .now everything has come all right.</title>
+                <annot><title> Thank God . . . you are well . . .now everything has come all
+                        right.</title></annot>
                 <dir type="char">She does not understand him. But the joy of being to- gether again
                     is stronger than anything else. And the room is bright.</dir>
             </scene>
 
             <scene num="125">
-                <cam dis="10">10 meters</cam>
+                <annot><cam dis="10">10 meters</cam></annot>
                 <loc>Street in front of Hutter's House </loc>
                 <dir type="char">There is nobody about. But in the middle of the street stands
                     NOSFERATU, hidden by the night, carrying the cof fin. Slowly, he turns his head
                     and looks over to Hutter's house.</dir>
-                <cam>Shot of Hutter's house </cam>
+                <cam>Shot of Hutter's house The deserted house </cam>
                 <dir type="stg">[There is a friendly light in the window] </dir>
-                <dir type="char">The deserted house Empty! Carrying the coffin - Nosferatu appears
-                    in picture. </dir>
+                <annot><dir type="char"> Empty! Carrying the coffin - Nosferatu appears in picture.
+                    </dir></annot>
                 <cam>Medium close-up: </cam>
                 <dir type="char">NOSFERATU. Once more he turns his head. He looks over to the other
                     side. The deserted house is over there. He makes for that now, walking slow.
-                    Then he goes into the house. </dir>
+                        <annot>Then he goes into the house. </annot></dir>
                 <cam>Fade-out.</cam>
             </scene>
             <scene num="126">
-                <cam dis="12">12 meters</cam>
+                <annot><cam dis="12">12 meters</cam></annot>
                 <loc>On the stranded ship</loc>
                 <dir type="char">The captain, collapsed in death, is tied to the helm. In the
                     foreground, some men, Harding among them, are climbing up on deck. They are
@@ -185,7 +186,7 @@
                 <dir type="char">Harding. He cannot comprehend the horror . . .</dir>
             </scene>
             <scene num="127">
-                <cam dis="6">6 meters</cam>
+                <annot><cam dis="6">6 meters</cam></annot>
                 <loc>Sandbank harbor The stranded ship is in sight.</loc>
                 <time>It is night-time</time>
                 <cam>Long shot: </cam>
@@ -195,12 +196,13 @@
                 <cam>Medium close-up: </cam>
                 <dir type="char">By the light of a torch! the captain of the harbor with a number of
                     old people . . . Looking like fishermen. The climber approaches and reports. </dir>
-                <title> Everything has been examined . . No living soul on board. The captain
-                    receives the report . . . jots down some notes.</title>
+                <annot><title> Everything has been examined . . No living soul on board. The captain
+                        receives the report . . . jots down some notes.</title></annot>
             </scene>
 
             <scene num="128">
-                <cam dis="10">10 meters [Is inserted below]</cam>
+                <annot><cam dis="10">10 meters [Is inserted below]</cam></annot>
+                <!-- not sure whether the [is inserted below] is an author thing or a translator thing -->
                 <loc>On board ship.</loc>
                 <time>Night</time>
                 <cam>Long shot:</cam>
@@ -215,14 +217,16 @@
                     sailors. Departing - for the Dardanelles. </p>
                 <cam>Normal Shot:</cam>
                 <dir type="char">Harding shakes his head. He is puzzled.</dir>
-                <loc>On deck.</loc>
-                <dir type="char">Harding emerges from the cabin with the book in his hand.</dir>
+                <annot><loc>On deck.</loc>
+                    <dir type="char">Harding emerges from the cabin with the book in his
+                    hand.</dir></annot>
                 <cam>Fade-out.</cam>
             </scene>
             <scene num="129">
-                <cam dis="15">15 meters</cam>
+                <annot><cam dis="15">15 meters</cam></annot>
                 <cam>Fade-in: </cam>
-                <time>Daytime</time>
+                <annot>
+                    <time>Daytime</time></annot>
                 <loc>Port Authority building A large hall. On the walls a number of figure heads
                     Models of ships are suspended from the ceiling.</loc>
                 <dir type="char">The dead captain [is carried] in lying in state.</dir>
@@ -246,16 +250,18 @@
                 <dir type="char">Harding has been reading this aloud. Now Sievers understands at
                     last. He points to the book with his finger. Danger of plague! That's what it
                     is. Dan- ger of plague, he calls out. </dir>
-                <title> Danger of plague! Go home! Shut all your windows and doors! Deeply
-                    frightened, the bystanders move away. The women put the ends of their
-                    head-scarves into their mouths. Panic- stricken .the crowd leaves the room. </title>
+                <title> Danger of plague! Go home! Shut all your windows and doors!</title>
+                <dir type="stg">Deeply frightened, the bystanders move away. The women put the ends
+                    of their head-scarves into their mouths. Panic- stricken .the crowd leaves the
+                    room.</dir>
+                <!-- Not ure what the prior text phrase should be. Its really just general text -->
                 <cam>Fade-out.</cam>
                 <annot>(Perhaps end of act)</annot>
-                <!-- verify this -->
+       
             </scene>
 
             <scene num="130">
-                <cam dis="15">15 meters</cam>
+                <annot><cam dis="15">15 meters</cam></annot>
                 <cam>Fade-in</cam>
                 <loc>A deserted square: Nobody is about. Except in the center of the square, the
                     town-drummer with his large drum. </loc>
@@ -279,7 +285,7 @@
         <act num="5">
             <title>Act V</title>
             <scene num="131">
-                <cam dis="15">15 meters</cam>
+                <annot><cam dis="15">15 meters</cam></annot>
                 <cam>Fade in.</cam>
                 <loc>A bend in a street</loc>
                 <dir type="char">A man emerges from a front door. He shuts the door behind him.
@@ -297,31 +303,30 @@
             </scene>
 
             <scene num="132">
-                <cam dis="15" sync="2">15 meters 2x</cam>
-                <loc>shaded candle on table near armchair .</loc>
+                <annot><cam dis="15" sync="2">15 meters 2x</cam>
+                <loc>shaded candle on table near armchair .</loc></annot>
                 <loc>Ellen's bedroom</loc>
-                <cam>Close-up:</cam>
-                <dir type="stg">Book-cover Inscription (Vampire) See Chapter 1 of book. </dir>
-                <cam>Dissolve to: </cam>
+                <annot><cam>Close-up:</cam>
+                    <dir type="stg">Book-cover Inscription (Vampire) See Chapter 1 of book. </dir></annot>
+                <annot><cam>Dissolve to: </cam>
                 <dir type="char">Ellen by the window, the book on her knees continues reading,
                     overcoming her aversion. </dir>
-                <dir type="stg">Chapter II appears.</dir>
-                <cam>Medium close-up:</cam>
+                <dir type="stg">Chapter II appears.</dir></annot>
+                <annot><cam>Medium close-up:</cam>
                 <dir type="char">Ellen is pondering on what she has read. </dir>
                 <dir type="char">Hutter comes into the picture, with agitation almost hostility he
                     grabs the book.</dir>
                 <dir type="char">Ellen, standing now, looks straight into his eyes, turns and points
                     over to the deserted house.</dir>
-                <!-- need to verify what this is supposed to be  -->
                 <annot>Compare the following black dress and shawl</annot>
-                <cost>Hutter, black waist-coat and jacket.</cost>
+                <cost>Hutter, black waist-coat and jacket.</cost></annot>
                 <loc>Ellen's room.</loc>
                 <cam>Long shot: </cam>
                 <dir type="char">Ellen by the window. Hutter approaches from the door</dir>
                 <cam>Medium close</cam>
                 <dir type="char">Suddenly, she grabs his arm, stares out of the window pointing out,
                     she shouts: There!!!</dir>
-                <dir type="char">Her body is tensed up like a bow trembling with excitement.</dir>
+                <annot><dir type="char">Her body is tensed up like a bow trembling with excitement.</dir></annot>
             </scene>
             <scene num="133">
                 <cam dis="3">3 meters</cam>
@@ -335,11 +340,11 @@
                     the body, grinning lasciviously, the waxen face with ratlike teeth. </dir>
             </scene>
             <scene num="134">
-                <cam dis="8" sync="2">8 meters 2x</cam>
+                <annot><cam dis="8" sync="2">8 meters 2x</cam></annot>
                 <loc>Ellen's bedroom.</loc>
                 <dir type="char">Ellen holds frantically on to Hutter's hand [shaken] breathing
                     heavily She bends her head back. towards him saying. </dir>
-                <title> This is how I see it- every evening. . .!!! </title>
+                <annot><title> This is how I see it- every evening. . .!!! </title></annot>
                 <dir type="char">She bends her head back. She knows all she has to know. And there
                     is peace in the knowledge.</dir>
                 <dir type="char">Hutter has not come to that yet. He finds her calm- ness
@@ -356,12 +361,11 @@
                 <time>It is now evening.</time>
                 <dir type="char">The lamp-lighter comes down the darkening street and lights up the
                     street-lamps. The he walks on.</dir>
-                <!-- need to verify if this is actually annotation -->
                 <annot>! remains!</annot>
             </scene>
 
             <scene num="136">
-                <cam dis="10">10 meters</cam>
+                <annot><cam dis="10">10 meters</cam></annot>
                 <cam>Fade-in:</cam>
                 <loc>Anny's bedroom</loc>
                 <cam>Long shot:</cam>
@@ -370,7 +374,7 @@
                     down the struggling woman who is shaking fitfully.</dir>
                 <dir type="char"> She collapses with exhaustion. Then pulls himself together and
                     decides: </dir>
-                <title> I will run over quickly . . . I shall get Sievers. And he is gone.</title>
+                <annot><title> I will run over quickly . . . I shall get Sievers. And he is gone.</title></annot>
                 <cam>Medium close-up: </cam>
                 <dir type="char">Anny, having almost fainted with fear, comes to again. She opens
                     her eyes. She lifts her head. No- body around?? Is she all alone?? Isn't there
@@ -395,7 +399,7 @@
 
 
 
-
+<!-- 137a and 137b are both annotations. Schema wont let me make them annotations -->
             <scene num="137" sub="a">
                 <dir type="stg">The bell is ringing.</dir>
             </scene>
@@ -407,8 +411,9 @@
 
 
             <scene num="138">
-                <cam dis="3">3 meters</cam>
-                <loc>Anny's Bedroom</loc>
+                
+                <annot><loc>Anny's Bedroom</loc></annot>
+                <annot><cam dis="3">3 meters</cam></annot>
                 <dir type="char">Anny pressed close to the wall.</dir>
                 <dir type="char">Servants are rushing in.</dir>
                 <dir type="char">There! She shouts pointing to the window.</dir>
@@ -422,7 +427,7 @@
                 <cam>Fade-out.</cam>
             </scene>
             <scene num="139">
-                <cam dis="3">3 meters</cam>
+                <annot><cam dis="3">3 meters</cam></annot>
                 <cam>Fade-in. </cam>
                 <loc>Ellen's bedroom</loc>
                 <time>Daytime.</time>
@@ -430,7 +435,7 @@
                     Paralysed by misery she witnesses the daily scene of wretchedness.</dir>
             </scene>
             <scene num="140">
-                <cam dis="8">8 meters</cam>
+                <annot><cam dis="8">8 meters</cam></annot>
                 <loc>Street in front of Hutter's's house</loc>
                 <dir type="char">Ascending. In the distance, a strange procession is wandering
                     across the street. One coffin after another carried by survivors. Past Hutter's
@@ -439,9 +444,8 @@
                     lifts up his hands to heaven in misery. </dir>
             </scene>
             <scene num="141">
-                <dir type="char">with window -frame Ellen</dir>
-                <!-- need to fix this. Something is missing -->
                 <loc>Ellen's room.</loc>
+                <annot><dir type="char">with window -frame Ellen</dir></annot>
                 <dir type="char">Ellen, on the point of fainting, turns away from the window She
                     cannot bear the sight of this wretchedness any longer. She sinks into a chair,
                     resting her head in her hands. </dir>
@@ -456,7 +460,7 @@
                 <cam>Fade out.</cam>
             </scene>
             <scene num="142">
-                <cam>3 meters</cam>
+                <annot><cam>3 meters</cam></annot>
                 <cam>Fade-in.</cam>
                 <loc>In front of Harding's mansion..</loc>
                 <cam>Medium close-up:</cam>
@@ -467,20 +471,20 @@
                     his work . . . again . . . they cannot bear to see the symbol. He moves forward
                     with a glazed look in his eyes. </dir>
                 <cam>Fade-out. </cam>
-                <cost>Harding: black cape, dark trousers</cost>
+                <annot><cost>Harding: black cape, dark trousers</cost></annot>
             </scene>
             <scene num="143">
-                <cam dis="7">7 meters</cam>
+                <annot><cam dis="7">7 meters</cam></annot>
                 <cam>Fade-in.</cam>
                 <loc>In front of deserted house Street</loc>
                 <dir type="char"> A group of emaciated men with a fanatical look about them are
                     standing around. An unkept-looking woman is haranguing them. They are raising
                     their fists.</dir>
-                <title> He has been seen! He ran out of the house! He strangled the
-                    attendant!</title>
+                <annot><title> He has been seen! He ran out of the house! He strangled the
+                    attendant!</title></annot>
             </scene>
             <scene num="144">
-                <cam dis="8">8 meters</cam>
+                <annot><cam dis="8">8 meters</cam></annot>
                 <loc>Well in the market-place</loc>
                 <dir type="char">Two ancient women are sitting by the well. Death has no terrors for
                     them. Since every new day is a present to them. </dir>
