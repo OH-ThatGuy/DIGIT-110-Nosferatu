@@ -257,7 +257,7 @@
                 <!-- Not ure what the prior text phrase should be. Its really just general text -->
                 <cam>Fade-out.</cam>
                 <annot>(Perhaps end of act)</annot>
-       
+
             </scene>
 
             <scene num="130">
@@ -304,29 +304,31 @@
 
             <scene num="132">
                 <annot><cam dis="15" sync="2">15 meters 2x</cam>
-                <loc>shaded candle on table near armchair .</loc></annot>
+                    <loc>shaded candle on table near armchair .</loc></annot>
                 <loc>Ellen's bedroom</loc>
                 <annot><cam>Close-up:</cam>
-                    <dir type="stg">Book-cover Inscription (Vampire) See Chapter 1 of book. </dir></annot>
+                    <dir type="stg">Book-cover Inscription (Vampire) See Chapter 1 of book.
+                    </dir></annot>
                 <annot><cam>Dissolve to: </cam>
-                <dir type="char">Ellen by the window, the book on her knees continues reading,
-                    overcoming her aversion. </dir>
-                <dir type="stg">Chapter II appears.</dir></annot>
+                    <dir type="char">Ellen by the window, the book on her knees continues reading,
+                        overcoming her aversion. </dir>
+                    <dir type="stg">Chapter II appears.</dir></annot>
                 <annot><cam>Medium close-up:</cam>
-                <dir type="char">Ellen is pondering on what she has read. </dir>
-                <dir type="char">Hutter comes into the picture, with agitation almost hostility he
-                    grabs the book.</dir>
-                <dir type="char">Ellen, standing now, looks straight into his eyes, turns and points
-                    over to the deserted house.</dir>
-                <annot>Compare the following black dress and shawl</annot>
-                <cost>Hutter, black waist-coat and jacket.</cost></annot>
+                    <dir type="char">Ellen is pondering on what she has read. </dir>
+                    <dir type="char">Hutter comes into the picture, with agitation almost hostility
+                        he grabs the book.</dir>
+                    <dir type="char">Ellen, standing now, looks straight into his eyes, turns and
+                        points over to the deserted house.</dir>
+                    <annot>Compare the following black dress and shawl</annot>
+                    <cost>Hutter, black waist-coat and jacket.</cost></annot>
                 <loc>Ellen's room.</loc>
                 <cam>Long shot: </cam>
                 <dir type="char">Ellen by the window. Hutter approaches from the door</dir>
                 <cam>Medium close</cam>
                 <dir type="char">Suddenly, she grabs his arm, stares out of the window pointing out,
                     she shouts: There!!!</dir>
-                <annot><dir type="char">Her body is tensed up like a bow trembling with excitement.</dir></annot>
+                <annot><dir type="char">Her body is tensed up like a bow trembling with
+                        excitement.</dir></annot>
             </scene>
             <scene num="133">
                 <cam dis="3">3 meters</cam>
@@ -374,7 +376,8 @@
                     down the struggling woman who is shaking fitfully.</dir>
                 <dir type="char"> She collapses with exhaustion. Then pulls himself together and
                     decides: </dir>
-                <annot><title> I will run over quickly . . . I shall get Sievers. And he is gone.</title></annot>
+                <annot><title> I will run over quickly . . . I shall get Sievers. And he is
+                        gone.</title></annot>
                 <cam>Medium close-up: </cam>
                 <dir type="char">Anny, having almost fainted with fear, comes to again. She opens
                     her eyes. She lifts her head. No- body around?? Is she all alone?? Isn't there
@@ -399,7 +402,7 @@
 
 
 
-<!-- 137a and 137b are both annotations. Schema wont let me make them annotations -->
+            <!-- 137a and 137b are both annotations. Schema wont let me make them annotations -->
             <scene num="137" sub="a">
                 <dir type="stg">The bell is ringing.</dir>
             </scene>
@@ -411,7 +414,7 @@
 
 
             <scene num="138">
-                
+
                 <annot><loc>Anny's Bedroom</loc></annot>
                 <annot><cam dis="3">3 meters</cam></annot>
                 <dir type="char">Anny pressed close to the wall.</dir>
@@ -481,7 +484,7 @@
                     standing around. An unkept-looking woman is haranguing them. They are raising
                     their fists.</dir>
                 <annot><title> He has been seen! He ran out of the house! He strangled the
-                    attendant!</title></annot>
+                        attendant!</title></annot>
             </scene>
             <scene num="144">
                 <annot><cam dis="8">8 meters</cam></annot>
@@ -502,62 +505,64 @@
                 <cam>Long shot:</cam>
                 <dir type="char">Harding walks on.</dir>
             </scene>
-
+            <!-- 144a through end of 146 are all annot. Need to fix schema to add this in -->
             <scene num="144" sub="a">
-                <cam dis="10">10 meters</cam>
-                <cam>Street shot from above: </cam>
-                <dir type="char">Crossing. Crowd gathering from all sides, then moving in one
-                    direction.</dir>
-                <cam>Close-up:</cam>
-                <dir type="char">A street-corner with a man who points at something above. People
-                    rush up to him; they all turn to face the same way, look up, make threatening
-                    gestures Somebody throws stones. </dir>
+                <annot><cam dis="10">10 meters</cam>
+                    <cam>Street shot from above: </cam>
+                    <dir type="char">Crossing. Crowd gathering from all sides, then moving in one
+                        direction.</dir>
+                    <cam>Close-up:</cam>
+                    <dir type="char">A street-corner with a man who points at something above.
+                        People rush up to him; they all turn to face the same way, look up, make
+                        threatening gestures Somebody throws stones. </dir></annot>
             </scene>
             <scene num="145">
-                <loc>Gable of a house</loc>
-                <dir type="char">A figure is crouching on a roof-top</dir>
+                <annot>
+                    <loc>Gable of a house</loc>
+                    <dir type="char">A figure is crouching on a roof-top</dir></annot>
             </scene>
 
             <scene num="146">
                 <!-- (?)  what does this mean      -->
-                <cam>Medium close-up:</cam>
-                <dir type="char">It is Knock. He is looking down with a sneer on his face and pokes
-                    out his tongue A stone whizzes part him. He suddenly gets up and clambers
-                    off.</dir>
+                <annot><cam>Medium close-up:</cam>
+                    <dir type="char">It is Knock. He is looking down with a sneer on his face and
+                        pokes out his tongue A stone whizzes part him. He suddenly gets up and
+                        clambers off.</dir></annot>
             </scene>
             <scene num="147">
-                <cam dis="8">8 meters</cam>
+                <annot><cam dis="8">8 meters</cam></annot>
                 <loc>Ellen's bedroom</loc>
                 <dir type="char">Ellen in an old armchair, busy embroidering a cushion in the
                     cross-stitch manner of the 1840s An inscription reading: I LOVE YOU She puts
-                    down her work, resting her head. Tired, she falls to day-dreaming. Then she
-                    lights a lamp. </dir>
+                    down her work, resting her head. Tired, she falls to day-dreaming. <annot>Then
+                        she lights a lamp.</annot>
+                </dir>
                 <cam>Medium close-up:</cam>
                 <dir type="char">Ellen takes up her work again, determined to finish it.</dir>
             </scene>
             <scene num="148">
-                <time>Evening</time>
-                <cam dis="4">4 meters</cam>
+                <annot><time>Evening</time>
+                    <cam dis="4">4 meters</cam></annot>
                 <loc>Back of deserted house.</loc>
                 <dir type="stg">The street is empty.</dir>
                 <dir type="char">Knock jumps down a wall and runs off. In the distance some men
                     appear, chasing him. They catch sight of him and rush af ter him.</dir>
             </scene>
             <scene num="149">
-                <cam dis="8">8 meters</cam>
+                <annot><cam dis="8">8 meters</cam></annot>
                 <loc>Meadows outside the town</loc>
                 <cam>Shot against a wide expanse of sky.</cam>
                 <dir type="char">In the distance running figures, no more then silhouettes (Turn
                     slowly) Knock in front. His pursuers following a long way behind.</dir>
             </scene>
             <scene num="150">
-                <cam dis="3">3 meters</cam>
+                <annot><cam dis="3">3 meters</cam></annot>
                 <loc>Fields. Evening mists. Cornfields waving in the wind.</loc>
                 <dir type="char">Suddenly, right in front between the ears of corn head. Dishevelled
                     hair. Then a bony back The heads turn around slowly. It is Knock.</dir>
             </scene>
             <scene num="151">
-                <cam dis="3">3 meters</cam>
+                <annot><cam dis="3">3 meters</cam></annot>
                 <loc>A lane between fields.</loc>
                 <time>The landscape has grown dim in the evening light. </time>
                 <!-- not sure how to split the time line up-->
@@ -566,7 +571,7 @@
                     shouting: there!!! They all look one way. They dash off in that direction.</dir>
             </scene>
             <scene num="152">
-                <cam dis="10">10 meters</cam>
+                <annot><cam dis="10">10 meters</cam></annot>
                 <loc>Cornfield,</loc>
                 <cam>Long-shot:</cam>
                 <dir type="char">In the distance one can still the back and dis- hevelled head. Is
@@ -583,7 +588,7 @@
                 <cam>Fade-out.</cam>
             </scene>
             <scene num="153">
-                <cam dis="3">3 meters</cam>
+                <annot><cam dis="3">3 meters</cam></annot>
                 <title> Night</title>
                 <loc>Deserted house.</loc>
                 <dir type="char">Medium Nosferatu at the window.</dir>
@@ -591,99 +596,110 @@
                 <cam>Dissolve</cam>
             </scene>
             <scene num="154">
-                <cam dis="8" sync="2">8 meters 2x</cam>
+                <annot><cam dis="8" sync="2">8 meters 2x</cam></annot>
                 <loc>Ellen's bedroom</loc>
-                <cam>Medium close-up:</cam>
-                <dir type="char">Ellen wakes up. She sits up in bed, listening as if she had heard
-                    somebody calling her. She gets up, walking as if pulled by invisible
-                    threads.</dir>
-                <cam>Long shot:</cam>
-                <dir type="char">She goes over to the window. In the fore- ground Hutter asleep in
-                    an armchair, look- ing worn out.</dir>
-                <cam>Medium close-up:</cam>
-                <dir type="char">Ellen is clinging to the window. She sees. </dir>
+                <annot><cam>Medium close-up:</cam>
+                    <dir type="char">Ellen wakes up. She sits up in bed, listening as if she had
+                        heard somebody calling her. She gets up, walking as if pulled by invisible
+                        threads.</dir>
+                    <cam>Long shot:</cam>
+                    <dir type="char">She goes over to the window. In the fore- ground Hutter asleep
+                        in an armchair, look- ing worn out.</dir>
+                    <cam>Medium close-up:</cam>
+                    <dir type="char">Ellen is clinging to the window. She sees. </dir></annot>
             </scene>
             <scene num="155">
-                <cam dis="3"> 3 meters</cam>
-                <loc>Deserted house.</loc>
-                <dir type="char">Nosferatu at the window. He raises his arms slowly.</dir>
+                <annot><cam dis="3"> 3 meters</cam>
+                    <loc>Deserted house.</loc>
+                    <dir type="char">Nosferatu at the window. He raises his arms
+                    slowly.</dir></annot>
             </scene>
             <scene num="156">
-                <loc>Ellen's room</loc>
-                <cam>Medium close-up:</cam>
-                <dir type="char">Ellen is about to collapse by the window. Shaking with fear she
-                    struggles violently with herself. The last battle. Twice her hands comes up to
-                    open the window and drops down again weakly; then, with sudden determination,
-                    she pulls herself up dead straight and deliberately throws the window wide open.
-                </dir>
+                <annot><loc>Ellen's room</loc>
+                    <cam>Medium close-up:</cam>
+                    <dir type="char">Ellen is about to collapse by the window. Shaking with fear she
+                        struggles violently with herself. The last battle. Twice her hands comes up
+                        to open the window and drops down again weakly; then, with sudden
+                        determination, she pulls herself up dead straight and deliberately throws
+                        the window wide open. </dir></annot>
             </scene>
 
             <scene num="157">
-                <cam dis="4">4 meters</cam>
-                <loc>Deserted house.</loc>
-                <cam>Medium close-up: Window</cam>
-                <!-- kind of jumped between including the details of the shot in the cam element or loc element -->
-                <dir type="char">Nosferatu moves away from the window, turns around and
-                    disappears.</dir>
+                <annot><cam dis="4">4 meters</cam>
+                    <loc>Deserted house.</loc>
+                    <cam>Medium close-up: Window</cam>
+                    <!-- kind of jumped between including the details of the shot in the cam element or loc element -->
+                    <dir type="char">Nosferatu moves away from the window, turns around and
+                        disappears.</dir></annot>
             </scene>
 
             <scene num="158">
-                <cam dis="4">4 meters</cam>
-                <loc>Ellen's room.</loc>
-                <cam>Close-up: </cam>
-                <dir type="char">Ellen trembling with fear and apprehension</dir>
+                <annot><cam dis="4">4 meters</cam>
+                    <loc>Ellen's room.</loc>
+                    <cam>Close-up: </cam>
+                    <dir type="char">Ellen trembling with fear and apprehension</dir></annot>
             </scene>
             <scene num="159">
-                <loc>Deserted house</loc>
-                <cam>Medium close-up</cam>
-                <loc>Locked-up gates</loc>
-                <dir type="stg">Suddenly the gates swing open:</dir>
-                <dir type="char">Nosferatu appears </dir>
+                <annot><loc>Deserted house</loc>
+                    <cam>Medium close-up</cam>
+                    <loc>Locked-up gates</loc>
+                    <dir type="stg">Suddenly the gates swing open:</dir>
+                    <dir type="char">Nosferatu appears </dir></annot>
             </scene>
             <scene num="160">
-                <cam dis="12" sync="2">12 meters 2x</cam>
-                <loc>Ellen's room.</loc>
-                <cam>Medium close-up: </cam>
-                <dir type="char">Ellen is covering her face with her hands, seized with mortal fear. </dir>
-                <cam>Long shot; window moves out of picture</cam>
-                <dir type="char">Ellen at window. She wants to call for help. She staggers forward.
-                    She stops in front of Hutter. One last moment of indecision. Then she wakes him
-                    up. Hutter jumps to his feet. He catches the trembling figure in his arms. and
-                    carries her over to the sofa. She begs him, hands raised as if in prayer:</dir>
-                <time> Bulwer . . . Fetch Bulwer!</time>
-                <dir type="char">She entreats him to go. Hutter takes her hands, she quickly kisses
-                    his head, Then he rushes out.</dir>
+                <annot><cam dis="12" sync="2">12 meters 2x</cam>
+                    <loc>Ellen's room.</loc>
+                    <cam>Medium close-up: </cam>
+                    <dir type="char">Ellen is covering her face with her hands, seized with mortal
+                        fear. </dir>
+                    <cam>Long shot; window moves out of picture</cam>
+                    <dir type="char">Ellen at window. She wants to call for help. She staggers
+                        forward. She stops in front of Hutter. One last moment of indecision. Then
+                        she wakes him up. Hutter jumps to his feet. He catches the trembling figure
+                        in his arms. and carries her over to the sofa. She begs him, hands raised as
+                        if in prayer:</dir>
+                    <time> Bulwer . . . Fetch Bulwer!</time>
+                    <dir type="char">She entreats him to go. Hutter takes her hands, she quickly
+                        kisses his head, Then he rushes out.</dir></annot>
             </scene>
             <scene num="161">
-                <cam dis="3">3 meters</cam>
-                <loc>In front of Hutter's House. A path bordered by flowers. </loc>
-                <dir type="char">Hutter rushes out.</dir>
-                <cost>Trousers, pleated shirt, collar without tie. No hat no waist coat.</cost>
+                <annot><cam dis="3">3 meters</cam>
+                    <loc>In front of Hutter's House. A path bordered by flowers. </loc>
+                    <dir type="char">Hutter rushes out.</dir>
+                    <cost>Trousers, pleated shirt, collar without tie. No hat no waist coat.</cost>
+                </annot>
             </scene>
             <scene num="162">
-                <cam dis="5">5 meters</cam>
-                <loc>Ellen's room</loc>
-                <cam>Long shot.</cam>
-                <dir type="char">Ellen is still looking in the direction she saw Hutter leave, then
-                    she gets up and walks toward the window.</dir>
+                <annot><cam dis="5">5 meters</cam>
+                    <loc>Ellen's room</loc>
+                    <cam>Long shot.</cam>
+                    <dir type="char">Ellen is still looking in the direction she saw Hutter leave,
+                        then she gets up and walks toward the window.</dir></annot>
             </scene>
             <scene num="163">
-                <loc>Deserted house.</loc>
-                <cam>Long Shot:</cam>
-                <dir type="char">Nosferatu is walking forward and moves out of the picture.</dir>
-                <dir type="stg">The house looks more deserted than ever!</dir>
+                <annot><loc>Deserted house.</loc>
+                    <cam>Long Shot:</cam>
+                    <dir type="char">Nosferatu is walking forward and moves out of the
+                        picture.</dir>
+                    <dir type="stg">The house looks more deserted than ever!</dir></annot>
+            </scene>
+
+            <scene num="164">
                 <loc>In front of Hutter's house</loc>
-                <dir type="stg">Nobody is about.</dir>
-                <dir type="char">Nosferatu is approaching. He comes to a halt. (He is preparing to
-                    jump, looks up) He enters the house.</dir>
-                <loc>Ellen's room</loc>
-                <dir type="char">Ellen turns around suddenly. She is shaking with fear, anticipating
-                    the horror about to happen. And it is coming - - slowly, tensed like a predatory
-                    animal. She recoils, moves backwards step by step, and step by step it follows
-                    her Heart! - Hand</dir>
+                <annot><dir type="stg">Nobody is about.</dir>
+                    <dir type="char">Nosferatu is approaching. He comes to a halt. (He is preparing
+                        to jump, looks up) He enters the house.</dir></annot>
+            </scene>
+
+            <scene num="165">
+                <annot><loc>Ellen's room</loc>
+                    <dir type="char">Ellen turns around suddenly. She is shaking with fear,
+                        anticipating the horror about to happen. And it is coming - - slowly, tensed
+                        like a predatory animal. She recoils, moves backwards step by step, and step
+                        by step it follows her Heart! - Hand</dir></annot>
             </scene>
             <scene num="166">
-                <cam dis="6">6 meters</cam>
+                <annot><cam dis="6">6 meters</cam></annot>
                 <loc>Bulwer's laboratory</loc>
                 <loc>(Living room)</loc>
                 <loc>In addition to the already familiar fish tanks there is a large telescope by a
@@ -699,7 +715,6 @@
                 <dir type="char">A large crowd is gathering in front of the town hall. Knock has
                     been captured. More people keep pouring in from all sides.</dir>
                 <annot>Omitted</annot>
-                <!-- verify if this is actually an annotation -->
             </scene>
             <scene num="168">
                 <cam dis="5">5 meters</cam>
@@ -709,7 +724,7 @@
                     in. The lunatic is trembling with fear. exit</dir>
             </scene>
             <scene num="169">
-                <cam dis="4">4 meters</cam>
+                <annot><cam dis="4">4 meters</cam></annot>
                 <loc>Ellen's room</loc>
                 <time>Night.</time>
                 <dir type="char">Ellen in bed, the strangler is at her throat, his fingers clawing
@@ -721,11 +736,11 @@
                     puffs up his throat and her- alds the morning.</dir>
             </scene>
             <scene num="171">
-                <cam dis="6">6 meters</cam>
-                <loc>Siever's lunatic's cell</loc>
+                <annot><cam dis="6">6 meters</cam>
+                    <loc>Siever's lunatic's cell</loc> Knock</annot>
                 <dir type="char">Knock Inside the town hall Knock at the window, held by two men.
                     Trying to ward them off, he shouts anxiously:</dir>
-                <title> The master . . . the master . . .!</title>
+                <annot><title> The master . . . the master . . .!</title></annot>
             </scene>
             <scene num="172">
                 <loc>Ellen's room.</loc>
@@ -735,7 +750,7 @@
                 <annot>Omitted</annot>
             </scene>
             <scene num="173">
-                <cam>3 meters</cam>
+                <annot><cam>3 meters</cam></annot>
                 <loc>The sun is rising over the small town.</loc>
             </scene>
             <scene num="174">
@@ -748,7 +763,7 @@
                     downwards.</dir>
             </scene>
             <scene num="175">
-                <cam dis="5">5 meters</cam>
+                <annot><cam dis="5">5 meters</cam></annot>
                 <loc>Street with front gardens</loc>
                 <loc>The long shadows of sunrise.</loc>
                 <loc>Nobody is about</loc>
@@ -756,7 +771,7 @@
                     and turning into a side street.</dir>
             </scene>
             <scene num="176">
-                <cam dis="8">8 meters</cam>
+                <annot><cam dis="8">8 meters</cam></annot>
                 <loc>Ellen's room</loc>
                 <loc>The bed is bathed in sunlight.</loc>
                 <dir type="char">Ellen's eyes are full of anticipation</dir>
@@ -776,7 +791,7 @@
                 <dir type="char">His head sinks on to his chest.</dir>
             </scene>
             <scene num="178">
-                <cam dis="8">8 meters</cam>
+                <annot><cam dis="8">8 meters</cam></annot>
                 <loc>Ellen's room</loc>
                 <dir type="char">Nosferatu on his knees, supporting himself with one hand on the
                     ground. He raises the other in the direction of the sun to shield himself from
