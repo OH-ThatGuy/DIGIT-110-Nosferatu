@@ -61,7 +61,6 @@
                 <cam>Medium close-up:</cam>
                 <dir type="char">Hutter jumps from the carriage. </dir>
                 <dir type="stg">An axle is broken.</dir>
-                <!-- not sure what this falls under -->
                 <dir type="char"> The coachman seems at a loss.</dir>
                 <dir type="char">Hutter cannot wait. He leaves the carriage and runs of f.</dir>
             </scene>
@@ -201,8 +200,7 @@
             </scene>
 
             <scene num="128">
-                <annot><cam dis="10">10 meters [Is inserted below]</cam></annot>
-                <!-- not sure whether the [is inserted below] is an author thing or a translator thing -->
+                <annot><cam dis="10">10 meters</cam></annot>
                 <loc>On board ship.</loc>
                 <time>Night</time>
                 <cam>Long shot:</cam>
@@ -237,7 +235,6 @@
                     incessantly. Harding comes closer shows him the log-book. Both of them are
                     reading: </dir>
                 <cam>Close-up: The log-book.</cam>
-                <!-- not sure what this would me notated as. Kind of a stage direction but also a camera direction -->
                 <dir type="stg"> A page: Second day: July 13 A sailor has fallen ill with a fever.
                     Course: SSW. Direction of wind: Third day: July 14 Mate is talking strangely. He
                     says there is an unknown passenger below deck. Course SE. Direction of wind NE.
@@ -254,7 +251,6 @@
                 <dir type="stg">Deeply frightened, the bystanders move away. The women put the ends
                     of their head-scarves into their mouths. Panic- stricken .the crowd leaves the
                     room.</dir>
-                <!-- Not ure what the prior text phrase should be. Its really just general text -->
                 <cam>Fade-out.</cam>
                 <annot>(Perhaps end of act)</annot>
 
@@ -402,14 +398,13 @@
 
 
 
-            <!-- 137a and 137b are both annotations. Schema wont let me make them annotations -->
             <scene num="137" sub="a">
-                <dir type="stg">The bell is ringing.</dir>
+                <annot><dir type="stg">The bell is ringing.</dir></annot>
             </scene>
 
             <scene num="137" sub="b">
-                <loc>Servant's room. </loc>
-                <dir type="char">A servant asleep doesn't hear, turns over in his sleep</dir>
+               <annot> <loc>Servant's room. </loc>
+                <dir type="char">A servant asleep doesn't hear, turns over in his sleep</dir></annot>
             </scene>
 
 
@@ -505,7 +500,6 @@
                 <cam>Long shot:</cam>
                 <dir type="char">Harding walks on.</dir>
             </scene>
-            <!-- 144a through end of 146 are all annot. Need to fix schema to add this in -->
             <scene num="144" sub="a">
                 <annot><cam dis="10">10 meters</cam>
                     <cam>Street shot from above: </cam>
@@ -523,7 +517,6 @@
             </scene>
 
             <scene num="146">
-                <!-- (?)  what does this mean      -->
                 <annot><cam>Medium close-up:</cam>
                     <dir type="char">It is Knock. He is looking down with a sneer on his face and
                         pokes out his tongue A stone whizzes part him. He suddenly gets up and
@@ -565,7 +558,6 @@
                 <annot><cam dis="3">3 meters</cam></annot>
                 <loc>A lane between fields.</loc>
                 <time>The landscape has grown dim in the evening light. </time>
-                <!-- not sure how to split the time line up-->
                 <dir type="char">The men chasing Knock are approaching. They stop. They seem to have
                     lost the tr ail. Suddenly, one of them sees something. He opens his eyes wide,
                     shouting: there!!! They all look one way. They dash off in that direction.</dir>
@@ -628,7 +620,6 @@
                 <annot><cam dis="4">4 meters</cam>
                     <loc>Deserted house.</loc>
                     <cam>Medium close-up: Window</cam>
-                    <!-- kind of jumped between including the details of the shot in the cam element or loc element -->
                     <dir type="char">Nosferatu moves away from the window, turns around and
                         disappears.</dir></annot>
             </scene>
@@ -705,8 +696,7 @@
                 <loc>In addition to the already familiar fish tanks there is a large telescope by a
                     window. A profusion of antiquated scientific gadgets, globes etc. A lamp is
                     burning.</loc>
-                <!-- need to figure out how to break this up -->
-                <dir type="char">Bulwer asleep in dressing-gown and night-cap in the armchair. Cages
+                <dir type="char">Bulwer asleep in <cost>dressing-gown and night-cap</cost> in the armchair. Cages
                     with birds and all kinds of animals. Hutter rushes in. He wakes Bulwer, begs him
                     to come with him. Bulwer starts to get dressed.</dir>
             </scene>
@@ -755,8 +745,7 @@
             </scene>
             <scene num="174">
                 <loc>Ellen's room</loc>
-                <dir type="char">Ellen's last moment of apprehension.
-                    <!-- Not sure if this is a title or dir. Need to check video --></dir>
+                <dir type="char">Ellen's last moment of apprehension.</dir>
                 <loc>There, isn't that a flicker of sunlight on the wall over her bed?</loc>
                 <dir type="char">Here eyes light up hopefully and remain fixed on this first sign of
                     the new day. She stretches out her hand for it. And look: it is moving

@@ -104,7 +104,7 @@
                rhythm of his walk.</dir>
          </scene>
          <scene num="6">
-            <cam dis="6">6 meters</cam> Caption: Knock - a house agent <cam>Fade-in</cam>
+            <cam dis="6">6 meters</cam> <title>Caption: Knock - a house agent</title> <cam>Fade-in</cam>
             <loc>Dusty cramped office</loc>
             <dir type="stg">Pale light is falling through tiny blind window-panes into the strange
                room which is eccentrically decorated with bits of old-fashioned furniture. KNOCK is
@@ -185,7 +185,7 @@
             <cam>Fade-out</cam>
          </scene>
          <scene num="12">
-            <cam dis="15">15 meters</cam> Frau Schroeder without shawl saddlebags <loc>The attic
+            <cam dis="15">15 meters</cam><cost>Frau Schroeder without shawl saddlebags</cost><loc>The attic
                room</loc>
             <cam>Fade-in</cam>
             <dir type="char">Hutter is packing his little travelling bag. Ellen appears in the door
@@ -204,8 +204,8 @@
                sister Anny. Ellen, weeping is supported by Anny.</dir>
             <cam>Close-up</cam>
             <dir type="char">The two men. Hutter, taking both of Harding's hands and looking deep
-               into his eyes:</dir>  <title>I entrust Ellen to your care.</title> Harding
-            promises his friend to look after Ellen, she can live here, she will never be alone.
+               into his eyes:</dir>  <title>I entrust Ellen to your care.</title> <dir type="char">Harding
+            promises his friend to look after Ellen, she can live here, she will never be alone.</dir>
                <cam>Long shot of all characters</cam>
             <dir type="char">Hutter gives his hand to Anny and then to Ellen One last farewell kiss.
                At this moment her grief is over. As if she had a premonition she says:</dir> 
@@ -248,7 +248,7 @@
                house. Night is falling.</dir>
          </scene>
          <scene num="17">
-            <cam dis="8">8 meters</cam> servant: Frau Kurz <loc>Inside the Inn.</loc>
+            <cam dis="8">8 meters</cam> <dir type="char">servant: Frau Kurz</dir> <loc>Inside the Inn.</loc>
             <dir type="char">A large smoky room with an enormous tiled stove. A central hanging lamp
                throws out dazzling light At tables in the background the passengers. Hutter who came
                in last, is standing in the foreground, he looks around and sits down right in front.
@@ -266,7 +266,7 @@
                resolutely and downs it in one gulp.</dir>
          </scene>
          <scene num="18">
-            <cam dis="4">4 meters</cam> Walddorfsenke <loc>A grassy slope behind the inn</loc>
+            <cam dis="4">4 meters</cam> <loc>Walddorfsenke</loc> <loc>A grassy slope behind the inn</loc>
             <dir type="stg">The ground falls away towards the back. Night mists are creeping up from
                the valley. The horses are put out here to graze. Suddenly, they raise their heads,
                as if frightened and, scattering, gallop away.</dir>
@@ -315,10 +315,10 @@
             <dir type="char">He moves back to the candle, sits down on his bed and opens the book.
                He gets interested in it.</dir>
             <cam>Close up The book's title page: VAMPIRE</cam>
-            <dir type="stg">The page os being turned over.</dir> THE NOSFERATU From the bloody sins
+            <dir type="stg">The page os being turned over.</dir> <title>THE NOSFERATU From the bloody sins
             of mankind a creature will be born which will seek revenge for the sin committed by the
             parents and visited on their children and children's children. Whosoever lusts after
-            blood without reason in under his spell, the spell of the vampire NOSFERATU. <cam>Shot
+            blood without reason in under his spell, the spell of the vampire NOSFERATU.</title> <cam>Shot
                of bed Close-up </cam>
             <dir type="char">Hutter, shaking his head, continues reading Book:...grown up on his
                native soil - from which alone he draws his power.</dir>
@@ -340,7 +340,7 @@
                open it. He takes a deep breath of the morning air.</dir>
          </scene>
          <scene num="25">
-            <cam dis="6">6 meters</cam> Walddorf <dir type="stg">The grassy slope in the morning
+            <cam dis="6">6 meters</cam> <loc>Walddorf</loc> <dir type="stg">The grassy slope in the morning
                light. Coachmen and grooms are rounding up the horses with long whips and lots of
                shout- ing.</dir>
          </scene>
@@ -351,7 +351,7 @@
                round. He stretches himself happily; then he takes off his shirt, goes over to the
                washstand, pours water over his body. He has a proper wash.</dir>
          </scene>
-         <scene num="27"> Dolny Kubin <loc>In the yard</loc>
+         <scene num="27"> <loc>Dolny Kubin</loc> <loc>In the yard</loc>
             <dir type="char">The old servant, mother to all animals, throws corn to her chickens.
                There are sparrows, too. Everything is bathed in sunlight.</dir>
          </scene>
@@ -385,13 +385,13 @@
             <cam>Fade-out</cam>
          </scene>
          <scene num="30">
-            <cam dis="12">12 meters</cam> Westerheim <loc>A Mountain range</loc>
+            <cam dis="12">12 meters</cam> <loc>Westerheim</loc> <loc>A Mountain range</loc>
             <cam>Long-range shot</cam>
             <dir type="stg">In the distance a steep path cutting through the wild scenery, on it the
                mail coach creeping slowly upwards.</dir>
          </scene>
          <scene num="31">
-            <cam dis="10">10 meters</cam> road to the Schlesische Hütte <loc>The mail coach</loc>
+            <cam dis="10">10 meters</cam> <loc>road to the Schlesische Hütte</loc> <loc>The mail coach</loc>
             <cam>Medium close-up</cam>
             <dir type="stg">The mail coach is moving into the setting sun</dir>
             <cam>Medium close-up</cam>
@@ -418,7 +418,7 @@
                middle of the road to warn them off. The mail coach stops. Hutter gets off the coach
                box. Now he stands at the crossroad. The passengers are anxious to move on gesturing
                violently to him not to take the left fork. But Hutter disregards their shouting He
-               waves farewell with his hat and walks briskly off.</dir> 33a <dir type="char">Hutter
+               waves farewell with his hat and walks briskly off.</dir><dir type="char">Hutter
                walking past the carved madonna</dir>
          </scene>
          <scene num="34">
@@ -429,7 +429,7 @@
                One can see a steep road leading straight up into the sky. Something comes racing
                down. A coach? A phantom? It moves with unearthly speed and disappears behind a
                ground swell.</dir>
-            <loc>1) Castle Orlok</loc>, <cam>dissolve</cam>
+            <loc>1) Castle Orlok</loc> <cam>dissolve</cam>
             <loc>2) Steep road between boulders</loc>
          </scene>
          <scene num="35">
@@ -486,7 +486,7 @@
             <dir type="char">The porch. The carriage stops in front of it. Al -most in a faint,
                Hutter slides down. As if in a whirlpool, the carriage circles round him and
                disappears. Hutter turns around and follows it with his eyes. He stands in front of
-               the closed gate, holding his bag.</dir> 39b <dir type="char">Then, very very slowly
+               the closed gate, holding his bag.</dir><dir type="char">Then, very very slowly
                the two wings of the gate open up. Somewhere far back in the dark corridor a man can
                be seen standing motionless. He is holding a candle which lights up his chalk-white
                face. He is waiting. Who is that? Hutter bounds up the two steps and stands in the
@@ -604,13 +604,13 @@
                seeming relaxed. He holds a sheet of paper and a pencil in his hands. Then he casts
                about for a suit- able place and, leaning against the stone wall He begins to write a
                letter.</dir>
-            <cam>Close-up:</cam> The beginning of the letter: My dearest, my only one. . .
+            <cam>Close-up:</cam> <title>The beginning of the letter: My dearest, my only one. . .</title>
                <cam>Normal:</cam>
             <dir type="char"> Hutter stands upright, looking at the clouds. Why does that stupid
                mosquito buzzing around his nose stop him from concentrating? He catches it quickly.
                And now he knows how to continue. He puts pencil to paper again.</dir>
-            <cam>Close-up:</cam> Part of the letter:...the mosquitoes are a real pest. I have been
-            stung at the next by two at once, very close to- gether, one on each side... <cam>Long
+            <cam>Close-up:</cam> <title>Part of the letter:...the mosquitoes are a real pest. I have been
+            stung at the next by two at once, very close to- gether, one on each side...</title> <cam>Long
                shot:</cam>
             <dir type="char">Hutter keeps writing</dir>
          </scene>
@@ -664,9 +664,9 @@
                off his misgivings. He decides to leave tomorrow. He kisses the picture and starts
                to undress, when to his amazement he discovers a book in his pocket. The old book
                from the inn. Did the inn-keepers wife put it there? Mechanically, he opens it.</dir>
-            <cam>Close-up: The book</cam> Chapter II Night is the vampire's element. He can see in
+            <cam>Close-up: The book</cam> <title>Chapter II Night is the vampire's element. He can see in
             the dark which is a wonderful ability to have in this world half of which is night. We
-            humans, however, are helpless and blind at night <cam>Normal</cam>
+            humans, however, are helpless and blind at night</title> <cam>Normal</cam>
             <dir type="char">Hutter shuts the book. A horrible thought has occurred to him. He is
                feverish. Is it this book, these ancient walls which make him believe in the
                existence of ghosts? Did not the count seem to have vampire-like claws and rat's
