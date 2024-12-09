@@ -854,7 +854,7 @@
                     half-faint -ing, half asleep. Suddenly he wakes up </dir>
             </scene>
             <scene num="60">
-                <dir type="stg">continued</dir>
+                <annot>continued</annot>
                 <dir type="char">He starts up and clutches his throat. He jumps out of bed,
                     clenching his fists, runs over. To the door. Carefully ...he looks out</dir>
             </scene>
@@ -1001,7 +1001,7 @@
                     are approaching the boxes. The man searches among the papers and hands over the
                     freight letters to his boss. </dir>
                 <cam>Close-up:</cam>
-                <dir type="stg">Freight letter</dir>
+                <loc>Freight letter</loc>
                 <dir type="stg">Mixed cargo, from Varna to Whitby Content: garden soil for
                     experimental pur poses. </dir>
                 <cam>Normal shot:</cam>
@@ -1372,6 +1372,7 @@
                     Confused, Terrified, she jumps up. She tries to shut the win- dow, yet cannot
                     bring herself to do it. The storm is pushing her back . . . she recoils. She
                     runs out of the room.</dir>
+
                 <dir type="char">Waves Ellen Anny wakes up Carriage Ellen walking forward Waves
                     Carriage Hutter Anny wakes up Waves Ellen Anny Boat</dir>
             </scene>
@@ -1390,6 +1391,8 @@
             </scene>
             <scene num="104">
                 <annot>XXXXXXXXXX</annot>
+                <dir type="char">(placement text) </dir>
+
             </scene>
             <scene num="105">
                 <cam dis="6">6 meters</cam>
@@ -1398,6 +1401,7 @@
                     distance a sailing ship, the 'Demeter' at full sail, racing to its perdition.
                     Trick</dir>
                 <gapMk>(Scenes 106 and 107 are missing)</gapMk>
+
             </scene>
             <scene num="108">
                 <cam dis="6">6 meters</cam>
@@ -1407,6 +1411,8 @@
             </scene>
             <scene num="109">
                 <annot>is missing</annot>
+                <dir type="stg">(placement text)</dir>
+
             </scene>
             <scene num="110">
                 <cam dis="12">12 meters</cam>
