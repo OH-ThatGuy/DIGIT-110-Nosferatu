@@ -1390,8 +1390,6 @@
             </scene>
             <scene num="104">
                 <annot>XXXXXXXXXX</annot>
-                <dir type="char">(placement text) </dir>
-
             </scene>
             <scene num="105">
                 <cam dis="6">6 meters</cam>
@@ -1409,8 +1407,6 @@
             </scene>
             <scene num="109">
                 <annot>is missing</annot>
-                <dir type="stg">(placement text)</dir>
-
             </scene>
             <scene num="110">
                 <cam dis="12">12 meters</cam>
