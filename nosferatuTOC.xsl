@@ -9,7 +9,7 @@
         <html>
             <head>
                 <title>Dracula</title>
-                <link rel="stylesheet" type="text/css" href="style.css"/>
+                <link rel="stylesheet" type="text/css" href="webstyle.css"/>
             </head>
             <body>
                 <h1 id="top"><xsl:apply-templates select="root/title"/></h1>
@@ -23,7 +23,7 @@
                             <th>Camera Notes</th>
                         </tr>
                         
-                        <xsl:apply-templates select=".//scene" mode="toc"/>
+                        <xsl:apply-templates select=".//act" mode="toc"/>
                         <!-- ebb: Prepare the table of contents representing each descendant chapter heading,
                    Hint: use <xsl:apply-templates with @mode here.  -->   
                         
@@ -38,13 +38,21 @@
         </html>
     </xsl:template>
     
+    
+    <!-- TOC TEMPLATES -->
+    
     <xsl:template match="act" mode="toc">
         <tr>
             <td>
-                <a href="#Sn{@num}">
+                <a href="#act{@num}">
                     
-                    <xsl:apply-templates select=".//scene" mode="toc"/>
+                    <xsl:apply-templates select="child::title[1]" mode="toc"/>
                 </a>
+                
+                
+                <p> <xsl:apply-templates select="scene" mode="toc"/></p>
+                
+                
             </td>
             <td>
                 <xsl:apply-templates select="string-join(distinct-values(.//loc), ', ')" mode="toc"/>
@@ -55,9 +63,16 @@
         </tr>
     </xsl:template>
     
+ <xsl:template match="scene" mode="toc"> 
+         <a href="#Sn{@num}">Scene <xsl:value-of select="@num"/></a>
+        <xsl:if test="position() != last()">, </xsl:if>
+    </xsl:template>    
+    
+    
+    <!-- READING VIEW TEMPLATES  -->
     <xsl:template match="act">
         <section>
-            <h1 id="a{@num}">
+            <h1 id="act{@num}">
                 <xsl:apply-templates select="title"/>
             </h1>
             
@@ -65,6 +80,8 @@
       
         </section>
     </xsl:template>
+    
+    
 
     <xsl:template match="loc">
         <span class="loc">

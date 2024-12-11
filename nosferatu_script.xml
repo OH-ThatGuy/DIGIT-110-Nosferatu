@@ -721,8 +721,8 @@
                     existence of ghosts? Did not the count seem to have vampire-like claws and rat's
                     teeth. He jumps up, first running, the sneaking to the door.</dir>
             </scene>
-        </act>
-        <act num="2">
+            <!-- 2024-12-11 ebb This was originally a boundary between two separate files, and we had ended an <act> element here to preserve the XML form. We have removed that artificial boundary 
+            to unite the two halves of Act 1.-->
             <scene num="48">
                 <cam dis="4"> 4 meters</cam>
                 <loc>Dining hall</loc>
@@ -969,7 +969,7 @@
                 <cam>Fade-out.</cam>
             </scene>
 
-            <title>End of Act I</title>
+            <title>End of Act II</title>
         </act>
         <act num="3">
             <title>Act III </title>
@@ -1427,8 +1427,7 @@
                     through gate with coffin Door Hutter Knock escape Nosferatu square or street
                     Room]</dir>
             </scene>
-        </act>
-        <act num="4">
+<!-- 2024-12-11 ebb: We removed another artificial act boundary here to unite two halves of Act 4. -->
             <scene num="111">
                 <cam>4 meters</cam>
                 <loc>Roof Balcony of</loc>
