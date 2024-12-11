@@ -81,6 +81,15 @@
         </section>
     </xsl:template>
     
+    <xsl:template match="scene">
+        
+        <div id="Sn{@num}">
+            <xsl:apply-templates/>
+            
+        </div>
+        
+    </xsl:template>
+    
     
 
     <xsl:template match="loc">
