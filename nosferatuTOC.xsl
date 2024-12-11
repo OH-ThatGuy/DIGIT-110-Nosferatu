@@ -1,108 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns="http://www.w3.org/1999/xhtml"
-    exclude-result-prefixes="xs"
     version="3.0">
     
-    <xsl:output method="xhtml" html-version="5" omit-xml-declaration="yes" include-content-type="no"
-        indent="yes"/>
+    <xsl:output method="xhtml" html-version="5" omit-xml-declaration="yes"/>
     
-    <!-- This XSLT reads all three XML file pieces of the Nosferatu script and outputs a single HTML document assembling all
-        the files into one HTML page. 
-       
-        Below is an xsl:variable set to store a collection of XML documents (stored in our file directory
-    named xml-letters. We need to ignore everything except the XML files in that directory (so XSLT doesn't try to
-    process the Relax NG schema), so the ?select="*.xml" selects only the XML files in the collection. -->
-    
-    <xsl:variable name="travelColl" as="document-node()+"
-        select="collection('letters-xml/?select=*.xml')"/>
-    
-    <xsl:template match="/"><!-- ebb: Set up the XSLT to run against any single XML file, so this 
-    tmemplate has a document node to match on-->
+    <xsl:template match="/">
         <html>
             <head>
-                <title>Behrend Travel Letters</title>
-                <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-                <!--ebb: The line above helps your HTML scale to fit lots of different devices. 
-                Below we include a basic CSS link association line. (Adapt this to your own CSS file.)
-                -->
+                <title>Dracula</title>
                 <link rel="stylesheet" type="text/css" href="style.css"/>
             </head>
             <body>
-                <h1>Behrend's Travel Adventures</h1>
-                <section id="toc">
-                    <h2>Contents</h2>
-                    <table>
+                <h1 id="top"><xsl:apply-templates select="root/title"/></h1>
+                
+                <!-- Table of contents. -->
+                <section id="contents"> 
+                    <table> 
                         <tr>
-                            <th>Letter Date</th><!--first column table heading-->
-                            <th>People Mentioned</th><!--second column table heading-->
-                            <th>Places Mentioned</th><!--third column table heading-->
+                            <th>Scene Number</th>
+                            <th>Locations mentioned</th>
+                            <th>Camera Notes</th>
                         </tr>
                         
-                        <!--ebb: Here we use our $travelColl variable pointing into the collection. -->
-                        <xsl:apply-templates select="$travelColl//letter" mode="toc">
-                            <xsl:sort select="(descendant::date/@when)[1] ! xs:date(.)"/>
-                        </xsl:apply-templates>
-                        <!-- ebb: Notice how we open up xsl:apply-templates to apply xsl:sort. 
-                            This sorts the files in the collection based on the
-                      very first available @when on a date element. We convert it to xs:date to be sure
-                      that XSLT sorts it as the proper datatype. 
-                      -->
+                        <xsl:apply-templates select=".//scene" mode="toc"/>
+                        <!-- ebb: Prepare the table of contents representing each descendant chapter heading,
+                   Hint: use <xsl:apply-templates with @mode here.  -->   
                         
                     </table>
                 </section>
                 
-                <section id="fulltext">
-                    <xsl:apply-templates select="$travelColl//letter">
-                        <xsl:sort select="(descendant::date/@when)[1]"/>
-                    </xsl:apply-templates>
+                <!--Reading view of the chapters here. -->
+                <section id="readingView">
+                    <xsl:apply-templates select="descendant::act"/>
                 </section>
             </body>
         </html>
     </xsl:template>
     
-    <!-- ************************************************* -->
-    <!-- ebb: TOC mode templates for the table of contents -->
-    <!-- ************************************************* -->
-    
-    <xsl:template match="letter" mode="toc">
+    <xsl:template match="act" mode="toc">
         <tr>
             <td>
-                <a href="#{descendant::date/@when}">
-                    <xsl:value-of select="descendant::date/@when" />
-                    <xsl:text>: </xsl:text>
-                    <xsl:value-of select="normalize-space(descendant::headLine)" />
+                <a href="#Sn{@num}">
+                    
+                    <xsl:apply-templates select=".//scene" mode="toc"/>
                 </a>
             </td>
             <td>
-                <xsl:for-each select="descendant::person">
-                    <xsl:value-of select="." />
-                    <xsl:if test="position() != last()">
-                        <xsl:text>, </xsl:text>
-                    </xsl:if>
-                </xsl:for-each>
+                <xsl:apply-templates select="string-join(distinct-values(.//loc), ', ')" mode="toc"/>
             </td>
             <td>
-                <xsl:for-each select="descendant::location">
-                    <xsl:value-of select="." />
-                    <xsl:if test="position() != last()">
-                        <xsl:text>, </xsl:text>
-                    </xsl:if>
-                </xsl:for-each>
+                <xsl:apply-templates select="string-join(distinct-values(.//cam), ', ')" mode="toc"/>
             </td>
         </tr>
     </xsl:template>
     
-    
-    <!-- ************************************************* -->
-    <!-- ebb: templates for outputting the text of the letters -->
-    <!-- ************************************************* -->
-    
-    <xsl:template match="paragraph">
-        <p>
-            <xsl:apply-templates select="$travelColl//letter"/>
-        </p>
+    <xsl:template match="act">
+        <section>
+            <h1 id="a{@num}">
+                <xsl:apply-templates select="title"/>
+            </h1>
+            
+            <xsl:apply-templates select="scene"/>
+      
+        </section>
     </xsl:template>
-    
+
+    <xsl:template match="loc">
+        <span class="loc">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="cam">
+        <span class="cam">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+
 </xsl:stylesheet>
