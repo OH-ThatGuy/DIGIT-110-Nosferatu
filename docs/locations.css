@@ -1,4 +1,3 @@
-/* General Body Styling */
 body {
     background-color: black;
     color: white;
@@ -10,7 +9,6 @@ body {
     min-height: 100vh;
 }
 
-/* Header Styling */
 header {
     background-color: white;
     border-bottom: 2px solid #444;
@@ -24,7 +22,6 @@ header h1 {
     color: white;
 }
 
-/* Navigation (Table of Contents) Styling */
 nav {
     background-color: white;
     color: black;
@@ -74,7 +71,6 @@ nav a:hover {
     text-decoration: underline;
 }
 
-/* Main Content Styling */
 main {
     flex: 1;
     padding: 20px;
@@ -108,7 +104,6 @@ main .scene-content {
     margin-top: 10px;
 }
 
-/* Footer Styling */
 footer {
     background-color: white;
     color: black;
@@ -118,13 +113,12 @@ footer {
     font-size: 0.9rem;
 }
 
-/* Highlighting Locations and Camera Notes */
 span.loc {
     font-weight: bold;
-    color: #9acd32; /* Lime green for emphasis */
+    color: #9acd32;
 }
 
 span.cam {
     font-weight: bold;
-    color: #1e90ff; /* Dodger blue for emphasis */
+    color: #1e90ff;
 }
