@@ -6,33 +6,31 @@ head =
         title,
         mixed { note }
     }
-title = element title {type?, text}
-
+title = element title { type?, text }
 # NOTE: NEED TO ADD TYPE ATTRIBUTE TO TITLE FOR MAIN VS SUB
 # ebb: Suggestion: Just keep it as title, and use an optional @type attribute to separate the main title, so you can process it differently.
 # ebb: Adding a <char> element here wo you can mark the character names! 
 char = element char { who, text }
 who = attribute who { "ellen" | "nos" | "hutter" | text }
-
 # ebb: I added a few simple character values, and you can just add more here? See if you agree with this. 
 note = element note { text }
-act = element act { num, title?, scene+, title?}
+act = element act { num, title?, scene+, title? }
 num = attribute num { xsd:int }
-
 scene =
     element scene {
-        num?,
-        sub?,
-        (cost | char | annot | title | cam | p | loc | time | dir | gapMk | note)+
+        num?, sub?, (cost | char | annot | title | cam | p | loc | time | dir | gapMk | note)+
     }
-    
 gapMk = element gapMk { text }
 # OH: I named this element annot because the script specifically mentions that all bold text is annotations made by F.W. Murnau, maybe we should also specify that it is bold with an attribute?
 # ebb: I added the title element here so you can reference the title cards in the scenes. 
 # ebb: Including a <char> element here wo you can mark the character names! 
-sub = attribute sub { text } # NEED TO VALIDATE TO MAKE SURE ITS ONLY ONE LETTER 
+sub = attribute sub { text }
+# NEED TO VALIDATE TO MAKE SURE ITS ONLY ONE LETTER 
 # Sub scene ext 117a the 117 would be num but the a would be sub
-annot = element annot { mixed{(cost | char | annot | title | cam | p | loc | time | dir | gapMk | note)*} }
+annot =
+    element annot {
+        mixed { (cost | char | annot | title | cam | p | loc | time | dir | gapMk | note)* }
+    }
 # Author F.W. Murnaus bolded annotations from origional text. NOTE ALL BOLD TEXT IS HANDWRITTEN ANNOTATION FROM MURNAU
 p = element p { text }
 # paragraph
@@ -51,13 +49,12 @@ dir =
         type,
         mixed { cost*, annot* }
     }
-    
 # direction either stage or character. 
 # NEED TO WRITE SCHEMATRON TO VALIDATE COST IS ONLY USED WITH TYPE CHAR
 # NEED TO ADD ATTRIBUTE TO DESIGNATE WHICH CHARACTER THE DIRECTION IS FOR
 type = attribute type { "stg" | "char" }
 # either stage or character directions
-cost = element cost {text}
+cost = element cost { text }
 # Costume
 
 # OH: this is still obviously heavily WIP so if anyone has any questions or wants to make changes thats fine
