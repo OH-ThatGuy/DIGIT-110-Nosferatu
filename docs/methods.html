@@ -2,65 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
     <head>
         <style>
-            .heading {
-                width: 100%;
-                text-align: center;
-                border-style: solid;
-                border-width: medium;
-                padding-left: 10px;
-                padding-right: 10px;
-                border-radius: 25px;
-                box-sizing: border-box;
-                border-color: #000000;
-            }
-            
-            .container {
-                float: center;
-                width: 1000px;
-                margin: 0 auto;
-                height: auto;
-                background-color: #000d1a;
-            }
-            
-            .showcase {
-                float: left;
-                background-color: #000d1a;
-                width: 320px;
-                height: 450px;
-                border-style: solid;
-                border-width: 5px;
-                padding-left: 10px;
-                padding-right: 10px;
-                box-sizing: border-box;
-                border-color: #000000;
-            }
-            
-            .header {
-                float: center;
-                background-color: #000d1a;
-                border-style: solid;
-                border-width: 5px;
-                padding-left: 10px;
-                padding-right: 10px;
-                box-sizing: border-box;
-                border-color: #000000;
-            
-            }
-            
-            .desc {
-                float: center;
-                width: auto;
-                background-color: #000d1a;
-                height: auto;
-                padding-left: 10px;
-                padding-right: 10px;
-                box-sizing: border-box;
-                text-align: left;
-            }
-            
-            p {
-                text-indent: 30px;
-            }</style>
+        .image-container {
+            text-align: center;
+            margin: 20px 0;
+        }
+        img {
+            max-width: 90%;
+            height: auto;
+            display: inline-block;
+        }
+    </style>
         <title>Nosferatu Script Analysis</title>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -78,64 +29,30 @@
         </nav>
         <h1>Methods</h1>
         <br />
-        <div class="container">
-            <div class="showcase"> </div>                             <!-- This would hold the code in question -->
-            
-            <div class="header">
-                <h2>XML &amp; Schema</h2>
-            </div>
-
-            <div class="desc">
-                <p>The original script that we based our project from made our xml markup pretty                       <!-- This is the description box for XML -->
-                    difficult to</p>
-                <p>work with. However, we did manage to work around everything</p>
-            </div>
+        <div class="image-container">
+            <img src="images/scene.png" alt="Scene" />
         </div>
-        <br />
-        <div class="container">
-            <div class="showcase"> <img src="images/scene.png" /> </div>                                   <!-- This would hold the code in question -->
-            <div class="showcase"> <img src="images/schema.png" /> </div> 
-
-            <div class="header">
-                <h2>XSLT</h2>
-            </div>
-
-            <div class="desc">
-                <p> </p>                                      <!-- This is the description box for XSLT -->
-            </div>
+        <div class="image-container">
+            <img src="images/schema.png" alt="Schema" />
         </div>
-        <br />
-        <div class="container">
-            <div class="showcase"> </div>                                       <!-- This would hold the code in question -->
-            
-
-            <div class="header">
-                <h2>ID Transformation</h2>                            <!-- Dont forget to change -->
-            </div>
-
-            <div class="desc">
-                <p> This is how we combined all our files into one full marked up script</p>                                                    <!-- This is the description box for any other code we want to put in -->
-            </div>
-            
-            <div class="container">
-                <div class="showcase"> <img src="images/transform.png" /> </div>
+        <h2>XSLT</h2>
+        <p></p>
+        <h2>ID Transformation</h2>
+        <p>This is how we combined all our files into one full marked-up script</p>
+        <div class="image-container">
+            <img src="images/transform.png" alt="Transformation" />
         </div>
-        <br />
         <footer>
-            <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a
-                    property="dct:title" rel="cc:attributionURL"
-                    href="https://github.com/OH-ThatGuy/DIGIT-110-Nosferatu">DIGIT Nosferatu
-                    Project</a> by <span property="cc:attributionName">Owen Helm, Alexander Fisher,
-                    Ryan Dobson</span> is licensed under <a
-                    href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1"
-                    target="_blank" rel="license noopener noreferrer" style="display:inline-block;"
-                    >CC BY 4.0<img
-                        style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
-                        src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"
-                        alt="" /><img
-                        style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
-                        src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"
-                        alt="" /></a></p>
+            <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+                <a property="dct:title" rel="cc:attributionURL" href="https://github.com/OH-ThatGuy/DIGIT-110-Nosferatu">DIGIT Nosferatu Project</a> 
+                by <span property="cc:attributionName">Owen Helm, Alexander Fisher, Ryan Dobson</span> 
+                is licensed under 
+                <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
+                    CC BY 4.0
+                    <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="" />
+                    <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt="" />
+                </a>
+            </p>
             <p><a href="https://github.com/OH-ThatGuy/DIGIT-110-Nosferatu">GitHub Repo</a></p>
         </footer>
     </body>
