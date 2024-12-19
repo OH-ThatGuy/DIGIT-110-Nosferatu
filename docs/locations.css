@@ -45,7 +45,8 @@ nav table {
     font-size: 1rem;
 }
 
-nav th, nav td {
+nav th,
+nav td {
     border: 1px solid #444;
     padding: 10px;
     text-align: left;
@@ -78,7 +79,8 @@ main {
     line-height: 1.6;
 }
 
-main h1, main h2 {
+main h1,
+main h2 {
     color: white;
     margin-bottom: 10px;
 }
