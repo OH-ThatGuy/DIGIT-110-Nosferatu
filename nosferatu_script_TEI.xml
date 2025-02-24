@@ -1,0 +1,2249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>N O S F E R A T U</title>
+                <author>Henrik Galeen</author>
+                <author role = "director">F.W. Murnau</author>
+            </titleStmt>
+            <publicationStmt><p>HELP</p></publicationStmt>
+            <sourceDesc><p>F.W. Murnau's hand annotations
+                and scenes additions and location markers are in Bold Print</p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+        
+        <div type="act" n="1">
+            <head>ACT I</head>
+            <div type="scene">
+                <note>8 meters location shot: Wismar</note>
+                <view>Fade in.</view>
+                <stage>Townscape</stage>
+                <camera>View over the roof's of a small old-fashioned town built in the style of the
+                    1840s. The sun shines peacefully on pointed gables and leafy squares.</camera>
+                <view>Fade out</view>
+                <camera>Two shot, one from the church tower onto the town the other from the harbour
+                    over towards the town. 1st: view of Lübeck. Dissolve to harbour of Wismar</camera>
+            </div>
+
+
+            <div type="scene" n="23">
+                <note>4 meters 2x</note>
+                <view>Fade-in</view>
+                <stage>Outside a window</stage>
+                <stage>There are flowers in green window-boxes. On the window sill a kitten
+                    is playing in the morning sun. With graceful movements she tries to catch a ball
+                    that dangles from a thread. Now the ball is being pulled in through the window.
+                    The cat jumps in af ter it.</stage>
+            </div>
+            <div type="scene" n="34">
+                <stage>Ellen's sitting room</stage>
+                <note>7 meters 2x</note>
+                <stage>Small neat kitchen</stage>
+                <stage>The morning sun casts the shadow of a window frame onto the floor.
+                    Ellen, by the window, is pulling the thread with the ball, the cat follows it
+                    with a leap. Then she puts the little animal on her arm. Playing with it she
+                    sits down on the window sill bathed in sunshine and looks out dreamily. She
+                    squats on the floor opposite the animal and plays with it. Her dressing gown
+                    moves in the breeze, her big child-like eyes a laughing.</stage>
+            </div>
+            <div type="scene" n="34.a">
+                <camera>20 meters</camera>
+                <stage type="costume">Hutter white jabot blue waist coat.</stage>
+                <stage>A small sitting room (attic)</stage>
+                <stage>Poor-looking and tidy. A bed, a chair in the period style. Hutter
+                    is standing in front of the mirror. He is about to put his jack- et on. He
+                    pauses to listen, takes a look through the side window. Smiling happily he
+                    finishes dressing and goes out.</stage>
+            </div>
+            <div type="scene" n="4.a">
+                <stage>A small flower garden</stage>
+                <camera>Shot from above.</camera>
+                <stage>Hutter appears, gardening knife in hand, looks up front of Hutter's
+                    house beaming with joy. He finds a clump of carn- ations, cuts the flowers with
+                    a quick gesture and makes a bouquet.</stage>
+            </div>
+            <div type="scene" n="5">
+                <stage>The small kitchen</stage>
+                <stage>Ellen, still playing with the kitten, hears Hutter coming and jumps
+                    up.</stage>
+                <camera>Shot of cooker</camera>
+                <stage>Ellen comes over and begins to busy herself with the sauce pans,
+                    with a childlike earnestness towards her house-wifely duties.</stage>
+                <camera>Shot of door:</camera>
+                <stage>Hutter is standing in the doorway and laughs and laughs. Hiding the
+                    bouquet behind his back, he laughs and laughs</stage>
+                <camera>Shot of cooker</camera>
+                <stage>Ellen turns around, catches sight of her husband and seems a little
+                    ashamed that she hasn't yet made breakfast. Now Hutter moves closer to her,
+                    looks into the sauce pan holds it upside down indicating that it is empty, and
+                    looks at her reproachfully.</stage>
+                <caption>Ellen!</caption>
+                <stage>She is sulking now and trying to placate him. But he pulls out his
+                    watch; it is late already; he has to go. He kisses her good-bye, but she calls
+                    him back again to confess that she hasn't got any money left to do the shopping.
+                    He pulls out his purse with a sad look and holds it up: there is nothing in it!
+                    They both sigh. He leaves with a heavy heart. The moment she is alone she takes
+                    a small basket of potatoes, which is all she can find, the last resort of the
+                    poor house-wife, and starts peeling them. A potato drops on the floor, the
+                    kitten comes up and plays with it.</stage>
+                <view>Fade-out</view>
+                <stage>They are rushing towards each other, Ellen throws herself into
+                    Hutter's arms</stage>
+                <camera>Long Shot</camera>
+                <stage>He produces the bouquet, hands it to her beaming all over his face.
+                    She is touched then, saddening, she takes the glowers looking at the stems and
+                    stroking them. His voice asks for the reasons of her behavior she says:</stage>
+                <caption>Why have you killed them ... the beautiful flowers?</caption>
+                <stage>Hutter is taken aback for a moment. He apologizes and kisses her.
+                    Then she forgives him, they stand in an embrace.</stage>
+                <camera>Fade-out 2x</camera>
+            </div>
+            <div type="scene" n="5.a">
+                <camera>10 meters</camera>
+                <stage>Lauenburg</stage>
+                <view>Fade in</view>
+                <stage>Street with front gardens</stage>
+                <caption>Professor Bulwer</caption>
+                <stage>Professor Bulwer is walking vigorously, yet slowly along the road,
+                    enjoying the morning and the sunshine. His stick strikes the ground
+                    energetically. Suddenly he stops and turns around. Who is following him in such
+                    haste? Isn't it Hutter? He grasps the passing man by his sleeve; he holds on to
+                    it. Hutter greets him, looking pleased. Bulwer laughs and looking deep into his
+                    eyes says:</stage>
+                <caption>Why so hasty , my young friend? One reaches one's goal soon enough.</caption>
+                <stage>Hutter, of course, doesn't understand him. He has to get to office
+                    quickly. He greets him again and again. Until he manages at last to break free
+                    with a laugh and rushes off. Bulwer stands there for a moment, then he resumes
+                    the regular rhythm of his walk.</stage>
+            </div>
+            <div type="scene" n="6">
+                <camera>6 meters</camera>
+                <caption>Caption: Knock - a house agent</caption>
+                <view>Fade-in</view>
+                <stage>Dusty cramped office</stage>
+                <stage>Pale light is falling through tiny blind window-panes into the
+                    strange room which is eccentrically decorated with bits of old-fashioned
+                    furniture. KNOCK is standing at a high desk. People call him a house
+                    agent.</stage>
+                <camera>Close-up</camera>
+                <stage>Knock's spindly hunch-backed figure. Grey hair, weather- beaten
+                    face full of wrinkles. Around his mouth throbs the ugly tic of the epileptic. In
+                    his eyes burns a sombre fire. He is reading a letter.</stage>
+                <camera>Close-up The letter. On a sheet of paper decorated on the margin with grotesque
+                    vignettes a medley of intricate and quite ill- egible signs.</camera>
+                <camera>Med. Close-up</camera>
+                <stage>Knock seems to be able to make sense of the strange letter, for his
+                    ugly mouth sets into an understanding smile. Then he turns and opens the
+                    door.</stage>
+            </div>
+            <div type="scene" n="7">
+                <camera>5 meters</camera>
+                <stage>Small room ad- joining the office</stage>
+                <stage>Very narrow and dark, totally without sun. Hutter, buried in files.
+                    Knock looks through the door and calls him in.</stage>
+                <note>Another clerk is present</note>
+            </div>
+            <div type="scene" n="8">
+                <camera>30 meters</camera>
+                <stage>The dusty and cramped office</stage>
+                <stage>Knock and Hutter enter. Knock points to the letter with mysterious
+                    gestures and tells Hutter: </stage>
+                <caption>Count Orlock - His grace - From Transylvania wants to buy a beautiful house
+                    in our little Town</caption>
+                <camera>Close-up Knock's demonic face with wide open eyes</camera>
+                <caption>You could make a nice bit of money . . . It will take some effort, however .
+                    . . a few drops of sweat and blood. . . Perhaps a little blood .</caption>
+                <camera>Closeup</camera>
+                <stage>In Hutter's face expressions of mounting joy and strange
+                    apprehension are fighting each other. Yet joy wins in the end.</stage>
+                <camera>Long shot</camera>
+                <stage>Knock digs up and old atlas from the depths of the cabinet and
+                    opens it. His finger runs over a page.</stage>
+                <camera>Closeup The route from England to Transyvania on the map.</camera>
+                <camera>Long shot</camera>
+                <stage>Transylvania? asks Hutter, his eyes suddenly shin- ing at the
+                    thought of a journey. Yet Knock has turned back to the letter, now reading the
+                    last page.</stage>
+                <camera>Closeup The back page of the letter, covered with the same illegible
+                    squiggles.</camera>
+                <camera>Long shot</camera>
+                <stage>Knock seems to be able to make sense of this page too. He turns
+                    back to Hutter who is al- ready day-dreaming about his journey.</stage>
+                <caption>He wants a handsome deserted house.</caption>
+                <camera>Long shot</camera>
+                <stage>For a moment Knock is lost in thought, then he has an idea. He
+                    limps over to the window.</stage>
+            </div>
+            <div type="scene" n="9">
+                <camera>4 meters Window frame, take in Knock</camera>
+                <stage>Section of window View down the street The deserted house. A dilapidated
+                    facade. Black and hollow windows. Not a sign of life. Shadows on it.</stage>
+                <stage>Daytime - Sun</stage>
+            </div>
+            <div type="scene" n="10">
+                <camera>15 meters</camera>
+                <stage>The dusty and cramped office</stage>
+                <stage>Knock walks back from the window and says to Hutter:</stage>
+                <caption>That house...just opposite yours. Offer him that!</caption>
+                <stage>Hutter seems to be a little taken aback, but he rallies around
+                    quickly. Knock urges him to set out on the journey at once, hands him some money
+                    and doc- uments and pushes him to the door.</stage>
+                <view>Fade-out</view>
+                <note>18 meters 2x As in scene 8</note>
+            </div>
+            <div type="scene" n="11">
+                <stage>Room in Hutter's House</stage>
+                <stage>Ellen is sitting by the window. Now she can see him coming. She
+                    waves to him. Her face lights up with joy. She hurries over to the door.
+                    Presently Hutter enters. Moved and happy, he puts his arms around her and tells
+                    her his great news:</stage>
+                <caption>I shall go on a journey far far away to the country of mountains where there
+                    are bandits and ghosts still.</caption>
+                <stage> Ellen is startled. A shadow passes over her forehead. She wants to
+                    hold him back. But he is not listening. He has got to pack; already he is
+                    leaving her.</stage>
+                <view>Fade-out</view>
+            </div>
+            <div type="scene" n="12">
+                <camera>15 meters</camera>
+                <stage type="costume">Frau Schroeder without shawl saddlebags</stage>
+                <stage>The attic room</stage>
+                <view>Fade-in</view>
+                <stage>Hutter is packing his little travelling bag. Ellen appears in the
+                    door behind him. Sud- denly she starts to beg him tearfully, en- treating: Do
+                    not go! I am worried about you! But he rejects her remonstrations. Now he has
+                    finished packing. He gets up. Ellen realizing that he has made up his mind steps
+                    back, resigning herself. But there is fear in her eyes. Seeing her like this he
+                    hes- itates for a moment. But then he embraces her again with determination,
+                    takes up his bag and leaves the room with her.</stage>
+                <view>Fade out</view>
+            </div>
+            <div type="scene" n="13">
+                <camera>15 meters</camera>
+                <stage>(Lord)Harding's park</stage>
+                <stage>Hutter, all ready for the journey, takes his leave from Harding and
+                    his sister Anny. Ellen, weeping is supported by Anny.</stage>
+                <camera>Close-up</camera>
+                <stage>The two men. Hutter, taking both of Harding's hands and looking
+                    deep into his eyes:</stage>
+                <caption>I entrust Ellen to your care.</caption>
+                <stage>Harding promises his friend to look after Ellen, she can live here,
+                    she will never be alone.</stage>
+                <camera>Long shot of all characters</camera>
+                <stage>Hutter gives his hand to Anny and then to Ellen One last farewell
+                    kiss. At this moment her grief is over. As if she had a premonition she
+                    says:</stage>
+                <caption>Farewell! There is no escape left.</caption>
+                <stage> At first they are all startled by these words. Then Hutter breaks
+                    away. Another farewell, another wave of the hand and Hutter vanishes into the
+                    park. Ellen is staring vacantly into the distance.</stage>
+            </div>
+            <div type="scene" n="14">
+                <stage>Square with fountain</stage>
+                <stage>A number of healthy-looking people are walking about in the
+                    sunshine. Tied to the fountain a lonely sattled horse. Hutter appears, mounts
+                    the horse gives one last backward look and gallops off.</stage>
+                <view>Fade out</view>
+            </div>
+            <div type="scene" n="15">
+                <camera>9 meters Schlesische Hutte</camera>
+                <caption>The Carpathian Mountains Wild and rocky mountains. Contre jour</caption>
+                <view>Fade-out</view>
+                <stage>Evening</stage>
+            </div>
+            <div type="scene" n="16">
+                <camera>10 meters</camera>
+                <camera>Long shot</camera>
+                <stage>Outside the Carpathian inn.</stage>
+                <stage>The big mail coach drawn by four horses drives up and comes to a
+                    halt.</stage>
+                <camera>Shot of door of inn</camera>
+                <stage>The inn-keeper, a small old Jew, comes out and sees the
+                    coach.</stage>
+                <camera>Shot of coach:</camera>
+                <stage>Hutter jumps out first. He looks around.</stage>
+                <camera>Long shot:</camera>
+                <stage>The house. One part of brick-walled living area, the other coach
+                    house and open stables Shot of coach In the meantime the other passengers have
+                    got out. Long-haired, black Huzules. All identically dressed and of identical
+                    appearance like ghosts. they go into the house. The inn-keeper has gone up to
+                    Hutter and greets him with an inviting gesture.</stage>
+                <camera>Shot of coach</camera>
+                <stage>The horses are now unharnessed, the coach is being pushed into the
+                    coach house. Night is falling.</stage>
+            </div>
+            <div type="scene" n="17">
+                <camera>8 meters</camera>
+                <stage>servant: Frau Kurz</stage>
+                <stage>Inside the Inn.</stage>
+                <stage>A large smoky room with an enormous tiled stove. A central hanging
+                    lamp throws out dazzling light At tables in the background the passengers.
+                    Hutter who came in last, is standing in the foreground, he looks around and sits
+                    down right in front. At once the old servant approaches with a glass and puts it
+                    down in front of him. He overcomes a strange anxiety that was brought on by the
+                    evening mood in a strange country and puts on a sudden show of liveliness. He
+                    knocks on the table and says:</stage>
+                <caption>Quickly, my meal - I must be off to Count Orlock's castle.</caption>
+                <stage>The servant recoils in horror. The strangely identical looking
+                    passengers, sitting in the background rise up abruptly to stare at him.</stage>
+                <camera>Shot of bar</camera>
+                <stage>The old hunch-backed Jew pricks up his ears.</stage>
+                <camera>Long shot</camera>
+                <stage>Hutter looks around in embarrassment, then takes up his glass
+                    resolutely and downs it in one gulp.</stage>
+            </div>
+            <div type="scene" n="18">
+                <camera>4 meters</camera>
+                <stage>Walddorfsenke</stage>
+                <stage>A grassy slope behind the inn</stage>
+                <stage>The ground falls away towards the back. Night mists are creeping up
+                    from the valley. The horses are put out here to graze. Suddenly, they raise
+                    their heads, as if frightened and, scattering, gallop away.</stage>
+            </div>
+            <div type="scene" n="19">
+                <stage>Inside the inn</stage>
+                <camera>Shot of window:</camera>
+                <stage>The passengers, seen from behind are standing by the win- dow,
+                    looking out apprehensively. The old servant has not go the courage to go up to
+                    where they stand and makes the sign of the cross. Hutter stands alone, looking
+                    around. He is perplexed and wants to ask what is happening. The old servant
+                    comes up to him and whispers into his ear.</stage>
+                <caption>You mustn't go there now there are wolves about Spend the night here.</caption>
+                <stage>Hutter understands and decides to stay.</stage>
+                <view>Fade-out19a</view>
+                <stage>Horses, panicking</stage>
+            </div>
+            <div type="scene" n="20">
+                <camera>6 meters</camera>
+                <stage>A room at the inn.</stage>
+                <stage>A tiny white-washed room with sharp angles: a flickering light from
+                    the old servant's candle. Now Hutter enters. She puts the candle down, goes out
+                    without a word. Her eyes expressing concern for him. Hutter alone. He goes over
+                    to the window, throws it open and looks into the starless night.</stage>
+            </div>
+            <div type="scene" n="21">
+                <note>(missing from script)</note>
+            </div>
+            <div type="scene" n="22">
+                <camera>5 meters</camera>
+                <stage>Inside the inn</stage>
+                <stage>The pale passengers, now without Hutter in the enormous room, look
+                    frightened. They, too, are listening to the hor- rible howling. They look at
+                    each other and are crossing themselves in terror!</stage>
+            </div>
+            <div type="scene" n="23">
+                <camera>20 meters</camera>
+                <stage>The tiny white-washed room</stage>
+                <stage>In the light of the candle Hutter, shivering, closes the win- dow.
+                    He is no longer sleepy. He walks up and down the room restlessly, stopping in
+                    front of a little bookcase.</stage>
+                <camera>Medium close-up</camera>
+                <stage>Looking for something to distract him Hutter pulls out a book at
+                    random.</stage>
+                <camera>Long shot</camera>
+                <stage>He moves back to the candle, sits down on his bed and opens the
+                    book. He gets interested in it.</stage>
+                <camera>Close up The book's title page: VAMPIRE</camera>
+                <stage>The page os being turned over.</stage>
+                <caption>THE NOSFERATU From the bloody sins of mankind a creature will be born which
+                    will seek revenge for the sin committed by the parents and visited on their
+                    children and children's children. Whosoever lusts after blood without reason in
+                    under his spell, the spell of the vampire NOSFERATU.</caption>
+                <camera>Shot of bed Close-up </camera>
+                <stage>Hutter, shaking his head, continues reading Book:...grown up on his
+                    native soil - from which alone he draws his power.</stage>
+                <stage>Hutter shuts the book, having lost interest. It seems confused to
+                    him. He yawns and puts out the candle.</stage>
+                <view>Fade-out</view>
+            </div>
+            <div type="scene" n="24">
+                <camera>12 meters</camera>
+                <view>Fade-in</view>
+                <stage>Small white room at the inn</stage>
+                <stage>Morning sun is flooding in from the window. Hutter wakes up.
+                    Yawning like someone who has slept deeply but not well. He sits up rubbing his
+                    eyes. They fall on the book on the bedside table. He reads the title</stage>
+                <camera>Close-up VAMPIRE</camera>
+                <camera>Normal shot:</camera>
+                <stage>spits on the floor in contempt of the confused rubbish and throws
+                    the book playfully into a corner. Then he pauses to listen, goes over to the
+                    window to open it. He takes a deep breath of the morning air.</stage>
+            </div>
+            <div type="scene" n="25">
+                <camera>6 meters</camera>
+                <stage>Walddorf</stage>
+                <stage>The grassy slope in the morning light. Coachmen and grooms are
+                    rounding up the horses with long whips and lots of shout- ing.</stage>
+            </div>
+            <div type="scene" n="26">
+                <camera>5 meters</camera>
+                <stage>The small room</stage>
+                <stage>Hutter steps back from the window. His eyes are laughing, as he
+                    turns round. He stretches himself happily; then he takes off his shirt, goes
+                    over to the washstand, pours water over his body. He has a proper wash.</stage>
+            </div>
+            <div type="scene" n="27">
+                <stage>Dolny Kubin</stage>
+                <stage>In the yard</stage>
+                <stage>The old servant, mother to all animals, throws corn to her
+                    chickens. There are sparrows, too. Everything is bathed in sunlight.</stage>
+            </div>
+            <div type="scene" n="28">
+                <camera>10 meters</camera>
+                <stage>Outside the Inn</stage>
+                <stage>The bustle of departure. The horses are in harness. The passengers
+                    have got into the coach. Now, in the morning light, one can see their
+                    differences. They are much less uni- form than they had seemed the previous
+                    nightfall. They are chattering noisily to the people who are staying be- hind
+                    and with the peasants and nosy children who are gathered around the coach.</stage>
+                <camera>Close-up</camera>
+                <stage>The coachman is about to climb onto his seat, but the small Jewish
+                    inn-keeper holds him back: one passenger is missing. They look up to the
+                    windows; angry about the delay the coachman cracks his whip a few times.</stage>
+                <camera>Shot of inn:</camera>
+                <stage>Hutter appears in an upstairs window, still only half dressed; he
+                    gives a wave: I am coming. And disappears again.</stage>
+                <camera>Shot of door</camera>
+                <stage>Hutter comes rushing out with his travelling bag.</stage>
+                <camera>Shot of coach</camera>
+                <stage>He climbs to his seat on the coach-box, the horses start
+                    moving.</stage>
+            </div>
+            <div type="scene" n="29">
+                <stage>Outside the inn</stage>
+                <stage>The Huzules take off their hats. The children are waving. The old
+                    servant has joined them. God bless the travellers. May he guard them against
+                    evil spirits. They stretch out their hands as if warding them off.</stage>
+                <camera>Medium close-up</camera>
+                <stage>Hutter breaks into loud laughter.</stage>
+                <view>Fade-out</view>
+            </div>
+            <div type="scene" n="30">
+                <camera>12 meters</camera>
+                <stage>Westerheim</stage>
+                <stage>A Mountain range</stage>
+                <camera>Long-range shot</camera>
+                <stage>In the distance a steep path cutting through the wild scenery, on it
+                    the mail coach creeping slowly upwards.</stage>
+            </div>
+            <div type="scene" n="31">
+                <camera>10 meters</camera>
+                <stage>road to the Schlesische Hütte</stage>
+                <stage>The mail coach</stage>
+                <camera>Medium close-up</camera>
+                <stage>The mail coach is moving into the setting sun</stage>
+                <camera>Medium close-up</camera>
+                <stage>A coach window, and old woman. Hutter leans out, giving the
+                    coachman a push with an umbrella</stage>
+                <caption>Drive on!</caption>
+                <stage>The sun is setting</stage>
+                <stage>Next to her another old woman, identical looking She is staring
+                    into the abyss. Now the first one turns to look in the same direction: two
+                    identical faces.</stage>
+            </div>
+            <div type="scene" n="32">
+                <camera>4 meters View from Schlesische Hütte</camera>
+                <stage>The rocky gorge</stage>
+                <stage>Wisps of mist are rising and falling in the last rays of the setting
+                    sun. Patches of sun and shade</stage>
+                <view>Fade-out</view>
+            </div>
+            <div type="scene" n="33">
+                <camera>10 meters Close to Arler Hütte</camera>
+                <caption>At the crossroad</caption>
+                <stage>A carved madonna casts a long shadow across the road. Behind it an
+                    old woman on her knees, deep in prayer. She lifts her head and looks down the
+                    road. The mail coach approaches, the horses are pulling with difficulty,
+                    breathing hard. She seems to ask herself: do they want to drive to the haunted
+                    castle? and gets into the middle of the road to warn them off. The mail coach
+                    stops. Hutter gets off the coach box. Now he stands at the crossroad. The
+                    passengers are anxious to move on gesturing violently to him not to take the
+                    left fork. But Hutter disregards their shouting He waves farewell with his hat
+                    and walks briskly off.</stage>
+                <stage>Hutter walking past the carved madonna</stage>
+            </div>
+            <div type="scene" n="34">
+                <camera>8 meters Vratna Pass</camera>
+                <stage>Distant mountains</stage>
+                <stage>View through the cut made into the rock by the road into the far
+                    distance. In the background the fantastic castle of Count Orlok in the evening
+                    light. One can see a steep road leading straight up into the sky. Something
+                    comes racing down. A coach? A phantom? It moves with unearthly speed and
+                    disappears behind a ground swell.</stage>
+                <stage>1) Castle Orlok</stage>
+                <camera>dissolve</camera>
+                <stage>2) Steep road between boulders</stage>
+            </div>
+            <div type="scene" n="35">
+                <camera>4 meters Near Schlesische Hütte</camera>
+                <stage>At the crossroad</stage>
+                <camera>Angle as in Scene 33</camera>
+                <stage>Mortally fightened, the coachman beats the horses. The old woman
+                    has disappeared as if swallowed up by the ground. Astonished, Hutter follows the
+                    vanishing coach with his eyes. He is all alone now, standing like this for a
+                    while. Then he pulls himself together and walks resoltuely along the road on the
+                    left.</stage>
+                <view>Fade-out</view>
+            </div>
+            <div type="scene" n="36">
+                <camera>Vratna Pass</camera>
+                <view>Fade-in</view>
+                <stage>Carpathian virgin forest.</stage>
+                <stage>The trees are castling long shadows on the forest path. Hutter
+                    appears. He halts: what's that? Some- thing comes racing up, turns around as if
+                    moved by a hidden force and moving jerkily. Stops dead. Hutter likewise. A black
+                    carriage. No wheels? Two black horses - griffins? Their legs are invisible,
+                    covered by a black funeral cloth. Their eyes like pointed stars. Puffs of steam
+                    from their open mouths, re- vealing white teeth. The coachman is wrapped up in
+                    black cloth. His face pale as death. His eyes are staring at Hutter. Raising his
+                    whip he makes an inviting, almost commanding gesture. He waits. Hutter cannot r
+                    ally enough strength to follow the invitation. Yet those eyes assert their
+                    power. Step by step, as if pulled by invisible threads, Hutter approaches the
+                    uncanny creature. He gets into the carriage. It reverses quick as lightning,
+                    dashes off a disappears.</stage>
+            </div>
+            <div type="scene" n="37">
+                <camera>5 meters At the Vratna Pass, behind Tyer Hora</camera>
+                <stage>A fairy-tale forest</stage>
+                <stage>Empty. By the roadside a wise, man-sized raven. Its shoulders
+                    hunched up. It turns its head listening. Then takes two hops forward and looks
+                    down the road. Who's coming? The familiar vehicle sweeps up and past. A young
+                    man, holding on desperately, sits inside, looking terrified. The raven follow
+                    him with mocking eyes behind glasses.</stage>
+                <stage>Coach drives at top speed through a white forest</stage>
+            </div>
+            <div type="scene" n="38">
+                <camera>5 meters Long shot of a snake- like bend.</camera>
+                <stage>Valley. Deserted lane. Only a lonely twisted will-tree with a
+                    straggly top can be seen. Again the carriage races past. Like an ancient man who
+                    has been disturbed in his rest the tree looks after the vehicle with blank eyes.
+                    Isn't there a grin on its mouth? Drives over stone bridge across deep
+                    gorge</stage>
+            </div>
+            <div type="scene" n="39">
+                <camera>15 meters Poczamok</camera>
+                <stage>Count Orlock's castle</stage>
+                <stage> The arch of a gate in the shade. The silhouette of the carriage
+                    drives underneath it at a sharp angle and disappears in the moonlit spacious
+                    castle yard.</stage>
+                <camera>Shot of castle yard</camera>
+                <camera>Medium close-up</camera>
+                <stage>The porch. The carriage stops in front of it. Al -most in a faint,
+                    Hutter slides down. As if in a whirlpool, the carriage circles round him and
+                    disappears. Hutter turns around and follows it with his eyes. He stands in front
+                    of the closed gate, holding his bag.</stage>
+                <stage>Then, very very slowly the two wings of the gate open up. Somewhere
+                    far back in the dark corridor a man can be seen standing motionless. He is
+                    holding a candle which lights up his chalk-white face. He is waiting. Who is
+                    that? Hutter bounds up the two steps and stands in the doorway. He would still
+                    like to go back. Yet it is too late now. Hesitantly he walks towards the
+                    stranger. Behind him the gate closes</stage>
+                <caption>End of Act 1</caption>
+            </div>
+        </div>
+
+        <div type="act" n="2">
+            <head>Act II </head>
+            <div type="scene" n="40">
+                <stage>Hall.</stage>
+                <camera>Medium close-up</camera>
+                <stage>In the center Orlok, the candle in his hand. The walls of the hall
+                    are plunged in darkness from which Hutter's back emerges. He faces the mot-
+                    ionless figure. It is pale, ghostly creature with hollow eyes and thin mouth the
+                    lord of the cas- tle himself?</stage>
+                <camera>Close-up</camera>
+                <stage>The face twists into a polite grimace. Sharp r atlike teach appear
+                    over the lower lip.</stage>
+                <camera>Medium Close-up</camera>
+                <stage>They are now face to face. It must be the count for this is no
+                    servant's gesture with which he now takes hold of his visitor's bag.</stage>
+                <caption>The servants are asleep It is almost after midnight.</caption>
+                <stage>Hutter's clenched fingers let go. Bag in hand, Orlok turns around.
+                    He holds up the candle and walks ahead. Hutter follows.</stage>
+            </div>
+            <div type="scene" n="41">
+                <stage>Gallery of ancestor's portraits</stage>
+                <camera>Medium Close-up</camera>
+                <stage>One of the castle owner's ancestors , frontal view. For centuries
+                    he has been asleep like this with his eyes closed. Now something approaches. His
+                    eyes begin to move. Two figures are passing: Orlok and his visitor.</stage>
+                <camera>Long shot panorama</camera>
+                <stage>He follows them with his eyes. They walk close to the wall where
+                    portrait follows portrait.</stage>
+            </div>
+            <div type="scene" n="42">
+                <camera>25 meters</camera>
+                <stage>Dining room.</stage>
+                <stage>Gigantic dimensions. In the center a massive Renaissance table.
+                    Somewhere in the distance a fire place. Flanked by two armoured figures. Black
+                    and motionless. In older times this must have been used by knights for their
+                    drinking bouts. Are these their armour? Is that long line that runs across the
+                    wall a crack in the old structure? Or a lance left hanging there? Suddenly,
+                    Hutter notices that the count is waiting. Quickly he hands him the plans of the
+                    deserted house and Knock's letters. With a smile Orlok takes them and begs him
+                    to take a seat. The meal is waiting. Hutter sits down. Orlok lifts up the papers
+                    and studies them.</stage>
+                <camera>Close-up</camera>
+                <stage>Orlok reading. The back page of the letter shows a con- fusion of
+                    numbers, legible and illegible letters. The holy number seven is repeated
+                    several times. In between, cab- balistic signs. The spindly fingers holding the
+                    letter cover up the rest like claws.</stage>
+                <camera>Close-up</camera>
+                <stage>Hutter is spell bound, his eyes wide-open</stage>
+                <camera>Closeup</camera>
+                <stage>Over the top margin of the letter Orlok's eyes appear. He is
+                    looking over to Hutter like a snake about to hypnotize it's victim.</stage>
+                <camera>Close-up</camera>
+                <stage>Hutter eating. He puts a morsel into his mouth. He lifts up his
+                    eyes. His look turns into a stare. He is unable to swallow</stage>
+                <camera>Long shot</camera>
+                <stage>The hall with the halo of light in the center; the figures are
+                    looming above the table.</stage>
+                <camera>Close-up</camera>
+                <stage>An antique clock with a pendulum. A hammer strikes the hour. The big
+                    hand points to 12 o'clock.</stage>
+                <camera>Medium close-up:</camera>
+                <stage>Hutter staring into space as if transfixed. After the twelfth
+                    stroke he drops his knife and fork. The knife grazes his hand, it is
+                    bleeding.</stage>
+                <camera>Medium Close-up</camera>
+                <stage>Quick as lightning the count rushes up to him offering his help. He
+                    prevents Hutter from wiping off the blood. The knife might have been poisoned
+                    The sticky blood should be removed from the cut. His lips are sucking at the
+                    hand hastily. Frightened, Hutter pulls away his hand from his grip. He moves
+                    backwards towards the fireplace.</stage>
+                <camera>Medium Close-up</camera>
+                <stage>By the fireplace. The Count is polite; he has lost his ghostlike
+                    appearance. He is asking for something in a friendly, almost sad manner.</stage>
+                <caption>Shall we stay up together for a little while? It's a long time to go till
+                    sunrise . . . And during the day I am always out and about.</caption>
+                <stage>The Count sits down. And Hutter cannot resist his chivalrous
+                    manner. He sinks back into the massive chair.</stage>
+            </div>
+            <div type="scene" n="43">
+                <camera>18 meters</camera>
+                <view>Fade-in</view>
+                <stage>The same hall</stage>
+                <stage>Hutter wakes up in the large armchair near the fireplace. He can
+                    hardly remember the events of the night. The armchair opposite seems to be
+                    empty. But there is light on it. Hutter's gaze wanders across the hall over to
+                    the window.</stage>
+                <camera>Shot of window It is very high and divided up into small panes. Morning light
+                    is streaming in.</camera>
+                <camera>Shot as before</camera>
+                <stage>An old-fashioned window. An ancient hall, very dusty. Nothing
+                    strange about it. Hutter yawns. His eyes fall on the cut in his hand and he
+                    remembers a few more things. What has he got on his neck? He touches his throat.
+                    Must have been mosquitoes. A mirror! His bag is nearby on the floor. He takes
+                    out his mirror and looks at his neck.</stage>
+                <camera>Close-up The mirror shows two red spots on his neck, very close together.</camera>
+                <camera>Normal close-up</camera>
+                <stage>Why should he worry about a few little spots? he thinks and puts
+                    the mirror away. He yawns once more. But suddenly he stops. What's this? He
+                    looks at the table, astonished.</stage>
+                <camera>Close up: A still-life of food: fruit, a joint, all kinds of gastronomic
+                    delicacies.</camera>
+                <camera>Normal:</camera>
+                <stage>He is overjoyed. He rushes over to the table and begins to eat as
+                    if he were starved.</stage>
+            </div>
+            <div type="scene" n="44">
+                <camera>22 meters Poczamok</camera>
+                <stage>The dilapidated terrace</stage>
+                <stage>Still eating, Hutter steps out into the sunlight. He looks around,
+                    seeming relaxed. He holds a sheet of paper and a pencil in his hands. Then he
+                    casts about for a suit- able place and, leaning against the stone wall He begins
+                    to write a letter.</stage>
+                <camera>Close-up:</camera>
+                <caption>The beginning of the letter: My dearest, my only one. . .</caption>
+                <camera>Normal:</camera>
+                <stage> Hutter stands upright, looking at the clouds. Why does that stupid
+                    mosquito buzzing around his nose stop him from concentrating? He catches it
+                    quickly. And now he knows how to continue. He puts pencil to paper again.</stage>
+                <camera>Close-up:</camera>
+                <caption>Part of the letter:...the mosquitoes are a real pest. I have been stung at
+                    the next by two at once, very close to- gether, one on each side...</caption>
+                <camera>Long shot:</camera>
+                <stage>Hutter keeps writing</stage>
+            </div>
+            <div type="scene" n="45">
+                <camera>14 meters Poczamok</camera>
+                <stage>Forest near the castle</stage>
+                <stage>A man on horseback is approaching. He stops occasionally and peers
+                    over to the castle as if he were scared of it.</stage>
+                <camera>Outside the porch:</camera>
+                <stage>Hutter stands there, waving with the letter. The rider comes up
+                    cautiously and takes the letter without dismounting The he dashes off at a
+                    gallop showing signs of great fear.</stage>
+            </div>
+            <div type="scene" n="46">
+                <camera>15 meters</camera>
+                <view>Fade-in.</view>
+                <stage>Dining room</stage>
+                <stage>Orlok is sitting by the fireplace bent over some plans. Hutter is
+                    standing behind him. Orlok shows more interest in the young man than in the
+                    papers lying in front of him. Looking over his shoulder he asks for some more
+                    information. Hutter rummages among the papers in his bag. A little picture falls
+                    on the table. He wants to hide it quickly, yet Orlok was quicker. He has picked
+                    it up and is looking at it.</stage>
+                <camera>Close up A miniature portrait of Ellen.</camera>
+                <camera>Medium close-up</camera>
+                <stage>Orlock asks about the person in the picture. And Hutter is forced
+                    to answer him.</stage>
+                <camera>Close up:</camera>
+                <stage>Orlok's eyes open wide. His lips look even thinner than before.
+                    Contemplating the picture he whispers:</stage>
+                <caption>What a beautiful throat your wife has...</caption>
+                <camera>Medium close-up:</camera>
+                <stage>Hutter is breathing hard. The fear which grips him in the count's
+                    presence is replaced by a sudden fear for his wife. He forgets himself and
+                    reaches for the miniature. For the first time he touches Orlok's body. The count
+                    jumps up. He raises himself to his full height with triumphant determination and
+                    a glazed look in his eyes, and says, anticipating the horrors to come with
+                    pleasure.</stage>
+                <caption>I shall buy the house... The handsome deserted house opposite yours.</caption>
+                <stage>Quickly, he takes up the contract and signs it. He hands it back to
+                    Hutter. Hutter bows uneasily and retires. Orlok watches him go, a satanic look
+                    has come into his eyes. His hands have turned into claws. Hutter takes his bag
+                    with him</stage>
+                <view>Fade- out:</view>
+            </div>
+            <div type="scene" n="47">
+                <camera>15 meters</camera>
+                <view>Fade-in: Candle is burning</view>
+                <stage>A small room in castle</stage>
+                <stage>Hutter is standing in the middle of the room, quite dazed. He
+                    shakes off his misgivings. He decides to leave tomorrow. He kisses the picture
+                    and starts to undress, when to his amazement he discovers a book in his pocket.
+                    The old book from the inn. Did the inn-keepers wife put it there? Mechanically,
+                    he opens it.</stage>
+                <camera>Close-up: The book</camera>
+                <caption>Chapter II Night is the vampire's element. He can see in the dark which is a
+                    wonderful ability to have in this world half of which is night. We humans,
+                    however, are helpless and blind at night</caption>
+                <camera>Normal</camera>
+                <stage>Hutter shuts the book. A horrible thought has occurred to him. He
+                    is feverish. Is it this book, these ancient walls which make him believe in the
+                    existence of ghosts? Did not the count seem to have vampire-like claws and rat's
+                    teeth. He jumps up, first running, the sneaking to the door.</stage>
+            </div>
+            <!-- 2024-12-11 ebb This was originally a boundary between two separate files, and we had ended an <act> element here to preserve the XML form. We have removed that artificial boundary 
+            to unite the two halves of Act 1.-->
+            <div type="scene" n="48">
+                <camera> 4 meters</camera>
+                <stage>Dining hall</stage>
+                <camera>View from door deep into the dining hall</camera>
+                <stage>By the fireplace Count Orlok, no, not Orlock but a gigantic
+                    vampire, a motionless, sombre watcher in the night. <stage type="costume">Medium close-up</stage>
+                    He looks at Hutter with a fixed glaze. </stage>
+            </div>
+            <div type="scene" n="49">
+                <camera> 6 meters</camera>
+                <stage>The small room.</stage>
+                <camera>Shot of door:</camera>
+                <stage>Hutter. He supports himself against the doorpost. A ter- rible
+                    realization has dawned on him. Shut the door, shut it quickly! There is no bolt.
+                    No lock. He looks around, puts the heavy oak-chair against the door. Is it
+                    possible to escape?</stage>
+                <camera>Medium close-up:</camera>
+                <stage>Window.</stage>
+                <stage>Hutter rushes up and flings it open.</stage>
+            </div>
+            <div type="scene" n="50">
+                <camera> 3 meters</camera>
+                <stage> Tegeler Forest</stage>
+                <stage>Night. Undergrowth.</stage>
+                <stage>A pack of wolves, raising their heads howling.</stage>
+            </div>
+            <div type="scene" n="51">
+                <camera> 8 meters</camera>
+                <stage>The small room</stage>
+                <camera>Long shot:</camera>
+                <stage>Hutter falls on his knees by the side of the bid. Hutter clutching
+                    the bedclothes, he stares at the door behind which the horror is waiting. What
+                    is this? </stage>
+                <camera>Medium close-up:</camera>
+                <stage>Moved by an invisible hand the door opens to half its width in one
+                    single jerk. </stage>
+                <camera>Long shot:</camera>
+                <stage>Hutter. Terrified, he covers his eyes with his arms, pulls at the
+                    bedclothes and shields his eyes. He mustn't see it. He mustn't look!</stage>
+                <view>Fade out.</view>
+            </div>
+            <div type="scene" n="52">
+                <camera>6 meters</camera>
+                <caption>The same night</caption>
+                <stage>Ellen's bedroom at the Hardings</stage>
+                <stage>She wakes up suddenly. She has been dreaming. As if she had seen a
+                    vision ... She has a premonition of danger ... Now she gets up. Moves over to
+                    the window and steps out on to the balcony. </stage>
+            </div>
+            <div type="scene" n="53">
+                <camera>6 meters</camera>
+                <stage>Harding's study Night.</stage>
+                <stage>Harding is sitting at his desk. He hears a noise Rushes out.</stage>
+            </div>
+            <div type="scene" n="54">
+                <stage>Ellen's bedroom</stage>
+                <camera>Medium close-up of door</camera>
+                <stage>Ellen is perching on the edge of the balcony. Harding leading to
+                    the balcony rushes into the room. Discovers that the bed is empty. He shouts:
+                    Ellen! </stage>
+                <caption> Ellen!</caption>
+                <stage>He catches sight of the sleepwalker at the moment when, woken up by
+                    his shouts, she loses her balance and falls over. He runs up to her and gathers
+                    her in his arms. He carries her over to the bed. A servant, alerted by the noise
+                    appears in the door. A doctor! shouts Harding. The ser- vant disappears.</stage>
+            </div>
+            <div type="scene" n="55">
+                <camera>6 meters</camera>
+                <view>Fade-in.</view>
+                <stage>The small castle room</stage>
+                <camera>Long Shot</camera>
+                <stage>Hutter in bed, tense and doubled up. Slowly, Nosferatu creeps up on
+                    him. Irresistible, he bends over the terrified and help- less man and buries his
+                    fangs in his throat.</stage>
+                <view>Fade-out. </view>
+            </div>
+            <div type="scene" n="56">
+                <camera>7 meters</camera>
+                <view>Fade in.</view>
+                <stage>Ellen's bedroom</stage>
+                <camera>Long shot:</camera>
+                <stage>Ellen shouts:</stage>
+                <caption> Hutter!!!</caption>
+                <camera>Long shot:</camera>
+                <stage> Ellen in bed</stage>
+                <stage> ...in delirium. Anny is kneeling by her side. A doctor. Professor
+                    Sievers, is taking her pulse.</stage>
+                <stage>Harding</stage>
+                <stage>Ellen trembles like a wounded bird. She doubles up throws herself
+                    about and retreats into a corner of the bed.</stage>
+            </div>
+            <div type="scene" n="57">
+                <camera>8 meters</camera>
+                <stage>The small castle room Night</stage>
+                <camera>Medium close-up</camera>
+                <stage>NOSTERATU turns his head. He is listening intently as if he could
+                    feel - hear the terrified shouting in the distance.</stage>
+                <camera>Long shot</camera>
+                <stage>NOSTERATU moves away from Hutter's bed. He dissolves into the air!
+                    leaves the room</stage>
+            </div>
+            <div type="scene" n="58">
+                <camera>8 meters</camera>
+                <stage>Ellen's bedroom</stage>
+                <stage> Ellen is calming down slowly. Her terror turns into apathy.
+                    Breathing weakly. </stage>
+                <camera>Medium close-up:</camera>
+                <stage>She settles back listlessly into her pillows. Sievers can tell the
+                    improvement from the pulse-rate and says to Harding:</stage>
+                <caption> Normal congestion of the blood. . . caused by an awkward position during
+                    sleep...</caption>
+                <stage>He has assumed an academic air. His beard trembles in his
+                    eagerness. </stage>
+                <view>Fade-out.</view>
+            </div>
+            <div type="scene" n="59">
+                <camera>3 meters</camera>
+                <stage>Poczamok</stage>
+                <stage> Behind a pointed gable of the castle the sun is rising
+                    slowly.</stage>
+                <view>Fade-out.</view>
+            </div>
+            <div type="scene" n="60">
+                <camera>7 meters</camera>
+                <view>Fade-in.</view>
+                <stage>The small castle room</stage>
+                <stage>The light of dawn is falling through the window as though a
+                    sky-light and moving along the wall until it reaches Hutter's face, looking
+                    half-faint -ing, half asleep. Suddenly he wakes up </stage>
+            </div>
+            <div type="scene" n="60">
+                <note>continued</note>
+                <stage>He starts up and clutches his throat. He jumps out of bed,
+                    clenching his fists, runs over. To the door. Carefully ...he looks out</stage>
+            </div>
+            <div type="scene" n="61">
+                <camera>6 meters</camera>
+                <stage>Dining hall Daytime.</stage>
+                <stage> The room is empty ...Hutter, pale and hollow-eyed, staggers in. He
+                    looks around ...nothing. Shaking his head, fists clenched with wild
+                    determination, he drags himself forward. </stage>
+            </div>
+            <div type="scene" n="62">
+                <camera>6 meters</camera>
+                <stage>Portrait gallery with flight of stairs</stage>
+                <stage>Hutter is dragging himself along with difficulty. He goes down a
+                    few stairs. At the end of the corridor he finds a door. He opens it.</stage>
+            </div>
+            <div type="scene" n="62.a">
+                <stage>A curving gallery exterior</stage>
+                <stage>Hutter opens one door after the other</stage>
+            </div>
+            <div type="scene" n="63">
+                <camera>15 meters</camera>
+                <stage>A vault Empty and dark.</stage>
+                <stage> In the center of the darkness a black coffin. Hutter has pushed
+                    the door open and enters. He starts back. He stares without understanding. Fear
+                    grips him. But he must make certain. Trembling heavily, he lifts up the coffin
+                    lid. He recoils in horror. Dropping the lid, he retreats into the darkest
+                    corner. For inside the coffin he has seen, black and long, the lifeless body of
+                    NOSFERATU. Horror-stricken, Hutter almost collapses. Then he rushes out. </stage>
+                <view>Fade-out.</view>
+            </div>
+            <div type="scene" n="64">
+                <camera>3 meters</camera>
+                <stage> Poczamok Vratna Pass Tatra</stage>
+                <view>Fade in.</view>
+                <stage>Sunset. Between a line of bizarre tree-trunks evening approaches
+                    like a ghost...</stage>
+
+            </div>
+            <div type="scene" n="65">
+                <camera>6 meters</camera>
+                <view>Fade-in.</view>
+                <stage>A niche inside the castle The small castle room.</stage>
+                <stage>Hutter is crouched on the floor. His body is twisted with fear. His
+                    hair is standing on end ...his eyes are staring. Sud- denly, he starts up and
+                    listens. Can he hear a noise in this desolate place? Could it mean his
+                    salvation? With difficulty he drags his weakened body over to the window.</stage>
+            </div>
+            <div type="scene" n="66">
+                <camera>Window frame for out-door shot</camera>
+                <camera>3 meters</camera>
+                <stage> Poczamok The walls of the castle</stage>
+                <stage>seen from outside Hutter stares from a window. He refuses to
+                    believe what he sees. </stage>
+                <camera>The crossbar of a window</camera>
+            </div>
+            <div type="scene" n="67">
+                <camera> [ 12] meters 6 meters</camera>
+                <stage> Poczamok</stage>
+                <stage>One can see a low-wheeled cart with the two fantastic horses
+                    harnessed to it. And now: is it a shadow? A ghost. Nos- feratu. He is moving to
+                    and fro, to and fro. From the cart to the castle. And back again. Carrying
+                    boxes. Black coffin like boxes. From the back door of the castle to the carriage
+                    He piles them up. Box on box. Into a gigantic pyramid. All this happens at an
+                    uncanny speed. </stage>
+            </div>
+            <div type="scene" n="68">
+                <camera>3 meters</camera>
+                <stage>Poczamok</stage>
+                <stage>Part of the castle wall Hutter, staring at the phantom with glazed
+                    eyes.</stage>
+            </div>
+            <div type="scene" n="69">
+                <camera>6 meters</camera>
+                <stage>Poczamok Castle yard</stage>
+                <stage>The carriage is now loaded. Suddenly the phan- tom jumps on to the
+                    topmost box and dis- appears inside it. Instantly the horses dash off with the
+                    cart at lightning speed. The big gate closes behind them with a bang.</stage>
+            </div>
+            <div type="scene" n="70">
+                <camera>8 meters</camera>
+                <stage>The small castle room Hutter jumps back from the window. </stage>
+                <caption>Ellen!</caption>
+                <stage>NOSFERATU is on his way. Ellen is in danger. He has to hurry. Save
+                    Ellen. Ellen! Ellen!. Suddenly, he starts tearing down the wall-hangings and
+                    tearing up the bedclothes . He tears them making long pieces and knotting them
+                    into a rope. </stage>
+                <view>Fade-out.</view>
+            </div>
+            <div type="scene" n="71">
+                <camera>10 meters</camera>
+                <stage>Poczamok The abyss</stage>
+                <stage>Hutter dangling from a window in the castle walls on a rope. But
+                    the rope is too short. Beneath him, the abyss still opens up. And yet he risks
+                    the drop - dead or alive.</stage>
+                <camera>Medium close-up.</camera>
+                <stage> So he hurls himself down. Hutter is lying at the bottom of the
+                    abyss, between trees and boulders. Tossing and turning in fever and pain. So he
+                    tries to lift himself up. But pain seizes him again. Then he faints.</stage>
+            </div>
+            <div type="scene" n="72">
+                <camera>10 meters</camera>
+                <view>Fade-in.</view>
+                <stage>By the river Pruth Waag</stage>
+
+                <stage> The river flows majestically through the immense plain. The scenery
+                    is bathed in sunshine. All is peaceful. Then a large raf t appear s around a
+                    bend in the river and gloats slowly into view. Boatmen with long poles are
+                    pushing it with considerable effort. At the stern a high pile of boxes. Black,
+                    coffin like boxes. Stacked into a pyramid. An uncanny sight. Indefatigably, the
+                    boatmen go on punting The raf t is coming closer and closer - like doom.</stage>
+                <view>Fade-out.</view>
+                <caption>End of Act II</caption>
+            </div>
+        </div>
+
+        <div type="act" n="3">
+            <head>Act III </head>
+            <div type="scene" n="73">
+                <camera>12 meters</camera>
+                <caption>A Budapest hospital</caption>
+                <stage>Hospital Ward</stage>
+                <stage> A long line of white beds. In the foreground, Hutter. In bandages
+                    ... his eyes closed. The doctor comes to him now. He examines him. Questions the
+                    nurse She tells him about the case:</stage>
+                <caption>He was brought in yesterday by Huzules who said he had fallen down a
+                    mountain. He is still feverish ...</caption>
+                <stage>As the doctor continues his examination Hutter wakes up, opens his
+                    eyes. There is fear in his feverish look still. The nurse hurries up to him to
+                    hold him. Yet he crawls away to the end of the bed. Spreads out his hands to
+                    defend himself. Suddenly his eyes go dead. He collapses. His lips are murmuring
+                    something ... The doctor bends over to hear what he is saying. Hutter muttering
+                    to himself</stage>
+                <camera>Medium close-up:</camera>
+                <stage>Doctor and nurse look at each other without understanding.</stage>
+                <view>Fade-out.</view>
+            </div>
+            <div type="scene" n="74">
+                <camera>18 meters</camera>
+                <view>Fade-in.</view>
+                <stage>The port of Varna</stage>
+                <stage>At the quayside, ready for loading, and next to other cargo the pile
+                    of black coffins. Custom officials are examining the lettering and papers. They
+                    are approaching the boxes. The man searches among the papers and hands over the
+                    freight letters to his boss. </stage>
+                <camera>Close-up:</camera>
+                <stage>Freight letter</stage>
+                <stage>Mixed cargo, from Varna to Whitby Content: garden soil for
+                    experimental pur poses. </stage>
+                <camera>Normal shot:</camera>
+                <stage>The inspector smiles incredulously. He orders a search!! Barefooted
+                    dock-workers drag up one of the apparently very heavy boxes, heaving and
+                    swearing. The inspector gives an order. They open the lid with difficulty. There
+                    is earth inside! The inspector gives another order: turn it out! The workers
+                    obey. Sand is falling out nothing but earth . Satisfied, the inspector turns to
+                    another pile of cargo. Yet in the earth . . .something moves violently
+                    ...something is alive ...jumps out...horrible animals ...rats! One of the dock
+                    workers, who bends over to scoop the scatters earth back hits out violently. Did
+                    not one of the animals...reeling from the blow ... bite his foot? </stage>
+                <camera>Long shot:</camera>
+                <stage>The big hand pulley [steam crane] hauls up one of the boxes and
+                    drops it into the belly of the sailing-boat that is anchored at the quay. At the
+                    ship's stern one can discern a name, underneath the baroque figure head;
+                    DEMETER</stage>
+            </div>
+            <div type="scene" n="75">
+                <camera>12 meters</camera>
+                <caption> Professor Bulwer, a Paracelsian, explains the nature of carnivorous plants
+                    to his students</caption>
+                <stage>The institute</stage>
+                <camera>Medium close-up:</camera>
+                <stage>Professor Bulwer, surrounded by a few students, quiet and simple
+                    people. They are listening to his lecture. Now he points emphatically to a plant
+                    with a very strange shape. </stage>
+                <camera>Close-up:</camera>
+                <stage> A flower. Its petals reaching out like tentacles. Motionless. Now.
+                    And insect. Hovering, attracted by the scent . . . settles on the colorful
+                    calyx. There in a flash the tentacles have gripped it. The insect is caught. Its
+                    struggling is in vain. With irresistible force the flower has drawn it into the
+                    recesses of the calyx . . . </stage>
+                <camera>Medium- close-up:</camera>
+                <stage>Bulwer pointing at the flower. Slowly his lips are moving:</stage>
+                <caption> The patient who came in yesterday has had an attack. </caption>
+            </div>
+            <div type="scene" n="77">
+                <camera>12 meters</camera>
+                <stage>Lunatic's cell Sievers and the attendant stop short at the door
+                    way. Straining their eyes to see into the semi- darkness. There, in the corner.
+                    Something moves slowly. It is a man. Now his face is in the light. Like a
+                    panther preparing to leap, his ferocity re- strained, he raises himself up
+                    slowly. His crazed burning eyes staring at Sievers. And now we re- cognize him
+                    at last . . . it is Knock!!! Suddenly, in one leap, he is at the window. Sievers
+                    is startled, says something to the attendant. Who prepares the straitjacket be
+                    brought along. Yet the expected attack does not come. Knock remains at the
+                    window, arms jerking, he begins . . . to catch flies which he puts into his
+                    mouth. Horrible food. The madman's face twists into a grin that resembles
+                    distant lightning. His swollen lips are murmuring something:</stage>
+                <caption>Blood is life! Blood is life!!!</caption>
+                <stage> Suddenly, the madman starts up and throws himself with all his
+                    might on the unsuspecting Sievers. Who can barely ward him off. But the
+                    attendant comes to his help quickly and throws the straightjacket over the
+                    raging man's head. </stage>
+            </div>
+            <div type="scene" n="78">
+                <camera>8 meters</camera>
+                <stage>The Institute:</stage>
+                <stage>Bulwer, in a quiet, scholarly manner with his students. He points
+                    to an aquarium.</stage>
+                <camera>Close-up:</camera>
+                <stage>On a piece of rock in the water hangs a small polyp. Now it
+                    stretches out its tentacles, grabs a small fish and pulls it up to its mouth. It
+                    is almost transparent, colorless and of a jelly-like consistency. </stage>
+                <caption>And this one . . .a polyp with tentacles . . . transparent . . . almost
+                    incorporeal . . . almost a phantom . . . </caption>
+            </div>
+            <div type="scene" n="79">
+                <camera>8 meters</camera>
+                <stage>Lunatic's cell.</stage>
+                <camera>Close-up</camera>
+                <stage>On the floor, in his straitjacket, whining pitifully, mad Knock.
+                    His face. Turning his sad eyes upwards. He notices something there. His lips
+                    form a word:</stage>
+                <caption> Spiders . . . !</caption>
+                <camera>Close-up:</camera>
+                <stage>A spider-web with a live spider which clutches, vampire-like an
+                    insect and is sucking its blood.</stage>
+                <camera>Normal:</camera>
+                <stage>Knock in exultation. Sievers stands motionless . . . does not
+                    understand. Brusquely, he gives an order and leaves. </stage>
+                <view>Fade-out.</view>
+            </div>
+            <div type="scene" n="80">
+                <camera>4 meters</camera>
+                <view>Fade in. </view>
+                <stage>The graveyard of Whitby</stage>
+                <stage>View from the pier-head towards the shore. In the fore- ground the
+                    surging sea. Further back, where the shore rises steeply, the graveyard of
+                    Whitby.</stage>
+                <camera>Closer:</camera>
+                <stage> The graveyard. Afternoon light. In front of the graveyard a long
+                    row of benches. People are strolling up and down looking out on to the sea . . .
+                    sitting on the benches and enjoying the view.</stage>
+                <camera>Medium close-up:</camera>
+                <stage>A bench, somewhat apart from the others. Ellen is sitting there.
+                    Dreamily, her eyes searching a distant country beyond the sea. She seems to be
+                    in an anxious day- dream about her distant lover. Now she shuts her eyes,
+                    because tears are welling up.</stage>
+            </div>
+            <div type="scene" n="81">
+                <camera>4 meters</camera>
+                <caption> Croquet?</caption>
+                <stage>In Harding's Park</stage>
+                <stage>Harding, youthful and athletic, is batting. The shuttlecock flies
+                    high up into the air. Anny, in a light dress, shouts with joy . . . catches it .
+                    . . throws it back. The shuttlecock flies backwards and forwards. It is a
+                    picture of health and light.</stage>
+            </div>
+            <div type="scene" n="82">
+                <camera>6 meters</camera>
+                <stage>At the park gates.</stage>
+                <stage>The postman, a small old man, rummages in his leather bag and
+                    produces a letter which he hands with an air of importance to Harding's servant
+                    who is as old and wizened as he. Before he leaves, the post- man points to the
+                    stamp which seems to be of special value, lifting up his eyebrows: This letter
+                    has travelled ar . . . it comes from a very remote country. The two old men bend
+                    over the rare letter. Then the old servant takes it in.</stage>
+            </div>
+            <div type="scene" n="83">
+                <camera>6 meters</camera>
+                <stage>In the park</stage>
+                <stage>As the servant approaches. Harding and Anny stop playing. Anny
+                    takes the letter, reads the address and runs to her brother. It is for Ellen,
+                    she says, point- ing into the distance. Shall we take it to her straight away.
+                    Harding agrees, they hand their rackets over to the ser- and walk off.</stage>
+            </div>
+            <div type="scene" n="84">
+                <camera>3 meters</camera>
+                <stage>At the graveyard</stage>
+                <camera>Medium close-up:</camera>
+                <stage>Ellen is still sitting there, looking over the vast waters, lost in
+                    her sad longing thoughts.</stage>
+            </div>
+            <div type="scene" n="85">
+                <camera>3 meters</camera>
+                <stage> Heligoland The sea</stage>
+                <stage>Distant view over the sea. A sand bank skirted by rocks, jutting out
+                    into the surf waters.</stage>
+            </div>
+            <div type="scene" n="86">
+                <camera>12 meters</camera>
+                <stage>At the graveyard.</stage>
+                <stage>Harding and Anny are approaching. They are joining the lonely
+                    Ellen. shak- ing hands and trying to cheer her up. Guess what we have brought
+                    you! They show her the letter. Ellen trembles. She takes the letter quickly and
+                    tries to open it! I cannot do it. Gladly and quickly, Anny takes over. You'll
+                    see, he is safe and sound and sends you good news. She starts to read it gives a
+                    joyful laugh, she was right. All is well. The worries were unfounded Happily she
+                    gives Ellen the letter. But barely has she read the letter when Ellen's face
+                    assumes an expression of hurt certainty. Does she derive evil premonitions from
+                    these lines? </stage>
+                <camera>Close up:</camera>
+                <stage> letter.</stage>
+
+                <stage> the mosquitoes are a real pest. I have been stung on the neck by
+                    two at once, very close together, one on each side . . .</stage>
+                <camera>Normal:</camera>
+                <stage>Ellen's face is distorted as if she were suffering physical pain.
+                    Harding and Anny are perplexed. </stage>
+            </div>
+            <div type="scene" n="87">
+                <caption>GALAZ</caption>
+                <stage>The port of Galaz at night.</stage>
+                <stage> The 'Demeter' is anchored off the jetty. Nobody is about on the
+                    quay. A stormy night, strange uncertain light. Sud- denly - a gentle movement
+                    from the ship down the gangway to the shore . . . rats . . .</stage>
+                <view>Fade-out: </view>
+                <stage>The coffins are reloaded</stage>
+            </div>
+            <div type="scene" n="88">
+                <camera>10 meters</camera>
+                <stage>The hospital at Budapest</stage>
+                <stage>Hutter, dressed, stands in front of his bed. He looks pale and weak
+                    still, yet full of resolution. The nurse notices his unsteady stance. She fusses
+                    around him. You ought to stay a few more days! Have some more rest! But he wards
+                    her off. His gestures are restless and fluttering, a strange force has taken
+                    possession of him.</stage>
+                <caption> I have to get home by the shortest possible way! !</caption>
+                <stage> So he says goodbye, disregarding the nurse's advice, thanks her
+                    for her care and goes out quickly. </stage>
+            </div>
+            <div type="scene" n="89">
+                <caption>Constantinople</caption>
+                <stage>The port. Night.</stage>
+                <stage>Wild dogs are barking from the debris in the street up to the
+                    distant firmament, writhing in the mud like snakes.</stage>
+                <camera>Focus on quay:</camera>
+                <stage>The "Demeter" at anchor. What's scuttling over there? . . . A shadow
+                    from the ship to the land . . . rats. . . one. . . four. . . ten . . . and
+                    endless stream . . .the carry terror with them.</stage>
+            </div>
+            <div type="scene" n="90">
+                <camera>8 meters </camera>
+                <stage> Polnischer Kamm Non-stop rain Entry to the Vratna Gorge</stage>
+                <caption> In the Hungarian plain.</caption>
+                <stage>Coach station in the Pusta The mail coach is arriving at top speed.
+                    The coachman whips his exhausted horses into a last effort. The coach has barely
+                    stopped when Hutter jumps off. He calls for more speed. Now fresh horses are
+                    being brought along. Hutter joins the grooms and tells them to hurry on! To
+                    hurry on! The tired horses have been taken out of harness and are being led to
+                    the stable. Bring fresh horses! Hutter gives a helping hand. Now the straps are
+                    done up. The coachman blows his horn. Some late-comers appear. They get into the
+                    coach. Hutter is the last. And the heavy coach rumbles off, the horses gallop-
+                    ing, sparks flying from the hooves, dust rising, into the pathless
+                    country.</stage>
+                <view>Fade- out. </view>
+                <stage>Hutter leads a limping horse through </stage>
+            </div>
+            <div type="scene" n="91">
+                <view>Fade-in:</view>
+                <stage>The port of Constantiople </stage>
+                <camera>Long shot.</camera>
+                <stage> In a fresh breeze, the "Demeter" emerges from the confusion of
+                    mast-heads and gains the open sea.</stage>
+            </div>
+            <div type="scene" n="92">
+                <camera>15 meters</camera>
+                <stage>Lunatic's cell </stage>
+                <stage>In a stupor, Knock is perching on his bunk. The attendant holding a
+                    broom, is about to leave the cell. At this moment Knock lifts his eyes. With a
+                    look of artful cunning and with rigid concentration he follows the attendant's
+                    movements. Now, he seems to have discovered an opportunity; softly, he sneaks up
+                    on the unsuspecting man and takes away the newspaper that sticks out of his
+                    pocket. The attendant does not notice and shuts the door behind him. The moment
+                    Knock is alone he unfolds the paper trembling with expectancy and starts read-
+                    ing. searching for something with wide-open eyes. Now he has found what he was
+                    looking for. He is riveted to this passage. </stage>
+                <camera>Close-up:</camera>
+                <caption>The Newspaper</caption>
+
+                <stage> PLAGUE In Transyvania and in the Black Sear ports of Varna and
+                    Galaz a plague epidemic has started. Young women in particular fall victim to it
+                    in large numbers. All the victims show the same peculiar wound marks on the neck
+                    whose origin is still an enigma to the Doctors The Dardenelles have been closed
+                    to all ships sus- pected of carrying the epidemic. It is out of the question
+                    that the epidemic will reach Western Europe.</stage>
+                <camera>Medium close-up: </camera>
+                <stage>Knock's mocking, triumphant face assumes an expression of demonic
+                    grandeur. He straightens himself up, lifts up his head, raises his arms as if
+                    greeting the evil. </stage>
+            </div>
+            <div type="scene" n="93">
+                <camera>8 meters</camera>
+                <stage>North Sea</stage>
+                <caption>Open Sea</caption>
+                <stage> The Mediterranean. In the distance the "Demeter" sailing through
+                    the waters gleaming in the even- ing light. </stage>
+                <camera>Dissolve. Medium close-up</camera>
+                <stage> The ship's deck</stage>
+                <stage> The ship's mate is running up the companion-way in great agitation
+                    and crosses the deck on his way to the captain's cabin. </stage>
+            </div>
+            <div type="scene" n="94">
+                <camera>8 meters</camera>
+                <stage>In the captain's cabin The captain of the 'Demeter' bent over maps,
+                    making en- tries in the log-book. The mater enters and reports excitedly: </stage>
+                <caption> Below deck a sailor has fallen ill. He is talking in a fever.</caption>
+                <stage> The captan looks up, shocked. He leaves his work and fol- low the
+                    mate.</stage>
+            </div>
+            <div type="scene" n="95">
+                <camera>12 meters</camera>
+                <stage>Below deck.</stage>
+                <stage> In the background the ship's hold. Among other cargo in the deep
+                    darkness the coffins. To be seen through an open door. In the foreground the
+                    crew's cabin with hammocks In one of them the delirious sailor. </stage>
+                <camera>Medium Close-up: </camera>
+                <stage>Captain and mate go up to the patient who stares at them as if they
+                    were ghosts. He seems to listen intently. Every noise makes him start. Shot of
+                    hold Brooding, intense darkness. The lid of one of the coffins seems to open a
+                    little. </stage>
+                <camera>Medium close-up:</camera>
+                <stage> The captain, more angry than concerned, advises the patient in his
+                    uncouth sailor's way to have a strong drink. Promptly the mate produces his
+                    bottle and give it to the patient. The smell seems to wake him up from his
+                    lethargy and he takes a long sip. The captain tells him to have a good rest and
+                    goes out again with the mate. The sailor alone. His eyes wandering . . .
+                    Suddenly, they remain fixed, as if spellbound, on the door leading to the hold.
+                    In horror he sits up and remains in a crouching position as if turned to stone.
+                    Pan to the door lead- ing into the hold. There, horrible and awe-inspiring,
+                    stands NOSFERATU And . . . he . . . approaches.</stage>
+                <view>Fade out</view>
+            </div>
+            <div type="scene" n="96">
+                <camera>10 meters</camera>
+                <stage>Hornunger Moor Lünebur ger Heide</stage>
+                <stage>Wild and desolate scenery In the distance a galloping horseman on
+                    the plain. He comes closer and closer . . . moving at tremendous speed. It is
+                    Hutter. </stage>
+                <camera>Dissolve</camera>
+                <camera>Medium close-up:</camera>
+                <stage>Hutter, standing near his horse and examining its injured hoof.
+                    With a desper ate gesture, he lets go of it. Yet he has made his decision. He
+                    must go on. He takes the horse by the reins and walks on, dragging the limping
+                    animal after him. </stage>
+            </div>
+            <div type="scene" n="97">
+                <camera>12 meters</camera>
+                <caption>The gulf of Biscay</caption>
+                <stage>On deck, the 'Demeter' Evening.</stage>
+                <stage>In the last light of the sun captain and mate are about to push the
+                    shrouded corpse of the last sailor over the railing. They have covered their
+                    mouths and noses with cloths for protection.</stage>
+                <camera>Shot of ship's side </camera>
+                <stage>The corpse is slid down into the water by ropes. On deck. For a
+                    moment the two last survivors pause in quiet contem- plation of the horror of
+                    death. Suddenly, the mate's body stiffens, he has made a resolution. For a short
+                    moment, he shuts his eyes and tries to master the horror that is rising up
+                    inside him. Then he pulls himself together, tears the cloth off his face, takes
+                    up an axe and, brandishing it in the air,</stage>
+                <camera> calls out:</camera>
+                <caption> I'm going down!!! If I haven't come back in ten minutes . . .</caption>
+                <stage> With the courage of a desperate man he hurries over to the
+                    companion-way. </stage>
+            </div>
+            <div type="scene" n="98">
+                <camera>12 meters</camera>
+                <stage>Below deck. </stage>
+                <stage>There are the black boxes. They are the man's target. He lifts his
+                    axe at the first one and shatters its lid. There it is: He is tempted to
+                    retreat. Rats! All round his ankles he feels the crawling of horrible creatures.
+                    Yet he pulls himself together for a second time. Another box, smashed by a
+                    second blow. And the same thing happens again: rats! only rats! He is wading
+                    through wriggling bodies which surround him from all sides. Yet he withstands
+                    the horror. There, a third box. </stage>
+                <camera>Close-up:</camera>
+                <stage>The mate. In despair, foaming at the lips, he prepares for the
+                    third blow.</stage>
+                <camera>Long shot:</camera>
+                <stage> The axe falls from his hand. His hair is standing on end. Quick as
+                    lightning NOSFERATU rears up from the box. Now the mate is finally overcome by
+                    horror . . . Covering his eyes with his hands he runs upstairs, crazy with fear.
+                    Slowly and steadily, NOSFERATU is approaching. </stage>
+            </div>
+            <div type="scene" n="99">
+                <camera>8 meters</camera>
+                <view>Fade-in.</view>
+                <stage>On deck </stage>
+                <stage>The captain is guarding the helm. Then from the hatch, the mate
+                    emerges . . . his hair has turned grey . . . his face looks crazed . . . he is
+                    foaming at the mouth . . trying to escape. . . he sways . . .turns deliriously
+                    in a circle . . .loses his sense of direction. . .does not see the railing. . .
+                    and overshoots it. Falling head first. The captain watches in horror. Now he is
+                    lef t all alone. But his face remains determined. He picks up a rope and ties
+                    himself to the helm, not to be tempted to leave. Thus he awaits the horror. . . </stage>
+                <view>Fade out. </view>
+                <caption>End of Act III</caption>
+            </div>
+        </div>
+            
+        <div type="act" n="4">
+            <head>ACT IV </head>
+            <div type="scene" n="100">
+                <camera>5 meters </camera>
+                <stage> Heligoland</stage>
+                <view>Fade-in.</view>
+                <stage>A cliff by the coast Night</stage>
+                <stage>, roaring surf. The storm is howling. A gigantic wave moves up,
+                    breaks the water splashes high up.</stage>
+                <stage>Moving coach</stage>
+            </div>
+            <div type="scene" n="101">
+                <camera>5 meters</camera>
+                <camera>Anny's room. Night.</camera>
+                <stage>Anny is asleep. The storm is pushing against the windows, opening
+                    them. The curtain is billowing and fluttering in the wind. Anny wakes up.
+                    Confused, Terrified, she jumps up. She tries to shut the win- dow, yet cannot
+                    bring herself to do it. The storm is pushing her back . . . she recoils. She
+                    runs out of the room.</stage>
+
+                <stage>Waves Ellen Anny wakes up Carriage Ellen walking forward Waves
+                    Carriage Hutter Anny wakes up Waves Ellen Anny Boat</stage>
+            </div>
+            <div type="scene" n="102">
+                <camera>3 meters</camera>
+                <stage>Ellen's room at the Hardings </stage>
+                <stage>The storm is sweeping through the open window. The bed is empty . .
+                    . Anny enters. She knows at once what has happened, - rushes out.</stage>
+            </div>
+            <div type="scene" n="103">
+                <camera>4 meters</camera>
+                <stage>Roof of Harding's mansion</stage>
+                <stage> Ellen, her clothes fluttering in the wind, her hair like a flag,
+                    is sleeping in the storm. She stretches out her arms defensively. A white figure
+                    against the black night sky. </stage>
+            </div>
+            <div type="scene" n="104">
+                <note>XXXXXXXXXX</note>
+                <stage>(placement text) </stage>
+
+            </div>
+            <div type="scene" n="105">
+                <camera>6 meters</camera>
+                <stage> Contre jour North Sea</stage>
+                <stage> High Sea. The storm is raging, enormous tidal waves . . . In the
+                    distance a sailing ship, the 'Demeter' at full sail, racing to its perdition.
+                    Trick</stage>
+                <gap extent="Scenes 106 and 107" reason="Missing from source text"/>
+
+            </div>
+            <div type="scene" n="108">
+                <camera>6 meters</camera>
+                <stage>View across the town at night</stage>
+                <stage> The storm is tossing the trees. Sailing boat moving towards it
+                    objective .</stage>
+            </div>
+            <div type="scene" n="109">
+                <note>is missing</note>
+                <stage>(placement text)</stage>
+
+            </div>
+            <div type="scene" n="110">
+                <camera>12 meters</camera>
+                <stage> Wismar Sea</stage>
+                <stage> The storm rages violently. The sand bank threatens 'Demeter', the
+                    fatal ship, has closer, still moving at full speed. </stage>
+                <camera>View from the sea towards the harbor.</camera>
+                <stage> Sailing ships are coming in at full sail. Contre jour (wismar).
+                    Trick Ellen runs out from room Broken axle Ellen runs through garden Ship moves
+                    towards objective Knock 1 Ship coming into the harbor Hutter running street.
+                    Knock Ship in harbour. Nosferatu appears Hutter running through street Nosferatu
+                    through gate with coffin Door Hutter Knock escape Nosferatu square or street
+                    Room]</stage>
+            </div>
+<!-- 2024-12-11 ebb: We removed another artificial act boundary here to unite two halves of Act 4. -->
+            <div type="scene" n="111">
+                <camera>4 meters</camera>
+                <stage>Roof Balcony of</stage>
+                <stage>Harding's mansion</stage>
+                <stage>Ellen in Anny's arm. Her hair is fluttering in the wind. Ellen
+                    stretching her hands towards the sea, as if trying to defend herself.</stage>
+                <note><caption> I must go home. He is coming.</caption></note>
+            </div>
+
+            <div type="scene" n="112">
+                <stage>At the graveyard</stage>
+                <stage>View over the sea</stage>
+                <stage>In the foreground the crosses. In the back sandbank and cliffs.</stage>
+                <stage>In the distance people, hurrying to rescue the ship- wrecked.</stage>
+                <stage>The sand bank . The ship crashes into it . . . turns over on its
+                    side.</stage>
+                <note><camera>View through archway:</camera>
+                    <stage>the sailing boat is moving past. Weimar</stage></note>
+            </div>
+
+            <div type="scene" n="113">
+                <note><camera>4 meters</camera></note>
+                <stage>Lunatic's cell</stage>
+                <camera>Long shot:</camera>
+                <stage>Knock alone. He drags up a chair . . . to the window. He climbs up
+                    on it.</stage>
+                <camera>Medium close-up:</camera>
+                <stage>Knock pulls himself up by the bars, trying to look out. The wind,
+                    blowing in, makes his hair stand on end uncannily.</stage>
+            </div>
+            <div type="scene" n="113.a">
+                <note><camera>10 meters</camera></note>
+                <stage>The stranded ship Dead and forsaken. a rope is dangling from the deck. It is
+                    swaying in the wind.</stage>
+                <camera>Medium close-up</camera>
+                <stage>An endless number of rats climbing down the swaying rope.</stage>
+                <camera>Shot of deck.</camera>
+                <stage>The hatch. It opens slowly.</stage>
+                <stage>NOSFERATU climbs out.</stage>
+                <stage>He carries the last coffin.</stage>
+                <stage>Remains standing. Motionless.</stage>
+                <stage>The image of death. Then he approaches slowly.</stage>
+                <note><stage>1) Ship anchored in the harbor.</stage>
+                    <camera>Dissolve</camera>
+                    <stage>2)Ship's hatch with a piece of deck.</stage>
+                    <stage> Trick: 1) Canvas glides away from hatch. 2) Hatch lid is
+                        lifted. 3) Rats are rushing on deck.</stage>
+                    <stage>4) Nosferatu coffin in arms climbs out.</stage></note>
+            </div>
+            <div type="scene" n="114">
+                <note><camera>8 meters</camera>
+                    <stage>Lauenburg or Travemünde</stage></note>
+                <stage>Town center. Trees, shaken by storm.</stage>
+                <stage>A carriage races up, stops abruptly.</stage>
+                <camera>Medium close-up:</camera>
+                <stage>Hutter jumps from the carriage. </stage>
+                <stage>An axle is broken.</stage>
+                <stage> The coachman seems at a loss.</stage>
+                <stage>Hutter cannot wait. He leaves the carriage and runs of f.</stage>
+            </div>
+            <div type="scene" n="115">
+                <note><camera>5 meters</camera></note>
+                <stage>Archway with a view of the harbor: </stage>
+                <note><stage>Nosferatu enters the town</stage></note>
+            </div>
+
+            <div type="scene" n="116">
+                <note><camera>6 meters</camera></note>
+                <stage>The roof of Harding's mansion.</stage>
+                <stage> Ellen's room at the Hardings' </stage>
+                <stage>Ellen and Anny. Ellen suddenly breaks away. Overjoyed as if she had
+                    a happy vision she throws her arms up and shouts:</stage>
+                <note><caption> I must go to him. He is coming!! </caption></note>
+                <stage>She moves off and vanishes.</stage>
+                <stage>Anny wrings her hands in despair.</stage>
+            </div>
+            <div type="scene" n="117">
+                <note><camera>4 meters </camera></note>
+                <stage>Storm-tossed trees.</stage>
+                <stage>A white figure comes out of the house. It is Ellen. She is running
+                    through the park. </stage>
+            </div>
+
+            <div type="scene" n="118">
+                <note><stage>perhaps Lüneberg Street</stage></note>
+                <stage>Shuttered windows.</stage>
+                <stage>Nosferatu striding</stage>
+            </div>
+
+            <div type="scene" n="118.a">
+                <stage>Hutter, running along the street.</stage>
+            </div>
+
+            <div type="scene" n="119">
+                <note><camera>8 meters</camera></note>
+                <stage>Lunatic's cell</stage>
+                <camera>Long shot:</camera>
+                <stage>Knock, moving away from the window wall</stage>
+                <camera>Medium close-up:</camera>
+                <stage>The madman is listening for outside noises, as if he had received a
+                    signal from the other world . . . triumphantly . . . he whispers to himself: </stage>
+                <note><caption>The master is near . . .the master is near . . .!</caption></note>
+                <camera>Long shot:</camera>
+                <stage>Suddenly, he listens attentively. He creeps over to the door. There
+                    he waits expectantly . . . The door opens. The attendant appears. He looks
+                    around the room. Not noticing that Knock is behind him. Knock creeps carefully
+                    behind his back. Suddenly frightened, the attendant turns around. Knock makes
+                    for his throat like a vampire. The attendant falls over. The madman is at his
+                    throat <note>for a moment only, then he lets go and sneaks out.</note></stage>
+            </div>
+
+            <div type="scene" n="120">
+                <note><camera>5 meters</camera></note>
+                <stage>In front of Hutter's house</stage>
+                <stage>Hutter comes running up. He looks up: no light. He is just about to
+                    enter when - somebody is calling. He turns around Ellen!!!!! They fall into each
+                    other's arms.</stage>
+            </div>
+            <div type="scene" n="121">
+                <stage>Square with fountain</stage>
+                <camera>5 meters</camera>
+                <stage>Nosferatu, cof˚n under his arm, is standing in the middle of the
+                    square. Looking around to orientate himself. Then he strides on.</stage>
+            </div>
+
+            <div type="scene" n="122">
+                <note>4 meters 2x</note>
+                <stage>Hutter's parlour Ellen's sitting room</stage>
+                <stage>A lamp is shining. Hutter and Ellen. They are sitting on the chaise
+                    lounge. The happiness of being reunited was too much. Overpowered by emotion, he
+                    sinks down on her arm. </stage>
+            </div>
+
+            <div type="scene" n="123">
+                <note><camera>4 meters</camera></note>
+                <stage>In front of Hutter's house</stage>
+                <note><stage>Nosferatu, staring up</stage></note>
+            </div>
+
+            <div type="scene" n="124">
+                <note><camera>6 meters</camera></note>
+                <view>Fade-in.</view>
+                <stage>Hutter and Ellen, on the chaise lounge. He sits up, looking deep
+                    into her eyes.</stage>
+                <note><caption> Thank God . . . you are well . . .now everything has come all
+                        right.</caption></note>
+                <stage>She does not understand him. But the joy of being to- gether again
+                    is stronger than anything else. And the room is bright.</stage>
+            </div>
+
+            <div type="scene" n="125">
+                <note><camera>10 meters</camera></note>
+                <stage>Street in front of Hutter's House </stage>
+                <stage>There is nobody about. But in the middle of the street stands
+                    NOSFERATU, hidden by the night, carrying the cof fin. Slowly, he turns his head
+                    and looks over to Hutter's house.</stage>
+                <camera>Shot of Hutter's house The deserted house </camera>
+                <stage>[There is a friendly light in the window] </stage>
+                <note><stage> Empty! Carrying the coffin - Nosferatu appears in picture.
+                    </stage></note>
+                <camera>Medium close-up: </camera>
+                <stage>NOSFERATU. Once more he turns his head. He looks over to the other
+                    side. The deserted house is over there. He makes for that now, walking slow.
+                        <note>Then he goes into the house. </note></stage>
+                <view>Fade-out.</view>
+            </div>
+            <div type="scene" n="126">
+                <note><camera>12 meters</camera></note>
+                <stage>On the stranded ship</stage>
+                <stage>The captain, collapsed in death, is tied to the helm. In the
+                    foreground, some men, Harding among them, are climbing up on deck. They are
+                    aghast at the terrible sight.</stage>
+                <camera>Close-up: </camera>
+                <stage>The dead captain. Tied to the helm in discharge of his duty! One
+                    hand is still on the helm. The other, holding a crucifix, clutches his chest in
+                    mortal agony. His head sunk back, face distorted. There are two red marks on his
+                    neck . . . </stage>
+                <camera>Close-up:</camera>
+                <stage>Harding. He cannot comprehend the horror . . .</stage>
+            </div>
+            <div type="scene" n="127">
+                <note><camera>6 meters</camera></note>
+                <stage>Sandbank harbor The stranded ship is in sight.</stage>
+                <stage>It is night-time</stage>
+                <camera>Long shot: </camera>
+                <stage>In the blowing wind nocturnal figures . . .townspeople</stage>
+                <camera>Close-up: </camera>
+                <stage>Down the tilted hulk a man is climbing along a rope. </stage>
+                <camera>Medium close-up: </camera>
+                <stage>By the light of a torch! the captain of the harbor with a number of
+                    old people . . . Looking like fishermen. The climber approaches and reports. </stage>
+                <note><caption> Everything has been examined . . No living soul on board. The captain
+                        receives the report . . . jots down some notes.</caption></note>
+            </div>
+
+            <div type="scene" n="128">
+                <note><camera>10 meters</camera></note>
+                <stage>On board ship.</stage>
+                <stage>Night</stage>
+                <camera>Long shot:</camera>
+                <stage>Back-board with helm.</stage>
+                <stage>Some men are lifting up the dead captain, and carrying off the
+                    corpse. </stage>
+                <stage>Captain's cabin: </stage>
+                <stage>Harding alone . . . he finds a book next to a masthead that is
+                    affixed to the helm. In the light of a dim lantern he reads: </stage>
+                <camera>Close-up: A page of the book</camera>
+                <p>Varna - July 12 Crew - apart from myself the captain - one helmsman mate and five
+                    sailors. Departing - for the Dardanelles. </p>
+                <camera>Normal Shot:</camera>
+                <stage>Harding shakes his head. He is puzzled.</stage>
+                <note><stage>On deck.</stage>
+                    <stage>Harding emerges from the cabin with the book in his
+                    hand.</stage></note>
+                <view>Fade-out.</view>
+            </div>
+            <div type="scene" n="129">
+                <note><camera>15 meters</camera></note>
+                <view>Fade-in: </view>
+                <note>
+                    <stage>Daytime</stage></note>
+                <stage>Port Authority building A large hall. On the walls a number of figure heads
+                    Models of ships are suspended from the ceiling.</stage>
+                <stage>The dead captain [is carried] in lying in state.</stage>
+                <camera>Medium Close-up:</camera>
+                <stage>Dr. Sievers is examining him. He notices the marks on his neck. Dr.
+                    Sievers turns to Harding.</stage>
+                <stage> He, too, cannot make sense of this case. Nevertheless he talks
+                    incessantly. Harding comes closer shows him the log-book. Both of them are
+                    reading: </stage>
+                <camera>Close-up: The log-book.</camera>
+                <stage> A page: Second day: July 13 A sailor has fallen ill with a fever.
+                    Course: SSW. Direction of wind: Third day: July 14 Mate is talking strangely. He
+                    says there is an unknown passenger below deck. Course SE. Direction of wind NE.
+                    Volume of wind 3.6. </stage>
+                <camera>Normal shot:</camera>
+                <stage>Sievers and Harding are looking at each other. Sievers' white beard
+                    is trembling. They continue reading. Tenth day: July 22 Rats in the ship's hold.
+                    Danger of plague.</stage>
+                <camera>Normal shot: </camera>
+                <stage>Harding has been reading this aloud. Now Sievers understands at
+                    last. He points to the book with his finger. Danger of plague! That's what it
+                    is. Dan- ger of plague, he calls out. </stage>
+                <caption> Danger of plague! Go home! Shut all your windows and doors!</caption>
+                <stage>Deeply frightened, the bystanders move away. The women put the ends
+                    of their head-scarves into their mouths. Panic- stricken .the crowd leaves the
+                    room.</stage>
+                <view>Fade-out.</view>
+                <note>(Perhaps end of act)</note>
+
+            </div>
+
+            <div type="scene" n="130">
+                <note><camera>15 meters</camera></note>
+                <view>Fade-in</view>
+                <stage>A deserted square: Nobody is about. Except in the center of the square, the
+                    town-drummer with his large drum. </stage>
+                <camera>Medium close-up: </camera>
+                <stage>The drummer. He beats a mighty roll.</stage>
+                <camera>Medium close-up: </camera>
+                <stage>A closed window.</stage>
+                <stage>The hatch opens and a woman's head appears: totally emaciated,
+                    sunken cheeks, long dishevelled hair. The disease has gripped her too. On her
+                    neck the ominous little marks. </stage>
+                <camera>Medium close-up: </camera>
+                <stage>The drummer has produced a piece of paper and reads it aloud:</stage>
+                <p>magistrate of this town prohibits any movement of plague-suspects into hospitals
+                    to prevent the plague from spreading through the streets. </p>
+                <stage>The drummer has finished reading and goes off.</stage>
+                <caption>End of Act IV</caption>
+            </div>
+        </div>
+
+        <div type="act" n="5">
+            <head>Act V</head>
+            <div type="scene" n="131">
+                <note><camera>15 meters</camera></note>
+                <view>Fade in.</view>
+                <stage>A bend in a street</stage>
+                <stage>A man emerges from a front door. He shuts the door behind him.
+                    Quickly and with circumspection he chalks a white cross on the door. Then goes
+                    on.</stage>
+                <camera>Panning shot:</camera>
+                <stage>The adjoining house.</stage>
+                <stage>The man knocks hard on the door. From a window above a head looks
+                    out. There are still people living here. The man moves on. </stage>
+                <camera>Panning shot: </camera>
+                <stage>The first house in the side-street.</stage>
+                <stage>A coffin is being carried out. Men carrying it have white bandages
+                    over their mouths. The man comes along and dr aws a cross on this house, too.
+                    Then he walks on, following his horrible business.</stage>
+            </div>
+
+            <div type="scene" n="132">
+                <note>15 meters 2x</note>
+                    <note><stage>shaded candle on table near armchair .</stage></note>
+                <stage>Ellen's bedroom</stage>
+                <note><camera>Close-up:</camera>
+                    <stage>Book-cover Inscription (Vampire) See Chapter 1 of book.
+                    </stage></note>
+                <note><camera>Dissolve to: </camera>
+                    <stage>Ellen by the window, the book on her knees continues reading,
+                        overcoming her aversion. </stage>
+                    <stage>Chapter II appears.</stage></note>
+                <note><camera>Medium close-up:</camera></note>
+                    <stage>Ellen is pondering on what she has read. </stage>
+                    <stage>Hutter comes into the picture, with agitation almost hostility
+                        he grabs the book.</stage>
+                    <stage>Ellen, standing now, looks straight into his eyes, turns and
+                        points over to the deserted house.</stage>
+                    <note>Compare the following black dress and shawl</note>
+                    <stage type="costume">Hutter, black waist-coat and jacket.</stage>
+                <stage>Ellen's room.</stage>
+                <camera>Long shot: </camera>
+                <stage>Ellen by the window. Hutter approaches from the door</stage>
+                <camera>Medium close</camera>
+                <stage>Suddenly, she grabs his arm, stares out of the window pointing out,
+                    she shouts: There!!!</stage>
+                <note><stage>Her body is tensed up like a bow trembling with
+                        excitement.</stage></note>
+            </div>
+            <div type="scene" n="133">
+                <camera>3 meters</camera>
+                <stage>The deserted house Seen through Ellen's window frame.</stage>
+                <camera> Almost at once dissolve to window.</camera>
+                <camera>Medium close-up: </camera>
+                <stage>A window, divided into four rectangular panes. Light from behind.</stage>
+                <stage>Stuck to the window, almost completely covering it, something
+                    looking like a black fourlegged spider. It takes a moment before one can make
+                    out Nos- feratu's fingers which are clawing the window frame. In the center of
+                    the body, grinning lasciviously, the waxen face with ratlike teeth. </stage>
+            </div>
+            <div type="scene" n="134">
+                <note>8 meters 2x</note>
+                <stage>Ellen's bedroom.</stage>
+                <stage>Ellen holds frantically on to Hutter's hand [shaken] breathing
+                    heavily She bends her head back. towards him saying. </stage>
+                <note><caption> This is how I see it- every evening. . .!!! </caption></note>
+                <stage>She bends her head back. She knows all she has to know. And there
+                    is peace in the knowledge.</stage>
+                <stage>Hutter has not come to that yet. He finds her calm- ness
+                    disturbing. He follows the retreating figure with his eyes.</stage>
+                <camera>Medium close-up: </camera>
+                <stage>Ellen is swaying.</stage>
+                <camera>Medium close-up:</camera>
+                <stage>Hutter, despairingly, presses his fist against his face. </stage>
+                <view>Fade-out.</view>
+            </div>
+            <div type="scene" n="135">
+                <camera>6 meters</camera>
+                <stage>In front of Hutter's house</stage>
+                <stage>It is now evening.</stage>
+                <stage>The lamp-lighter comes down the darkening street and lights up the
+                    street-lamps. The he walks on.</stage>
+                <note>! remains!</note>
+            </div>
+
+            <div type="scene" n="136">
+                <note><camera>10 meters</camera></note>
+                <view>Fade-in:</view>
+                <stage>Anny's bedroom</stage>
+                <camera>Long shot:</camera>
+                <stage>Anny crouching on a chaise lounge.</stage>
+                <stage>Bent over her Harding who is holding her hands and trying to calm
+                    down the struggling woman who is shaking fitfully.</stage>
+                <stage> She collapses with exhaustion. Then pulls himself together and
+                    decides: </stage>
+                <note><caption> I will run over quickly . . . I shall get Sievers. And he is
+                        gone.</caption></note>
+                <camera>Medium close-up: </camera>
+                <stage>Anny, having almost fainted with fear, comes to again. She opens
+                    her eyes. She lifts her head. No- body around?? Is she all alone?? Isn't there
+                    some- thing moving about in the corner? Something fluttering at the window? </stage>
+                <camera>Medium close-up: </camera>
+                <stage>The window, covered by the curtain. Behind it the shadow of a giant
+                    bat. It grows and grows. Soon it isn't a bat any long- er. A vampire!
+                    NOSTERATU?! </stage>
+                <camera>Medium close-up: </camera>
+                <stage>Anny's body hits the wall. She jumps up and pulls the bell. Then
+                    half crazed with fear, she runs into the background.</stage>
+            </div>
+            <div type="scene" n="137">
+                <stage>Anny's bedroom.</stage>
+                <camera>Long shot: </camera>
+                <stage>Night.</stage>
+                <stage>Servants running to and fro in the direc- tion of the bedroom.
+                </stage>
+            </div>
+
+
+
+
+
+            <div type="scene" n="137.a">
+                <note><stage>The bell is ringing.</stage></note>
+            </div>
+
+            <div type="scene" n="137.b">
+                <note>
+                    <stage>Servant's room. </stage>
+                    <stage>A servant asleep doesn't hear, turns over in his
+                    sleep</stage></note>
+            </div>
+
+
+            <div type="scene" n="138">
+
+                <note><stage>Anny's Bedroom</stage></note>
+                <note><camera>3 meters</camera></note>
+                <stage>Anny pressed close to the wall.</stage>
+                <stage>Servants are rushing in.</stage>
+                <stage>There! She shouts pointing to the window.</stage>
+                <stage>Like a flock of chicken the women are huddling together.</stage>
+                <stage>Anny rushes over to them, but they are already so gripped by fear
+                    that they imagine her fingers, which they are trying to push back, to be the
+                    vampire's claws. Shrieking, they run off in all directions. The door is slammed
+                    shut. Anny beats against the door. She is waiting for the horror, but she
+                    doesn't want to see it, much rather die first. She grabs a table cloth and
+                    covers her head and neck. Then she collapses.</stage>
+                <view>Fade-out.</view>
+            </div>
+            <div type="scene" n="139">
+                <note><camera>3 meters</camera></note>
+                <view>Fade-in. </view>
+                <stage>Ellen's bedroom</stage>
+                <stage>Daytime.</stage>
+                <stage>Ellen by the window . . .looking out. She stands motionless.
+                    Paralysed by misery she witnesses the daily scene of wretchedness.</stage>
+            </div>
+            <div type="scene" n="140">
+                <note><camera>8 meters</camera></note>
+                <stage>Street in front of Hutter's's house</stage>
+                <stage>Ascending. In the distance, a strange procession is wandering
+                    across the street. One coffin after another carried by survivors. Past Hutter's
+                    house, towards the procession, a man is dragging himself along, tired to death.
+                    She supports himself by a stick. He catches sight of the distant procession and
+                    lifts up his hands to heaven in misery. </stage>
+            </div>
+            <div type="scene" n="141">
+                <stage>Ellen's room.</stage>
+                <note><stage>with window -frame Ellen</stage></note>
+                <stage>Ellen, on the point of fainting, turns away from the window She
+                    cannot bear the sight of this wretchedness any longer. She sinks into a chair,
+                    resting her head in her hands. </stage>
+                <camera>Close-up:</camera>
+                <stage>The book, open. She has been reading it for days </stage>
+                <camera>Close up: A page of the book:</camera>
+                <p> ONLY IF A CHASTE WOMAN CAN FEARLESSLY MAKE HIM MISS THE FIRST CROWING OF THE
+                    COCK WILL HE DISINTEGRATE IN THE LIGHT OF DAWN</p>
+                <camera>Close-up:</camera>
+                <stage>Ellen lifts up her head, staring into space like a visionary. She
+                    knows. She shuts her eyes.</stage>
+                <view>Fade out.</view>
+            </div>
+            <div type="scene" n="142">
+                <note><camera>3 meters</camera></note>
+                <view>Fade-in.</view>
+                <stage>In front of Harding's mansion..</stage>
+                <camera>Medium close-up:</camera>
+                <stage>The porch.</stage>
+                <stage>Harding - haggard - a broken man, comes out. He closes the door and
+                    supports himself against the door-post. His hand reaches up, paints a black
+                    cross on the door . . .and falls down. His hollow eyes refrain from looking at
+                    his work . . . again . . . they cannot bear to see the symbol. He moves forward
+                    with a glazed look in his eyes. </stage>
+                <view>Fade-out. </view>
+                <note><stage type="costume">Harding: black cape, dark trousers</stage></note>
+            </div>
+            <div type="scene" n="143">
+                <note><camera>7 meters</camera></note>
+                <view>Fade-in.</view>
+                <stage>In front of deserted house Street</stage>
+                <stage> A group of emaciated men with a fanatical look about them are
+                    standing around. An unkept-looking woman is haranguing them. They are raising
+                    their fists.</stage>
+                <note><caption> He has been seen! He ran out of the house! He strangled the
+                        attendant!</caption></note>
+            </div>
+            <div type="scene" n="144">
+                <note><camera>8 meters</camera></note>
+                <stage>Well in the market-place</stage>
+                <stage>Two ancient women are sitting by the well. Death has no terrors for
+                    them. Since every new day is a present to them. </stage>
+                <camera>Close-up:</camera>
+                <stage>The are whispering to each other; their heads are trembling.</stage>
+                <caption> In the deserted house. . . that's where it is hiding. He strangled him. The
+                    vampire. </caption>
+                <camera>Medium close-up:</camera>
+                <stage>Further back agitated people are running across the square,
+                    shouting excitedly to one another. The two woman turn around gesturing ˚ercely.
+                    The clench their bony fists threateningly. Harding can be seen behind the well.
+                    He has heard everything. </stage>
+                <camera>Close up:</camera>
+                <stage>He utters a bitter and mocking laugh.</stage>
+                <camera>Long shot:</camera>
+                <stage>Harding walks on.</stage>
+            </div>
+            <div type="scene" n="144.a">
+                <note><camera>10 meters</camera>
+                    <camera>Street shot from above: </camera>
+                    <stage>Crossing. Crowd gathering from all sides, then moving in one
+                        direction.</stage>
+                    <camera>Close-up:</camera>
+                    <stage>A street-corner with a man who points at something above.
+                        People rush up to him; they all turn to face the same way, look up, make
+                        threatening gestures Somebody throws stones. </stage></note>
+            </div>
+            <div type="scene" n="145">
+                <note>
+                    <stage>Gable of a house</stage>
+                    <stage>A figure is crouching on a roof-top</stage></note>
+            </div>
+
+            <div type="scene" n="146">
+                <note><camera>Medium close-up:</camera>
+                    <stage>It is Knock. He is looking down with a sneer on his face and
+                        pokes out his tongue A stone whizzes part him. He suddenly gets up and
+                        clambers off.</stage></note>
+            </div>
+            <div type="scene" n="147">
+                <note><camera>8 meters</camera></note>
+                <stage>Ellen's bedroom</stage>
+                <stage>Ellen in an old armchair, busy embroidering a cushion in the
+                    cross-stitch manner of the 1840s An inscription reading: I LOVE YOU She puts
+                    down her work, resting her head. Tired, she falls to day-dreaming. <note>Then
+                        she lights a lamp.</note>
+                </stage>
+                <camera>Medium close-up:</camera>
+                <stage>Ellen takes up her work again, determined to finish it.</stage>
+            </div>
+            <div type="scene" n="148">
+                <note><stage>Evening</stage>
+                    <camera>4 meters</camera></note>
+                <stage>Back of deserted house.</stage>
+                <stage>The street is empty.</stage>
+                <stage>Knock jumps down a wall and runs off. In the distance some men
+                    appear, chasing him. They catch sight of him and rush af ter him.</stage>
+            </div>
+            <div type="scene" n="149">
+                <note><camera>8 meters</camera></note>
+                <stage>Meadows outside the town</stage>
+                <camera>Shot against a wide expanse of sky.</camera>
+                <stage>In the distance running figures, no more then silhouettes (Turn
+                    slowly) Knock in front. His pursuers following a long way behind.</stage>
+            </div>
+            <div type="scene" n="150">
+                <note><camera>3 meters</camera></note>
+                <stage>Fields. Evening mists. Cornfields waving in the wind.</stage>
+                <stage>Suddenly, right in front between the ears of corn head. Dishevelled
+                    hair. Then a bony back The heads turn around slowly. It is Knock.</stage>
+            </div>
+            <div type="scene" n="151">
+                <note><camera>3 meters</camera></note>
+                <stage>A lane between fields.</stage>
+                <stage>The landscape has grown dim in the evening light. </stage>
+                <stage>The men chasing Knock are approaching. They stop. They seem to have
+                    lost the tr ail. Suddenly, one of them sees something. He opens his eyes wide,
+                    shouting: there!!! They all look one way. They dash off in that direction.</stage>
+            </div>
+            <div type="scene" n="152">
+                <note><camera>10 meters</camera></note>
+                <stage>Cornfield,</stage>
+                <camera>Long-shot:</camera>
+                <stage>In the distance one can still the back and dis- hevelled head. Is
+                    it Knock? He seems not to hear or see his pursuers. The men are coming near,
+                    rushing towards him across the field. They lift their sticks and fists.</stage>
+                <camera>Medium close-up</camera>
+                <stage>A scare-crow. A black coat is dangling on a stick. Bits of straw and tattered
+                    rags.</stage>
+                <stage>The men fall on it in the disappointment. Suddenly they stop.
+                    There! What can that be !!!</stage>
+                <camera>Long-shot:</camera>
+                <stage>A hundred feet away a head has appeared. Then the f igure of a man.
+                    It is moving away quickly. The chase starts up again.</stage>
+                <view>Fade-out.</view>
+            </div>
+            <div type="scene" n="153">
+                <note><camera>3 meters</camera></note>
+                <caption> Night</caption>
+                <stage>Deserted house.</stage>
+                <stage>Medium Nosferatu at the window.</stage>
+                <camera>close-up:</camera>
+                <camera>Dissolve</camera>
+            </div>
+            <div type="scene" n="154">
+                <note>8 meters 2x</note>
+                <stage>Ellen's bedroom</stage>
+                <note><camera>Medium close-up:</camera>
+                    <stage>Ellen wakes up. She sits up in bed, listening as if she had
+                        heard somebody calling her. She gets up, walking as if pulled by invisible
+                        threads.</stage>
+                    <camera>Long shot:</camera>
+                    <stage>She goes over to the window. In the fore- ground Hutter asleep
+                        in an armchair, look- ing worn out.</stage>
+                    <camera>Medium close-up:</camera>
+                    <stage>Ellen is clinging to the window. She sees. </stage></note>
+            </div>
+            <div type="scene" n="155">
+                <note><camera> 3 meters</camera>
+                    <stage>Deserted house.</stage>
+                    <stage>Nosferatu at the window. He raises his arms
+                    slowly.</stage></note>
+            </div>
+            <div type="scene" n="156">
+                <note><stage>Ellen's room</stage>
+                    <camera>Medium close-up:</camera>
+                    <stage>Ellen is about to collapse by the window. Shaking with fear she
+                        struggles violently with herself. The last battle. Twice her hands comes up
+                        to open the window and drops down again weakly; then, with sudden
+                        determination, she pulls herself up dead straight and deliberately throws
+                        the window wide open. </stage></note>
+            </div>
+
+            <div type="scene" n="157">
+                <note><camera>4 meters</camera>
+                    <stage>Deserted house.</stage>
+                    <camera>Medium close-up: Window</camera>
+                    <stage>Nosferatu moves away from the window, turns around and
+                        disappears.</stage></note>
+            </div>
+
+            <div type="scene" n="158">
+                <note><camera>4 meters</camera>
+                    <stage>Ellen's room.</stage>
+                    <camera>Close-up: </camera>
+                    <stage>Ellen trembling with fear and apprehension</stage></note>
+            </div>
+            <div type="scene" n="159">
+                <note><stage>Deserted house</stage>
+                    <camera>Medium close-up</camera>
+                    <stage>Locked-up gates</stage>
+                    <stage>Suddenly the gates swing open:</stage>
+                    <stage>Nosferatu appears </stage></note>
+            </div>
+            <div type="scene" n="160">
+                <note>12 meters 2x</note>
+                    <stage>Ellen's room.</stage>
+                    <camera>Medium close-up: </camera>
+                    <stage>Ellen is covering her face with her hands, seized with mortal
+                        fear. </stage>
+                    <camera>Long shot; window moves out of picture</camera>
+                    <stage>Ellen at window. She wants to call for help. She staggers
+                        forward. She stops in front of Hutter. One last moment of indecision. Then
+                        she wakes him up. Hutter jumps to his feet. He catches the trembling figure
+                        in his arms. and carries her over to the sofa. She begs him, hands raised as
+                        if in prayer:</stage>
+                    <stage>Bulwer . . . Fetch Bulwer!</stage>
+                    <stage>She entreats him to go. Hutter takes her hands, she quickly
+                        kisses his head, Then he rushes out.</stage>
+            </div>
+            <div type="scene" n="161">
+                <note><camera>3 meters</camera>
+                    <stage>In front of Hutter's House. A path bordered by flowers. </stage>
+                    <stage>Hutter rushes out.</stage>
+                    <stage type="costume">Trousers, pleated shirt, collar without tie. No hat no waist coat.</stage>
+                </note>
+            </div>
+            <div type="scene" n="162">
+                <note><camera>5 meters</camera>
+                    <stage>Ellen's room</stage>
+                    <camera>Long shot.</camera>
+                    <stage>Ellen is still looking in the direction she saw Hutter leave,
+                        then she gets up and walks toward the window.</stage></note>
+            </div>
+            <div type="scene" n="163">
+                <note><stage>Deserted house.</stage>
+                    <camera>Long Shot:</camera>
+                    <stage>Nosferatu is walking forward and moves out of the
+                        picture.</stage>
+                    <stage>The house looks more deserted than ever!</stage></note>
+            </div>
+
+            <div type="scene" n="164">
+                <stage>In front of Hutter's house</stage>
+                <note><stage>Nobody is about.</stage>
+                    <stage>Nosferatu is approaching. He comes to a halt. (He is preparing
+                        to jump, looks up) He enters the house.</stage></note>
+            </div>
+
+            <div type="scene" n="165">
+                <note><stage>Ellen's room</stage>
+                    <stage>Ellen turns around suddenly. She is shaking with fear,
+                        anticipating the horror about to happen. And it is coming - - slowly, tensed
+                        like a predatory animal. She recoils, moves backwards step by step, and step
+                        by step it follows her Heart! - Hand</stage></note>
+            </div>
+            <div type="scene" n="166">
+                <note><camera>6 meters</camera></note>
+                <stage>Bulwer's laboratory</stage>
+                <stage>(Living room)</stage>
+                <stage>In addition to the already familiar fish tanks there is a large telescope by a
+                    window. A profusion of antiquated scientific gadgets, globes etc. A lamp is
+                    burning.</stage>
+                <stage>Bulwer asleep in <stage type="costume">dressing-gown and night-cap</stage> in the
+                    armchair. Cages with birds and all kinds of animals. Hutter rushes in. He wakes
+                    Bulwer, begs him to come with him. Bulwer starts to get dressed.</stage>
+            </div>
+            <div type="scene" n="167">
+                <stage>A municipal building on the period (town hall)</stage>
+                <stage>A large crowd is gathering in front of the town hall. Knock has
+                    been captured. More people keep pouring in from all sides.</stage>
+                <note>Omitted</note>
+            </div>
+            <div type="scene" n="168">
+                <camera>5 meters</camera>
+                <stage>An office room inside the town hall</stage>
+                <stage>Sievers rushes in excitedly from the adjoining room accompanied by
+                    a man who has brought him the news. From the other side Knock is being brought
+                    in. The lunatic is trembling with fear. exit</stage>
+            </div>
+            <div type="scene" n="169">
+                <note><camera>4 meters</camera></note>
+                <stage>Ellen's room</stage>
+                <stage>Night.</stage>
+                <stage>Ellen in bed, the strangler is at her throat, his fingers clawing
+                    her arms. Her eyes, widened in mortal fear, have a glazed look. Then she seems
+                    to have heard something.</stage>
+            </div>
+            <div type="scene" n="170">
+                <stage>A cock jumps on to a still-life farm implements. He flaps his wings,
+                    puffs up his throat and her- alds the morning.</stage>
+            </div>
+            <div type="scene" n="171">
+                <note><camera>6 meters</camera>
+                    <stage>Siever's lunatic's cell</stage> Knock</note>
+                <stage>Knock Inside the town hall Knock at the window, held by two men.
+                    Trying to ward them off, he shouts anxiously:</stage>
+                <note><caption> The master . . . the master . . .!</caption></note>
+            </div>
+            <div type="scene" n="172">
+                <stage>Ellen's room.</stage>
+                <stage>Nosferatu raises his head. He looks drunk with pleasure. Ellen eyes
+                    are full of terrible fear. She must not allow Nosferatu just to go. She pulls
+                    her arms around him: he cannot resist and bends his head over her again.</stage>
+                <note>Omitted</note>
+            </div>
+            <div type="scene" n="173">
+                <note><camera>3 meters</camera></note>
+                <stage>The sun is rising over the small town.</stage>
+            </div>
+            <div type="scene" n="174">
+                <stage>Ellen's room</stage>
+                <stage>Ellen's last moment of apprehension.</stage>
+                <stage>There, isn't that a flicker of sunlight on the wall over her bed?</stage>
+                <stage>Here eyes light up hopefully and remain fixed on this first sign of
+                    the new day. She stretches out her hand for it. And look: it is moving
+                    downwards.</stage>
+            </div>
+            <div type="scene" n="175">
+                <note><camera>5 meters</camera></note>
+                <stage>Street with front gardens</stage>
+                <stage>The long shadows of sunrise.</stage>
+                <stage>Nobody is about</stage>
+                <stage> Then shoulders of Hutter and Bulwer appear. They are hurrying on
+                    and turning into a side street.</stage>
+            </div>
+            <div type="scene" n="176">
+                <note><camera>8 meters</camera></note>
+                <stage>Ellen's room</stage>
+                <stage>The bed is bathed in sunlight.</stage>
+                <stage>Ellen's eyes are full of anticipation</stage>
+                <stage>. Has she sacrificed herself in vain? Suddenly the horrible figure
+                    jerks himself up. He looks about in amazement. He clutches his heart. The
+                    bestial tenseness of his bearing relaxes. For a moment he stands, legs apart, as
+                    if trying to regain his balance. He clutches his heart again and falls on his
+                    knees, his face turned to the sun, distorted by pain.</stage>
+            </div>
+            <div type="scene" n="177">
+                <note>Siever's lunatic cell <camera>Knock 5 meters</camera></note>
+                <stage>Town hall</stage>
+                <camera>Medium close-up:</camera>
+                <stage>Knock, in a <stage type="costume">straitjacket</stage>, alone in the sunlight which
+                    is falling through a barred window. He is mumbling disconnected words:</stage>
+                <caption> The master . . .the master . . . is dead.</caption>
+                <stage>His head sinks on to his chest.</stage>
+            </div>
+            <div type="scene" n="178">
+                <note><camera>8 meters</camera></note>
+                <stage>Ellen's room</stage>
+                <stage>Nosferatu on his knees, supporting himself with one hand on the
+                    ground. He raises the other in the direction of the sun to shield himself from
+                    the light that brings him death. But he cannot hold out against the sun. His
+                    fingers, his hand, his arm are dissolving in the light. The sun seems about to
+                    strike his heart. Now his body is dis- integrating in the light. Ellen throws up
+                    her hands triumphantly calling:</stage>
+                <caption> Hutter!</caption>
+            </div>
+            <div type="scene" n="179">
+                <camera>4 meters</camera>
+                <stage>In front of Hutter's House</stage>
+                <camera>Shot looking out from the doorway into the distance.</camera>
+                <stage>Bulwer and Hutter are running, not just walking into the
+                    house.</stage>
+            </div>
+            <div type="scene" n="180">
+                <camera>8 meters</camera>
+                <stage>Ellen in bed.</stage>
+                <stage> In anticipation, her hand reaches out for Hutter. Hutter comes
+                    rushing in, falls on his knees by the bed. He t akes hold of her hand.</stage>
+                <camera>Close-up:</camera>
+                <stage> Her hand grasps his, the it lets go weakly and drops away. Ellen's
+                    head falls over - - - - Bulwer is standing at the window, hands behind his back
+                    looking out.</stage>
+                <caption>THE END</caption>
+            </div>
+        </div>
+
+    </body></text>
+</TEI>
